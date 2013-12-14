@@ -1,0 +1,16 @@
+#var player Ethelred
+#var wep1 glass.sabre
+#var wep2 steel.dagger
+#var belt belt
+#var light lamp
+#alias helpfight au
+#act {A pile of steel coins} {gc}
+#var mount griffon
+#act {You can't do that while on your mount} {dism}
+#act {You cannot reach it from your mount} {dism}
+#act {You can't do this from your mount} {dism}
+#act {You should dismount first} {dism}
+#alias {agcc} {#act {The death cry} {gcc}}
+#alias {ngcc} {#act {The death cry} {grin}}
+#alias {uo} {unlock %1 %2;open %1 %2}
+#alias {uog} {uo %1 %2;ga %1 %2}

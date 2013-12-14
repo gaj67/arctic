@@ -1,0 +1,116 @@
+Object 'hoopak stick'
+ Item Type: WEAPON
+ Mat Class: wood         Material: pine
+ Weight   : 5            Value   : 10
+
+ Item is  : HUM
+ Class    : staff
+ Damage   : 2D6
+
+Mace from haven
+ Object 'mace heavy flanged'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 9            Value   : 60
+
+ Class    : mace
+ Damage   : 3D3
+
+ Object 'hammer spiritual'
+ Item Type: WEAPON
+ Mat Class: other        Material: gas_vapour
+ Weight   : 1            Value   : 0
+
+ You sense that this item affects combat prowess.
+ Item is  : GLOW MAGIC ANTI_GOOD ANTI_EVIL NODROP
+ Class    : smite
+ Damage   : 2D5
+
+ Object 'sword short dark'
+ Item Type: WEAPON
+ Mat Class: metal        Material: iron
+ Weight   : 10           Value   : 500
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC ANTI_EVIL
+ Restricts: NOPALADIN NODRUID NOCLERIC NORANGER NOBARBARIAN NOSHAMAN
+ Class    : short_sword
+ Damage   : 2D6
+
+
+ Object 'dagger kryss vicious'
+ Item Type: WEAPON
+ Mat Class: metal        Material: mithril
+ Weight   : 5            Value   : 100
+
+The foul dagger leaps at you! You quickly turn and thrust it away.
+You cannot discern anything else.
+
+ Object 'scimitar ebony black'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 40
+
+ You sense that this item affects combat prowess.
+ Item is  : HUM MAGIC
+ Restricts: NOMAGE NOTHIEF NOCLERIC NOSHAMAN
+ Class    : scimitar
+ Damage   : 2D6
+
+ Object 'flail steel'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 140
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : BLESS
+ Class    : flail
+ Damage   : 2D9
+
+ Object 'hammer copper heavy' [Palanthas]
+ Item Type: WEAPON
+ Mat Class: metal        Material: copper
+ Weight   : 15           Value   : 120
+
+ You sense that this item affects abilities.
+ You sense that this item affects resistances.
+ Affects  : STR           by 1   ] via legend lore
+ Affects  : RESIST_ELECTR by -5  ]
+ Item is  : HUM MAGIC
+ Class    : hammer
+ Damage   : 4D3
+
+You feel informed:
+ Object 'sword long odd'
+ Item Type: WEAPON
+ Mat Class: metal        Material: bronze
+ Weight   : 6            Value   : 30
+
+ You sense that this item affects combat prowess.
+ Item is  : MAGIC
+ Class    : long_sword
+ Damage   : 2D6
+
+You feel informed:
+ Object 'dagger hilted ivory sharp steel'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 5            Value   : 75
+
+ Affects  : HITROLL       by 4
+ Item is  : MAGIC
+ Class    : dagger
+ Damage   : 2D6
+
+You feel informed:
+ Object 'blade sharp silver'
+ Item Type: WEAPON
+ Mat Class: metal        Material: silver
+ Weight   : 5            Value   : 250
+
+ Affects  : HITROLL       by 3
+ Item is  : MAGIC
+ Class    : short_sword
+ Damage   : 4D3
+

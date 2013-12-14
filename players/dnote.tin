@@ -1,0 +1,4 @@
+#var player Dnote
+#var wep1 mithril.dagger
+#var wep2 crystalline.dagger
+#alias helpfight au

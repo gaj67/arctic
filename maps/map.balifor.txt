@@ -1,0 +1,23 @@
+                 Map of Port Balifor
+
+                    (12)|  |
+__________________      |  |
+         _______  |_____|  |______________
+        +    Dock Road       Cannery Road |                -/- Key -/-
+Balifor | +---+  +------+  +-------+ +----+
+ Docks  + |   |  |      |  |       | |                  (1)  Pig And
+          |   +--+      |  | +-----+ |                        Whistle inn
+        + |             |  | +-----+ |  Temple          (2)  Balifor Well
+        | +-------------+  |   (3) | |    of            (3)  Thieves' Guild
+        |   Guild Road     |       | | Hiddukel         (4)  Component Shop
+        | +-------------+  |       | |   +-+            (5)  Arrow Shop
+        | |         (10)|  |(11)   | |   | |            (6)  Blacksmith
+        | | (4)(5)(6)   |  |    (2)| |   | |            (7)  Balifor Bank
+        + +-------------+  +-------+ +---+ +-------     (8)  Jeweler's
+Balifor    __ __ __ ____    _______   _______  ____Jail (9)  Grocery store
+ Docks  | | (9)(8)(7)   |  |       | |      City        (10) Boat Yard
+        | |___          |  |      /   \     Dump        (11) Stables
+             Fish       |  |      |(1)|                 (12) Caravan
+____________Market      |  |      +---+                       Checkpoint
+                        |  |      +---+
+

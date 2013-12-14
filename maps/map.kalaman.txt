@@ -1,0 +1,26 @@
+                    The City of Kalaman
++===========================+NG+===========================+  -/- Key -/-
+|   ________________________    ________________________   |
+|  /                        |  |[6][4]     Fighter's    \  | [1]  Bank
+| |        Veteran's  [10]     +- -- -------+  Academy   | | [2]  Component
+| |          Park           |  +---- ------+ +           | |         Shop
+| |                         |  |   [3]     | |           | | [3]  Weapon Shop
+| |                         |  |           | Guard House | | [4]  Armoury
+| |        Temple  [8]     /    \  [1]     | | [2]       | | [5]  Tavern
++ +---------- ------ -----|-+  +-|-- ------+ +-- --------+ + [6]  Arrow Shop
+WG                        |Square|                        EG [7]  Magic Shop
++ +--  ------ ------ -----|-+  +-|---------  -+ +--------+ + [8]  General
+| | [11]   Mage's  [7]     \    /         [13]| |        | |       Store
+| |        School           |  |              | |    [12]  | [9]  Stables
+| |                     Inn      Diner        | |        | | [10] Park
+| |                         |  |              | | | |[5] | |       Fountain
+| |              ___________|  |______________| |_| |____| | [11] Calof's
+|  [9]          |___________    __  _____________________  |       Mansion
+| |        Warehouse        |  | Dump                    | | [12] Barbarian
+|*+-------------------------+  +-------------------------+ |       Guild
++===========================+SG+===========================+ [13] Cloth Shop
+                            |  |[14]                         [14] Caravan
+                                                                  Checkpoint
+
+
+* locked grate down to dungeon, etc. inside hidden temple is bad guy and treasure, go mostly e&s.

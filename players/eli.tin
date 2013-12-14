@@ -1,0 +1,12 @@
+#var player Eli
+#var wep1 longsword
+#var wep2 dark.sword
+#var wep sword
+#var pouch large.pouch
+#var belt belt
+#act {Lara pierces} {#if {$fight<1} {#var fight 1;ar}}
+#act {Dnote pierces} {#if {$fight<1} {#var fight 1;ar}}
+#var light lantern
+#alias helpfight ar
+#alias wep {rem $light;wield $wep}
+#alias light {rem $wep;hold $light}

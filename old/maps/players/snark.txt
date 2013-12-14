@@ -1,0 +1,21 @@
+#alias gac get all corpse
+#alias dgac {rem 2.kryss;hold lantern;get all corpse;rem lantern;wield kryss}
+#alias en {env kryss;env 2.kryss}
+#alias b {en;back %1}
+#alias z {sneak;fade %1;hide;detect}
+#alias rr {get glowing.scroll belt;recite recall}
+#alias fn {fade n}
+#alias fs {fade s}
+#alias fe {fade e}
+#alias fw {fade w}
+#alias fu {fade u}
+#alias fd {fade d}
+#act {^You wince as you} {ban me}
+#act {You are hungry} {eat bread}
+#act {You can't seem to find it} {get bread pouch}
+#act {You are thirsty} {drink water}
+#ticker {fred} {sav} {60}
+#act {^You are sent sprawling} {stand}
+#act {^You apply bandages to your wounds} {sav;st}
+#session s mud.arctic.org 2700
+#act {What is you character's name?} {snark}

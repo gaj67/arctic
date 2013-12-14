@@ -1,0 +1,24 @@
+#alias kk {kick %1;disarm;punch;parry}
+#alias kb {kick %1;punch;bash;stand}
+#act {Your punch hand is ready} {punch;parry}
+#alias pk {punch %1 %2;kick;parry}
+#alias kp {kick %1;parry}
+#act {You fail the parry attempt} {parry}
+#act {You go back on the offensive} {parry}
+#act {A primal need to kick} {kick;parry}
+#act {tumble forward onto your face} {stand;bash}
+#act {You fail to disarm} {disarm;parry}
+#act {fail to disarm it} {disarm;parry}
+#act {Your feeble rescue} {rescue}
+#alias {kd} {kill %1;disarm}
+#alias {ar} {assist;rescue;disarm;kick;punch;parry}
+#alias ubb {#act {manages to unbalance} {bash}}
+#alias nubb {#unact {manages to unbalance}}
+#alias tr {#act {%1 leaves} {track %1}}
+#alias pd {punch %1;dis}
+#alias pb {punch %1;bash}
+#alias pp {punch %1;parry}
+#act {You try to sweep} {kick}
+#act {your kick misses} {kick}
+#act {You deliver a snap kick} {kick}
+#act {Your vicious kick} {kick}

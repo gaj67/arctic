@@ -1,0 +1,32 @@
+#alias ef {eat food}
+#alias dw {drink water}
+#alias fa {drink %1;drink %1;fill all %1}
+#alias gac get all corpse
+#alias rr {get glowing.scroll belt;recite recall}
+#alias {wep} {rem lantern;wield belt.dagger}
+#alias {light} {rem 2.dagger;hold lantern}
+#alias lgac {light;gac}
+#alias ga {get all}
+#alias {env} {envenom dagger;envenom 2.dagger}
+#alias {ba} {env;back %1;throat}
+#alias {h} {hide;sneak;fade %1;detect}
+#alias f {fade}
+#alias {fn} {fade n}
+#alias {fs} {fade s}
+#alias {fe} {fade e}
+#alias {fw} {fade w}
+#alias {fd} {fade d}
+#alias {fu} {fade u}
+#alias {bm} {r;ban me}
+#alias {coins} {get all.coins belt;put 200 coins belt;dep all}
+#alias gcb {get all.coins belt}
+#act {You wince as you} {ban me}
+#act {You are hungry} {eat food}
+#act {You can't seem to find it} {get food pouch}
+#act {You are thirsty} {drink water}
+#act {probably stand up} {stand}
+#act {You are sent sprawling} {stand}
+#act {You apply bandages to your wounds} {sav;st}
+#act {You can't seem to escape the battle.} {f}
+#ticker {fred} {sav} {60}
+#session d mud.arctic.org 2700

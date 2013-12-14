@@ -1,0 +1,5 @@
+[0m#OK: LOGGING OUTPUT TO 'a.txt' FILESIZE: 0[0m
+
+The corpse of a drunken sailor decays into dust and blows away.
+
+[32m[0;37m[32m558H [0;37m[32m129V [0;37m6167815X 598C [0;37mExits:NSU> #log append logs/a.txt

@@ -1,0 +1,15 @@
+#var wep1 ice.reaver
+#var wep1 ice.reaver
+#var light lantern
+#alias {wep} {rem $light;wield $wep2 left}
+#alias {light} {rem $wep2;hold $light}
+#alias lgac {light;gac;wep}
+#alias lgcc {light;gcc;wep}
+#var mend club
+#act {You are ready to mend} {mend $mend}
+#var sharp reaver
+#act {You are ready to sharpen once again.} {sharpen $sharp}
+#act {The rage builds} {wardance}
+#act {The insanity builds} {wilddance}
+#act {The love builds} {healdance}
+#alias {kw} {charge %1;wardance;battle;assail}

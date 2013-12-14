@@ -1,0 +1,25 @@
+#alias ef {eat food}
+#alias dw {drink water}
+#alias fa {drink %1;drink %1;fill all %1}
+#alias gac {get all corpse}
+#alias gcc {get all.coins corpse}
+#alias gc {get coins}
+#alias {coins} {get all.coins belt;put 200 coins belt;dep all}
+#alias gcb {get all.coins belt}
+#alias rr {get glowing.scroll belt;recite recall}
+#alias ga {get all}
+#alias {bm} {r;ban me}
+#act {You wince as you} {ban me}
+#act {You are hungry} {eat food}
+#act {You can't seem to find it} {get food pouch}
+#act {You are thirsty} {drink water}
+#act {probably stand up} {stand}
+#act {You are sent sprawling} {stand}
+#act {You apply bandages to your wounds} {sav;st}
+#act {Come on! I'm relaxing!} {st}
+#act {You can't do that while sitting.} {st}
+#ticker {sav} {sav} {60}
+#var player worrius
+#read {E:/arctic/$player.tin}
+#session d mud.arctic.org 2700
+#log overwrite E:/arctic/$player.log

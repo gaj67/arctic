@@ -1,0 +1,512 @@
+components for scribing and brewing
+
+Components - New System Implemented late 2001/ early 2002
+Yes I know they laod in various places, I just put a note of where i loaded them *shrug*
+
+OK... slight change.. 2 parts.. first part is spell and the components needed..
+second part is the 'ID's' of the component if I have them and info on the component.
+People are starting to help with the component list, so I don't have as much info on everything.
+Some components are ID'd and still no spell info... 
+============= PART 1 - SPELLS ================
+------
+------
+'blur' = Brew: a lump of beeswax .
+'blur' = Scribe: a scratched glass lens .
+------
+'continual light'  = a patch of phosphorescent moss .
+'continual light' = a golden nugget .
+'continual light' = a dead gypsy moth .
+------
+'cure blindness' = Brew:  a vial of tinctured iodine 
+			+ dirt from a long forgotten grave .
+------
+'deep pockets' = Scribe:  a soybean seed  
+			+ a withered tulip .
+------
+'Detect Invis' = a smooth river pebble .
+'Detect Invis' = a sprinkle of saffron .
+------
+'detect magic' = Scribe: a sprinkle of saffron .
+------
+'flamestrike' = Scribe:  a rosy colored panel of glass 
+			+ a pair of albino bat wings 
+			+ a few strands of finely woven hemp .
+------
+'Floating Disc' = a short stick of incense 
+			+ some ground flower pollen .
+------
+'force bolt' = Scribe: a chipped stone dart  
+			+ some dried bat guano 
+			+ a small blue-green agate 
+			+ a bit of blue litmus .
+------
+'Fly' = Scribe: a small bag of silver dust .
+'Fly' = Scribe: a newly spun chrysalis .
+------
+'hold monster' = Scribe: a withered tulip 
+			+ a red silk ribbon 
+			+ some rose petals 
+			+ a miniature golden lyre .
+------
+'imp invis' = Brew: a small square of silk 
+			+ an opaque cornea 
+			+ a golden nugget 
+			+ a bit of fleece .
+------
+'Light' = a pinch of chameleon dust.
+------
+'locate object' = Scribe:  a broken piece of a mirror 
+			+ a hand-held sundial 
+			+ an owl beak  .
+------
+'magic missile' = Scribe:   some dried bat guano 
+			+ some volcanic ash .
+'magic missile' = Scribe:  a chipped stone dart 
+			+ a vial of vinegar .
+------
+'Remove Poison' = a wooden splint 
+		+ an ornate cup, containing a powerfully blessed healing salve .
+------
+'shield'  = Brew:  a chipped stone dart .
+------
+'Silence' = Scribe: a few glittering snake scales 
+'silence' = Scribe: a newly spun chrysalis
+------
+'Strength' = a vial of fishliver oil .
+'Strength' = a crystal flask of inky black oil..it glows red .
+'Strength' = Scribe: a butterfly wing .
+'Strength' = Brew:   the licorice root .
+------
+------
+------
+
+============ PART 2 - Components ==================
+
+------
+comp:	a tiny acorn
+look:	This small round seed appears to have just fallen from its tree. It's
+	hard to believe this would ever grow into an oak.
+Spell:
+LOAD:   SE of Lantern, Inside a colorful Caravan, strange looking gnome (invis)
+
+------
+comp:	an owl bear peak
+look:	
+Spell:
+LOAD:   NE of kalaman, near expert hunter, Druid
+------
+a smooth river pebble
+ Object 'pebble river stone smooth'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: stone
+ Weight   : 0            Value   : 200
+ Item is  : SELF_DESTRUCT
+A mighty river surges over this small stone, turning a once jagged rock to
+a marble smooth stone. The changing courses of the river is recorded upon
+its surface.
+Spell: Detect Invis (alone)
+LOAD:
+------
+a short stick of incense
+ Object 'incense stick'
+ Item Type: SPELL_COMPONENT
+ Mat Class: wood         Material: pine
+ Weight   : 1            Value   : 200
+ Item is  : SELF_DESTRUCT
+You sense that when this incense is burned, it can even attract creatures
+from other planes of existence, it is so strong.
+Spell: (+ground flower pollen, 'Floating Disc')  
+LOAD:  Jarlan the mage in Crimson castle 
+------
+some ground flower pollen
+ Object 'pollen green powder ground flower packet'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 200
+ Item is  : SELF_DESTRUCT
+An image of the powder materializes into a flower momentarily, and you see
+a swarm of bees flocking to the plant.
+The image vanishes, as quickly as it had come.
+Spell: (+stick of incense, 'Floating Disc')
+LOAD:Renegade Druid (kala)
+------
+a scented cone of incense
+Object 'incense cone scented'
+ Item Type: SPELL_COMPONENT
+ Mat Class: wood         Material: pine
+ Weight   : 0            Value   : 200
+Through your minds eye you see a cloaked figure casting some sort of
+enhancement and preservation spell over this incense.
+You cannot discern anything else.
+Spell:
+LOAD:
+------
+a corked flask of swamp gas
+ Object 'flask swamp gas corked glass'
+ Item Type: SPELL_COMPONENT
+ Mat Class: crystal      Material: glass
+ Weight   : 0            Value   : 200
+ Item is  : SELF_DESTRUCT
+Swamp gas has been known to go BOOM from stray sparks.
+SPELL:
+LOAD:
+------
+a tiny bronze balance
+ Object 'balance bronze tiny'
+ Item Type: SPELL_COMPONENT
+ Mat Class: metal        Material: gold
+ Weight   : 0            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+The scales begin to rock then even themselves out as they capture the
+essence of the truth upon them.
+SPELL:
+LOAD: tultuk, 
+------
+a broken piece of stained glass
+ Object 'glass stained colorful broken piece'
+ Item Type: SPELL_COMPONENT
+ Mat Class: crystal      Material: glass
+ Weight   : 1            Value   : 200
+ Item is  : SELF_DESTRUCT
+You see an image of a stained glass window in a temple praising the
+exploits of Paladine. Moments later, you see a golem emerging from the
+glass, hidden in between the cracks of the stained glass.
+The image shatters in your mind.
+SPELL:
+LOAD:
+------
+a golden nugget
+ Object 'nugget pyrite gold fool's iron'
+ Item Type: SPELL_COMPONENT
+ Mat Class: metal        Material: iron
+ Weight   : 4            Value   : 600
+ Item is  : SELF_DESTRUCT
+The scroll reveals to you that this is not actually gold, but simply a
+sample of pyrite, better known to the public as 'fool's gold'. Many a
+person has been fooled by this mineral.
+SPELL:  'continual light'(alone)
+LOAD:  Palanthas, Linus west of Mage guild
+------
+a glass lightning jar..it glows dimly
+ Object 'jar lightning glass'
+ Item Type: SPELL_COMPONENT
+ Mat Class: crystal      Material: glass
+ Weight   : 3            Value   : 200
+
+An image flashes through your mind of a storm giant enchanting a normal
+glass jar to make it one of power. 
+You cannot discern anything else.
+SPELL:
+LOAD:  Gal'Vari's Isle area (this time)
+------
+an intricately crafted gold pocket watch
+ Object 'watch pocket pocket-watch gold chain'
+ Item Type: SPELL_COMPONENT
+ Mat Class: metal        Material: gold
+ Weight   : 2            Value   : 200
+
+Tick tock. Tick tock. You sense the watch has been passed down from
+generation to generation, and has managed to keep time well for very long.
+As you dangle it in front of you to examine it closer, it sways back and
+forth, back and forth. The rhythmic ticking droning away till you start to
+become sleepy...
+LOAD:  Que-Teh, eagledawn / 
+------
+a rotting garlic bulb
+ Object 'garlic bulb rotting onion small'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 200
+ Item is  : SELF_DESTRUCT
+You see fields and fields of rotting garlic. Just the image makes your eyes
+water and your breathing laboured.
+Spell:  
+LOAD:  Kobold mines, Tultuk
+------
+a stick of cinnamon
+ Object 'cinnamon stick strip bark brown reddish'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 200
+ Item is  : SELF_DESTRUCT
+Images of cinnamon being used in flavorings and perfumes flash through your
+mind. Its pleasant scent and taste can be used to liven the desirability of
+many things.
+SPELL:
+LOAD:  Tultuk, 
+------
+a crystal flask of inky black oil..it glows red
+ Object 'flask oil black inky'
+ Item Type: SPELL_COMPONENT
+ Mat Class: crystal      Material: crystal
+ Weight   : 1            Value   : 200
+In your minds eye you see a dark mage casting some sort of enchantment over a
+normal flask of water.  It glitters strangely then turns into the black flask
+that you now have.
+You cannot discern anything else.
+SPELL:  'Strength' (alone)
+LOAD:  once from Kendermore
+------
+the fragile heart of a rose
+ Object 'rose heart fragile red bloom'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 200
+ Item is  : SELF_DESTRUCT
+The image of the sun barely risen in the dawn sky fields your mind. A small
+red rose lies below you, its delicate petals slowly unfurling with the
+first rays of the morning sun. You sense wrapped within the bloom the
+unrivaled beauty of nature.
+LOAD:  
+LOAD:  Kendermore, once
+------
+a wooden splint
+ Object 'splint wooden'
+ Item Type: SPELL_COMPONENT
+ Mat Class: wood         Material: rosewood
+ Weight   : 1            Value   : 200
+ Item is  : SELF_DESTRUCT
+You sense that this splint has already been used once to aid a very small
+creature, and that nurturing aura still lingers within the splint.
+SPELL: (+an ornate cup, containing a powerfully blessed healing salve = Remove PoisoN)
+LOAD:  Pyramid
+------
+an ornate cup, containing a powerfully blessed healing salve
+ Object 'cup ornate healing salve blessed'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: ceramic
+ Weight   : 4            Value   : 200
+
+This small wooden bowl contains a special healing salve blessed by
+one of the gods.  Its intent is not to heal, however.  It was made for a single
+purpose: to aid priests in the scribing of their prayers onto parchments
+or transfering the magic into potions.
+
+You cannot discern anything else.
+SPELL:  (+wooden Splint = Remove Poison)
+LOAD:  Pyramid
+------
+a powerfully blessed bandage
+ Object 'bandage blessed powerfully'
+ Item Type: SPELL_COMPONENT
+ Mat Class: cloth        Material: wool
+ Weight   : 1            Value   : 200
+
+This bandage has been blessed by one of the gods themselves!  Its true
+purpose is not one of healing, but to enhance the spells of their disciples
+as they attempt to copy prayers from their prayerbooks to parchment sheets
+or into magical potions.
+
+You cannot discern anything else.
+LOAD:  Pyramid
+------
+a dead gypsy moth
+ Object 'moth insect bug gypsy gypsy-moth'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 600
+
+ Item is  : SELF_DESTRUCT
+You discover that during life, the moth would use the markings on its wings
+to scare other predators away.
+SPELL: 'continual light'-alone, 
+LOAD:  Pyramid
+------
+a vial of fishliver oil
+ Object 'oil fish liver fishliver vial'
+ Item Type: SPELL_COMPONENT
+ Mat Class: crystal      Material: glass
+ Weight   : 2            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+Fishliver oil is used in some dishes, and also helps digestion.
+SPELL:  Strength (alone), 
+LOAD:  Pyramid
+------
+a sprinkle of saffron
+ Object 'saffron spice yellow'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+You discover saffron is often used to bring out the flavor of foods it is
+used in.
+SPELL:  ('Detect Invis' -Alone)
+LOAD:  Pyramid, tultuk
+------
+a small bag of silver dust
+ Object 'bag silver dust small'
+ Item Type: SPELL_COMPONENT
+ Mat Class: leather      Material: rough_leather
+ Weight   : 0            Value   : 600
+
+You cannot discern anything else.
+SPELL:  FLY (alone),
+LOAD:
+------
+a butterfly wing
+SPELL:  strength (alone), 
+
+OPs, forgot to ID it before I used it.. *shrug*
+------
+a patch of phosphorescent moss 
+Spell: 'continual light' 
+------
+a pair of albino bat wings
+Object 'wings wing bat albino pair'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 600
+
+ Item is  : SELF_DESTRUCT
+SPELL:
+LOAD:
+------
+a few glittering snake scales
+SPELL:  'Silence' (alone), 
+------
+the licorice root
+SPELL:  BREW: 'Strength' (alone)
+------
+a pinch of chameleon dust
+Spell:  'light' (alone), 
+------
+some dried bat guano
+ Object 'guano bat dried acrid powder'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+Boy, does this stuff smell. You'd better wash your hands after putting away
+the old feces of the flying rodent.
+SPELL:  'Force Bolt' (+a chipped stone dart + a small blue-green agate + a bit of blue litmus )
+LOAD:
+------
+a pinch of noxious brimstone	
+ Object 'brimstone sulfur noxious pinch yellow powder'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: stone
+ Weight   : 0            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+Fiery images dance in your mind.
+------
+a small square of silk
+ Object 'square silk small'
+ Item Type: SPELL_COMPONENT
+ Mat Class: cloth        Material: wool
+ Weight   : 0            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+You realize that this type of silk is often used for veils to conceal
+maidens' faces.
+------
+a snapdragon blossom
+ Object 'blossom flower snapdragon snap dragon'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+You sense that snapdragon blossoms contain some of the same magical power
+as their real life counterparts.
+------
+brew empty 'blur'
+As the usefulness of a lump of beeswax ends, it suddenly disappears.
+You exhaust yourself while brewing the spell to an empty potion bottle.       
+------
+You get a withered tulip from the corpse of a black robed mage.
+------
+a forked twig
+ Object 'twig forked fork small'
+ Item Type: SPELL_COMPONENT
+ Mat Class: wood         Material: pine
+ Weight   : 1            Value   : 200
+
+ Item is  : SELF_DESTRUCT
+You discover larger versions of this twig are used for finding sources of
+water, and are known as divining rods.
+LOAD:  Tultuk once
+------
+LOAD:  You get a hand-held sundial from the corpse of a renegade druid.
+------
+a broken piece of a mirror
+LOAD:  crytic forest monacore
+------
+a piece of royal honeycomb
+ Object 'honeycomb piece royal'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 200
+
+Momentarily, your mind slips away into the body of a huge queen bee who is
+being doted upon by her worker bees.
+You cannot discern anything else.
+------
+a small blue-green agate
+ Object 'agate blue green gemstone stone'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 0            Value   : 600
+
+ Item is  : SELF_DESTRUCT
+You see someone carving a mortar and pestle from two chunks of agate.
+------
+cured ape sinew
+ Object 'sinew ape cured fibers translucent'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 600
+
+You sense an astounding amount of strength and durability in the sinew.
+------
+a miniature golden lyre
+ Object 'lyre golden miniature harp tiny gold'
+ Item Type: SPELL_COMPONENT
+ Mat Class: metal        Material: gold
+ Weight   : 0            Value   : 150
+
+ Item is  : SELF_DESTRUCT
+The lyre strings slowly begin to strum of their own accord. Their soft
+melody sings through your mind filling you with peace.
+------
+a garlic clove
+ Object 'clove garlic'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 3            Value   : 35
+
+ Item is  : SELF_DESTRUCT
+The scroll informs you that garlic is fabled to repel vampires. If nothing
+else, it is good for your health.
+------
+
+pouch (used) : 
+a short stick of incense
+a vial of fishliver oil
+a pair of albino bat wings
+dirt from a long forgotten grave
+a scented cone of incense
+some broken eggshells
+a pinch of chameleon dust
+a scintillating red sunstone
+a short stick of incense
+a powerfully blessed bandage
+a lump of beeswax
+a tiny acorn
+some coffee beans
+a flattened lead disc
+a tuft of skunk fur
+a few strands of finely woven hemp
+a bit of blue litmus
+
+
+http://members.multimania.co.uk/arcticmud/info/misc/text/javascript
+<text/javascript>
+http://www.googletagservices.com/tag/js/gpt.js
+<//www.googletagservices.com/tag/js/gpt.js>
+https://ssl./ <https://ssl.>
+http://www./ <http://www.>

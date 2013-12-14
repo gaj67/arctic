@@ -1,0 +1,30 @@
+In graveyard west of Kalaman
+push coffin;n;n;pull torch;w;n;n[aggro hound,drop apples if lost];
+n;e[aggro guard];w;s[guard?];e;e;n[Out of Maze]
+w;w;n;n;n[Mess Hall;drunken guard-listen guard,patrol guard mobiles];s;w;n;
+w[An Empty Hallway - secret passage w]
+n;e;s[An Empty Hallway];s;e;n[Mess Hall]; - secret passage n? bypass death-trap but portal
+s;s;s;e;e[Out of Maze];enter tunnel;e;
+n[Half-Collapsed Tunnel]
+n[An Intersection,DEATHTRAP to n!!];e;n;w[DEATHTRAP to s!!];n;n[A Dead End]
+push wall;w;n[some footprints to n, push plaque];n;l e;l marks
+The marks look like writing. It is very faint and faded but you can make out:
+
+S e k  he  ho y  ord  pr is  le li  an  you sh l  be g an ed pa sag  in o
+th  ro m  f tr a ur s. sp k  he wr ng wo ds  nd you shall meet death.
+
+Oddly enough the last few words are very clear.
+You can't discern anything else.
+s
+
+To exit, go e from Portal Room, e of here
+
+w;w;get all crate-fill ? barrel
+e;n;w[2 guardians,guard mob,all aggro;use guardian's key quickly]
+[n is doors,w guard hall]
+n[A Common Area,fountain];open screen;e[2 apprentices,extremely aggro!,need key]
+w;unlock door n;open door;n;kill Leylia[staff of champions,iron key]
+
+from fountain, w [Leylia's Chamber;no idea how to open the iron door!!];d [A Secret Compartment];open box?;get all box?
+someone had been here before me!
+

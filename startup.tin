@@ -1,0 +1,9 @@
+#ticker {sav} {sav} {60}
+#log append ../logs/$player.log
+#session d mud.arctic.org 2700
+#act {What is your character's name?} {$player}
+#act {Password:} {dr@gons1}
+#act {Press Enter:} {y}
+#var rent 0
+#act {Make a choice:} {#if {$rent<1} {1;#var rent 1}}
+#log append ../logs/$player.log

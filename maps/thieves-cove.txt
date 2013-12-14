@@ -1,0 +1,16 @@
+<TITLE>thieves cove</TITLE>
+</HEAD><BODY><PRE>located north and west of flotsam.
+find foggy area in the sea.
+then the room name should change once more, and it's tricky to get there
+ 
+from flotsam fountain, these dirs should help
+n;n;n;n;w;n;n;n;n;n;w;n;n;n;n;n
+ 
+between granite cliffs is close, go north if you are there
+then wander the town.
+thieves there, and they detect invis.
+skarr is dn of the inn.
+level 7 fly scrolls (bound scroll) are sold here and are cheap.
+ 
+some stabber and crazyness if you go all east in the town, but not that big a deal.
+ 

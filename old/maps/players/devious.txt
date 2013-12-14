@@ -1,0 +1,20 @@
+#session d mud.arctic.org 2700
+#ticker {fred} {sav} {60}
+#alias gac get all corpse
+#alias dgac {rem kryss;hold lantern;get all corpse;rem lantern;wield kryss}
+#alias en {env elven;env kryss}
+#alias b {en;back %1}
+#alias z {sneak;fade %1;hide;detect}
+#alias rr {get glowing.scroll belt;recite recall}
+#alias fn {fade n}
+#alias fs {fade s}
+#alias fe {fade e}
+#alias fw {fade w}
+#alias fu {fade u}
+#alias fd {fade d}
+#act {^You wince as you} {ban me}
+#act {You are hungry} {eat ham}
+#act {You can't seem to find it} {get ham pouch}
+#act {You are thirsty} {drink water}
+#act {probably stand up} {stand}
+#act {^You are sent sprawling} {stand}

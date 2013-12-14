@@ -1,0 +1,26 @@
+Thief shop west of pal.
+go west 4 from gateguards, then north.
+find a room with a thug and a locked door north.
+give 250+ coins to the thug. he will open the door
+north west west from him is the shop.
+there are other rooms, with wandering thieves.
+a buff thief, and minor thieves. and a possible quest.
+If kill thief in shop, all attack!
+
+
+You can buy:
+  1. Scroll               14  A scroll of detect invisibility
+  2. Scroll              221  A scroll of identify
+  3. Scroll              606  A scroll of improved sleep
+  4. Scroll              276  A scroll of sleep
+  5. Scroll               56  A scroll of minor sleep
+  6. Scroll              386  A scroll of temporal path
+  7. Scroll              165  A scroll of lesser summoning
+  8. Scroll              551  A scroll of locate object
+  9. Scroll               38  A scroll of identify
+ 10. Scroll              111  A scroll of minor locate object
+
+
+https://ssl./
+http://www./
+http://members.multimania.co.uk/arcticmud/maps/text/javascript

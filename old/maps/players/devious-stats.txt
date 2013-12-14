@@ -1,0 +1,9 @@
+313H 94V 509791X 33C Exits:NESW> quaff potion
+A feral cat rubs up against your leg.
+You quaff a potion of knowledge which dissolves.
+You feel informed:
+ Age      : 25 years 13 months 9 days
+ Height   : 206 cm
+ Weight   : 105 kg
+ Abilities: Str 19 Int 19 Wis  9 Dex 19 Con 19 Cha 11
+

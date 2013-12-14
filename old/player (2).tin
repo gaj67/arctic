@@ -1,0 +1,6 @@
+#read {E:/arctic/all.tin}
+#ticker {sav} {sav} {60}
+#var player worrius
+#read {E:/arctic/players/$player.tin}
+#session d mud.arctic.org 2700
+#log overwrite E:/arctic/logs/$player.log

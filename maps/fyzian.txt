@@ -1,0 +1,104 @@
+from palanthas west gate go w&s-ish, follow stream
+once in Fyzian, stuck in maze. Somewhere se corner is aggro man with scrolls
+- dreaming is sacred ward, history is prot evil?, damnation is what?
+In village, e door has fireplace with grate, move grate, then head n-ish.
+Eventually find room going u. Go u then n back to stream to Palanthas.
+Above tunnel is rock. S of rock is Fyzian village.
+
+
+FYZIAN VILLAGE
+==============
+
+BACKGROUND:
+
+For centuries there existed a small village of dwarf-like creatures known
+only as the Fyzians.  They lived in relative obscurity for years,
+preferring to allow the other major races of Krynn explore one another
+while they quietly farmed.  What little is known of them comes from the
+rumor and speculations of passing journeyman.  Some said the Fyzians were
+giants who exploited any who entered their territory.  Others maintained
+they were no bigger than pixies who would rather hide and giggle than talk.
+All that was certain is that their greatest desire was to be left in peace,
+but that desire was to be shattered by a madman.
+
+Fueled by rumors of treasures stored in the catacombs under the village of
+Fyze, an old man made his way into the village and descended into its
+underground passages.  Before the Fyzians could react to the trespasser's
+presence, he seeded the fields with a mysterious plant, which could grow in
+any environment and effectively hid the village.  He then set to securing
+his newly acquired wealth by setting traps on the levels above him and
+locking each level with a riddle.  It is believed the madman still resides
+in the Fyzian underground, though his presence has not been seen above
+ground since his descent.
+
+RECOMMENDED LEVELS:
+
+The village is inhabited by the peaceful Fyzians, but little is known of
+the dangers held in the catacombs below.  The last rumors which escaped the
+village before the madman seeded the fields said that every creature from
+the undead to dragons lived beneath the village.  It was also last reported
+that mid level adventurers [12-18] would be able to survive below ground,
+but much may have changed since those reports.
+
+LOCATION:
+
+Some peasants reports having seen small and strange looking creatures that
+resembles something like a dwarf.  Such sightings have not been confirmed,
+but generally, they have been reportedly seen near farms outside of
+Palanthas.
+
+CREATED BY:
+
+Archimedes
+
+
+
+FYZIAN SMUGGLERS TUNNELS
+========================
+
+BACKGROUND:
+
+Following the infestation of hymox plants in the fields around the village
+of Fyze by the insane riddle king, some Fyzians chose to leave the surface
+and venture below ground. In the futile hope of avoiding the resilient
+hymox plants, they dug a series of tunnels below the village adjacent to
+the ancient catacombs. It was these Fyzians belief that only through
+living below ground could the unique way of life they had fought so hard
+to preserve could be saved. They were wrong.
+
+It didn't take long for the Fyzians below ground and the Fyzians in the
+village to detest each other. Those in the village saw the ones below
+ground as deserters, while those in the tunnels saw the ones in the village
+as cowards for never fighting. The tension was intensified when the Fyzians
+in the tunnels turned to smuggling goods in and out of the village as a
+means of supporting themselves, despite the riddle king's desire for
+complete isolation. In response the villagers began patrolling the village
+for smugglers, always praying the riddle king wouldn't take his anger out
+on them.
+
+And so the uneasy peace continued, each side silently pushing at the
+other. While the village patrols have cut down on the smuggler raids, it is
+said that the smuggler have a new source of support. Rumors in the village
+whisper that the smugglers have developed the hymox plants into a powerful
+narcotic, a drug which they willingly distribute. But it is also said the
+tunnels hold services the villagers cannot find elsewhere.
+
+RECOMMENDED LEVELS:
+
+The tunnels are inhabited by a tougher breed of Fyzians, primarily men who
+have slinked below ground since the initial hymox infestation. They are
+believed to be tougher than their cousins in the village above ground, but
+nobody knows for sure what tricks lie in the tunnels. It is probably safe
+for mid level adventurers (10-16) to travel into the tunnels.
+
+LOCATIONS:
+
+Even though the Fyzian patrols in the village have cut off almost all
+travel between the village and the tunnels, it is believed there is still at
+least one entrance from within the village. There is probably also one
+outside the village so the Fyzians below can distribute their goods, but
+there is no way to tell.
+
+CREATED BY:
+
+Archimedes

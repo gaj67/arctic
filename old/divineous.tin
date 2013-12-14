@@ -1,0 +1,25 @@
+#var horse dragon
+#alias sh {c 's m'}
+#alias lh {l $horse}
+#alias rh {rescue $horse}
+#alias oh {order $horse %1 %2}
+#alias hk {order $horse kill %1}
+#alias ha {order $horse assist}
+#alias ph {cast 'bless' $horse;cast 'sanc' $horse}
+#alias bh {oh rest;ban $horse;oh stand}
+#act {$horse transcends this world and enters another plane.} {sh}
+#alias cmh {cast 'mental haze' %1 %2}
+#alias ce {cast 'exo' %1 %2}
+#alias cdm {c 'd m' %1 %2}
+#alias arm {c 'bless' me;c 'sanc' me;c 'holy vision' me;c 'aura of glory' me;c 'holy arms' me;c 'crus'}
+#alias do {hk %1;ass;rally;av;str;str}
+#alias elix {c 's e';drink elixir}
+#act {You feel less righteous.} {c 'b' me}
+#act {You feel less powerful.} {c 'h a' me}
+#act {Your divine blessing subsides.}  {c 'cr' me}
+#act {Your eyes sting for a moment.} {c 'h v' me}
+#act {The radiance surrounding you fades away.} {c 'a o g' me}
+#act {The white aura around your body fades.} {c 's' me}
+#act {The rally cry fades.} {rally}
+#act {You attempt to focus on %1 and fail horribly.} {av}
+#act {Your feeble rescue efforts end in failure.} {resc}

@@ -1,0 +1,53 @@
+#alias cse {cast 'summon elixir';drink elixir}
+#alias csm {cast 'summon mount'}
+#alias cb {cast 'bless'}
+#alias cde {cast 'detect evil'}
+#alias ccl {cast 'cure light'}
+#alias cha {cast 'holy arms'}
+#alias caog {cast 'aura of glory'}
+#alias ccm {cast 'cure m'}
+#alias crs {cast 'restore strength'}
+#alias cs {cast 'sanctuary'}
+#alias chv {cast 'holy vision'}
+#alias cdm {cast 'dispel magic'}
+#alias cmh {cast 'mental haze'}
+#alias cc {cast 'crusade'}
+#alias ccs {cast 'cure serious'}
+#alias ce {cast 'exorcism'}
+#act {You sense the red in your vision} {st;cde me}
+#act {You feel less righteous} {st;cb me}
+#act {You feel less powerful} {st;cha me}
+#act {The radiance surrounding you fades away.} {st;caog me}
+#act {The white aura around your body fades} {st;cs me}
+#act {Your eyes sting} {st;chv me}
+#act {Your divine blessing subsides.} {st;cc}
+#alias {str} {#var striking 1;strike %1}
+#act {You fumble and drop your weapon} {#var striking 0;get $wep1;wield $wep1}
+#alias t {#var turning 1;#var undead %1;turn $undead}
+#alias ut {#var turning 0}
+#act {You failed to turn anything} {#if {$turning>0} {turn $undead}}
+#act {You strike at} {#if {$striking>0} {strike}}
+#act {You attempt to strike} {#if {$striking>0} {strike}}
+#act {Once again the time has come for righteous anger.} {reckon}
+#act {caused by your faith} {turn}
+#act {is turned} {turn}
+#act {is unaffected} {turn}
+#alias lm {l $mount}
+#alias om {order $mount %1 %2 %3}
+#alias oma {order $mount assist;rally}
+#alias omk {order $mount kill %1 %2}
+#alias rm {rescue $mount}
+#alias mk {omk %1 %2;ar;af;str}
+#act {Your feeble rescue efforts} {rescue}
+#act {You direct your attention} {oma}
+#alias mkr {omk %1 %2;ass;rally;resc;reckon}
+#act {The rally cry fades} {rally}
+#act {You're such a hero} {oma}
+#act {transcends this world} {csm}
+#alias arr {ass;rally;resc}
+#alias ar {ass;rally}
+#alias hm {om r;ban $mount;om st}
+#alias af {aveng faith}
+#alias arf {ass;rally;af}
+#act {You attempt to focus} {af}
+#act {You focus your purity}

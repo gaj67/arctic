@@ -1,0 +1,2284 @@
+ArcticMUD Zone Guide
+
+
+A few of these zones have been revamped since this was written, and those that I 
+remembered offhand are noted.
+
+Zones aren’t really listed in any particular order, use the FIND tool to locate 
+something specific.
+
+
+
+**Dark Knights Outpost
+
+At the ESW in the middle of the building itself there is a hidden locked grate 
+D.  Key loads on Nightlord to the north.  Say 'skull' to port through the wall 
+to Nightlord area.
+
+West of ESW is Lily Champion who loads black steel longsword, black lily brooch, 
+and black sword belt.  Can combine sword belt with the black scabbard that loads 
+in the bed in her room to form 'a black scabbard belt' +dam.  Can combine lily 
+brooch with 'a black cloak' from the knights/masters to form +hp 'cloak of the 
+black lily'.  Keywords are 'join cloak brooch' or similar.
+
+Champion of the Skull is south of ESW and loads armplates of lily (prot from 
+good), green jade rings (+int/dex paladin/dk only) and a mithril partisan 
+(nolore, 4d5++ rumored).  Say "Grant me your blessings for the battles to come" 
+to activate the partisan.
+
+Below grate is the dread revanant/high priestess#1 to the east.  Revanent loads 
+a revanent skull (+dam maybe, unsure), high priestess loads ivory staff 
+(possible darkness/restoration/steelskin/sacred ward cleric book).  Priestess 
+also loads key to cells and western jail.
+
+West of the corpse/priestess is the 2nd high priestess.  Loads dragon skull 
+necklace (int/wis evil only) and pure black tunic (bodyworn evil only +heal).  
+Tsu Wei is west of high priestess #2 (need high priestess#1 key), stabs hard and 
+trip oblits.  Loads decent dagger and a whip offhand.  His head falls off after 
+he dies, grab it and his key and go outside the zone.  Both groups of shadows 
+can drop 'shadowy parchments' which summon nice bashing charmies by typing 
+'translate parchment'.
+
+Back outside the cave and north some is the bridge. Make sure everyone flying 
+and drop off the west side of the bridge into the gorge.  Go west into the cave 
+and type 'unl door' and 'ent shadows'.  Drop tsu's head in front of Trin Phung 
+and he will go east.  Kill him (owl/wolf first makes it easier) and unlock the 
+chest in his cave with his amulet.  Chest loads a nice neutral +hp shield for 
+druids and also 2int +7th druid necklaces.
+
+
+**Icewall Rift
+
+Keep going west killing stuff and check each room for a cliff.  The first cliff 
+leads nowhere ("climb cliff").  Climbing the 2nd cliff allows you to bypass the 
+bridge which damages your party.  The 3rd cliff leads past some elite frost 
+giant guards that drop giant's mauls (nolore, 4d5 -hr or -dex prim) and leads to 
+a deadend.  Type 'climb ladder' at the deadend to fight the giant chieftain, who 
+loads a 'troll bone ring' (+hp bracelet), 'lynx skin cloak' (+dex), and a 'huge 
+hunting spear' (3d7++ spear that takes 27/28 str to prime).  Climbing back down 
+the cliffs and continuing westward lead you to Icewall Castle.
+
+
+
+**Icewall Castle
+
+There are 2 or 3 ways to get inside the castle here.  Beware, Sleet and Feal-
+Thas live in the northeastern courtyard.  Climb up the glacier, go to the north 
+end, and keep going up.  You can either go into the backdoor and 'open slab' in 
+the deadend room to sneak below the castle, or go up further and fight the ice 
+giant guards who shout for help.  A 3rd option is to go even higher up and 
+westward over the courtyard itself.  Don't let fly wear off or you'll fall into 
+the grouped mobs.  Area helps a bunch since the grouped mobs repop repeatedly.  
+"The castle commander" (note his name begins with THE, there are 'A' ones that 
+drop nothing) drops 'spiked bronze bracers' (+dam -dex wrist), a decent offhand 
+misc chain, and a 'dragon bone ring' (+str I think).  He also drops a key that 
+you can use to unlock the rack in the very northern part of the courtyard 
+(behind the door).  The rack loads a decent long blade prim ('huge iron 
+broadsword' I believe) and a 'heavy wooden maul'.  East of the rack is a room 
+where you can 'rummage' and kill a giant ice worm.  He drops 2 'frozen potions' 
+that are rentable cure critical and resist cold.
+
+Sleet and Feal-thas are tough mobs that load neat stuff.  Feal can load 'a white 
+dragonwing cloak' (2dex can/autofly aboutworn), 'a fiery red armguard' (+hp I 
+think), 'a redstone ring' (immdrain and probably +str or dam also), and 'fiery 
+red cloth gloves' (+dam/hr of some sort).  Sleet drops the key to the chest near 
+his pantry.  Feal also drops a key to his quarters.  Sleet's chest requires a 
+skilled thief to disable (or die trying), and loads 'a sky blue ring of 
+Paladine' (goodie +heal ring), 'a comfortable blue robe' (+learn mage), and 'an 
+emerald tablet engraved with runes' (iceshield for druids).  To get to Feal's 
+stash, you need to move 1 south of Sleet/Feal room and have group 'avoid trap'.  
+Unlock the door and go in.  'Search fireplace' will give you a hint to where the 
+key is for the door south.  The closet in the fireplace room can load 'icy 
+adamantite banded mail' (bash_mod of some kind).  South of the fireplace room is 
+an undead draconian who needs to die, then 'search books' to find another key.  
+'Unlock/open secret' to get into the room east, and 'unlock/open pedestal' to 
+check for the mage book.  Book could be anything ranging from clair to prism 
+last I knew.  The sword 'Arctic Night' and one of the 'Dragon Orbs' also load in 
+this zone, but I have been unable to find their location due to their perpetual 
+deep-rentedness.  Note this 'dragon orb' is no_cleric.
+
+
+**Celestial Temple
+
+Arguably the most spammed and boring zone ever.  First thing is to find the 
+guardians near the crypts outside who hold the key to the gate.  Kill them and 
+head east/southward to the gate.  Unlock it and have group enter until together.  
+On the first level you need to kill the 'temple guardian lord' groups and loot 
+their keys.  These keys unlock 4 chests near the 4 corners of the temple (rooms 
+with scribes).  1 chest loads the key to the central gate, and other chests can 
+load 'a tablet of unending wisdom' (+2wis -health held), and either 'a scroll of 
+ancient power' (power word stun norent scroll), or 'the scroll of ancient power' 
+(a powerful enchant weapon scroll).  Also on the first floor are different types 
+of guardians (sky/sun/moon/earth) that can load 'a red/blue/white/black guardian 
+robe'.  Black robe is +str, red robe is +dex, white robe +int, blue robe +wis 
+all about worn with nice long decay timers.  Guardians also load 'a large pole 
+axe' which are 3d5 enchantable axes useful in some situations.  Around the 
+northwest corner of this level is a statue of a druid, 'move statue' will open a 
+D exit to the 'chamber of archimedes' which is a nice memroom and also loads 'an 
+ancient, tattered cloak' on the ground (+3wis I think).
+
+With the gate key, unlock the gate in the center of the temple and enter it to 
+reach the 2nd level.  This level has Aurinites during daylight and Gargoyles 
+during nighttime.  Note that once you leave the center room, a group of 
+gargoyles will track and attack your group if it's nighttime.  1 north and all 
+west of the center room is a room with a pot and a grate.  'Move grate' to 
+reveal a D exit that leads down to the mem room.  To advance to the aurinite 
+king/gargoyle chief, you need to kill the 2 gargoyle commanders and 2 aurinite 
+lords, loot their keys, and get the key segements from their chests.  The 
+gargoyle shamans load 'a robe of the Gargoyle clans' (weak bash_mod antigood), 
+gargoyle warlocks loak 'a warlock's cloak' (neckworn antigood autofly).  A 
+'granite bracer' (+dam -con antigood) and 'a granite sword' (3d6 antigood) also 
+load on chieftain or commanders.  'A granite ring' (+str -con) also load 
+somewhere here.  The aurinite lords load 'an aurinite ring' (+con antievil), and 
+'a crystalline bracer' (+hr antievil).  'A robe of the Aurinite order' loads on 
+high priests (+2int -con antievil), and 'an alchemist's cloak' (nosummon/nocharm 
+antievil neckworn) loads on the alchemists.  The chests/tabernacles of this 
+level can also load 'a small tattered prayerbook' (word of 
+recall/summon/negative plane protection/sunbolt clerical book).  Once all 4 key 
+segements are found from the chests 'combine key' and 'get key' to receive the 
+key to unlock the central gate.
+
+This gate leads to the Aurinite King and the Gargoyle Chieftain and their pets.  
+The basilisk with the gargoyle chief can petrify, so beware.  You can 'slide 
+tapestry' to open an exit to the west for purposes of fleeing and a few jewels.  
+The aurinite king loads 'an Aurinite Kings cloak' (20hp aboutworn antievil) and 
+'an Aurinite Kings bracer' (wristworn goodie +heal).  The gargoyle chieftain 
+loads 'a Gargoyle Chieftain's cloak (+2dam aboutworn antigood) and 'a Gargoyle 
+Chieftain's bracer' (wristworn evil +heal).  'The sword of Sacred 
+Fires/Caliburn' load at a low % on the floor of this room (norent 3d7 
+autofireshield longsword).
+
+
+**Lemish and Garnet
+
+Lemish is pretty straightforward.  Elite draconians load 'a red draconian 
+bracelet' (evil only +hp wrist).  Lord Atin loads 'the black shield of Lemish' 
+(unsure full stats, nice shield).  Mayor loads 'a white gold ring' (save_spell 
+and canfly), 'a sword inlaid with sapphires' (5d3 ++ evil prime lblade) and a 
+few other items I can't remember.  Kalnith the mage loads 'a small green orb' (-
+con/hp +5th slot mageonly), 'a blue ring' (nolore +learn-ish ring), and 'a cloak 
+of the mystics' (antineutral +learn neck).  Bali and his guard (nomagic room) 
+load 'a thin red belt' (+dex) and 'a long diamond-edged blade' (4d4++ offy 
+lblade).  Tolkunka loads a few druid items and tablets (call lightning, ice 
+storm, cure critical).  Rogeneye (push boxes south of Kalnith, nomagic) loads 
++dex autosilence sleeves, and a few other thief items that rarely load.
+
+Garnet is aggro evil so be careful when moving into the warleader/king.  Up 
+above in the mountains Galan can load 'a ruby armband' (autoinvis) and 'a ruby 
+axe' (3d5++ with lightning bolt special).  Inside the mountain (bottom level, 
+'clear gravel' in the S only exit room) Garen loads 'a large quartz hammer' 
+(1d20 lightweight -hr) and 'an olivine ring' (saves_breath), he is in nomagic.  
+Westward into palace Pitch loads 'a polished plate of mithril' (+dex) and 'a 
+magical dwarven stein' (refilling ale container).  Stoneroot's guards load -age 
+neckworns, and his chest loads 'a star sapphire' (antievil +2wis held light) and 
+'a chysoprase ring' (autoinvis).  One of these two also loads 'quartz-encrusted 
+gauntlets' (2hr) and 'a thick belt layered with quartz' (+hr also).
+
+
+
+
+
+**Xak Tsaroth
+
+Not going into huge detail here.  Draconians can load 'a teeth chain' (4d4ish 
+offhand misc), a hobgoblin can load 'a band of power' (wrist +str), and some mob 
+loads 'a bone helm' (+hp headworn).  Khisanth can load tablets (temp path, 
+plantwalk, pass without trace).  The statue can load 'a book bound with oily 
+plates' (gust/cure disease clerical book).
+
+Lower Xak loads 'the disks of mishakal' (heal clerical book, of course), and 'a 
+sky blue tunic' (antievil +heal bodyworn) in the statue also.  2 south and up 
+(enter crack) from the grotto there is a chest with a dt trap on it.  
+Disable/picking this chest can yield 'a black hood' (+thiefskill) and 'an 
+ancient elvish hood' (antievil +heal headworn).  There is an unfound quest 
+delving deeper into the zone in which no one I know of has figured out.
+
+
+**Thorbardin
+
+Thorbardin loads various items.  The sergeants on the battlements can load 'a 
+silver dwarven ring' (+con, +save_spell), the commander can load 'silver dwarven 
+gauntlets' (+hr/dam).  Karter loads 'an emerald-shafted javelin' (3d5 or 2d7 or 
+so stabber) and some weird casterable plate armor.  North, west, open door, n 
+from the Crossroads is the secret path around the gate guards.  You have to 
+'open wall' and go west a few times, eventually 'open carving' and going S to 
+reach the central stairwell.  All up here leads to a tunnel heading west, which 
+leads to Hornfel.  King Hornfel loads 'the hammer of Kharas' (neat blind-special 
+hammer usable only by dwarves) and 'a golden dwarven talisman' (+int or wis or 
+both neckworn antievil).  Looting his key and 'unlock secret' reveals some 
+coins, a norent fast decay 2 heal wand, and 'a hooded red chasuble' (neutral 
+only bodyworn +heal).  Down towards graknar and off an east exit leads to 3 
+dwarven hearthguards who can drop 'a hearthguard's axe' (3d5 or so offy axe).
+
+
+**Sanction (**Note: Inner Sanction was revamped recently and may be different)
+
+This zone can load some very nice items if they arent deeprented already 
+(riight).  The Weaponsmaster loads 'a lucern hammer' (4d4 enchantable polearm 
+prime) and 'weaponsmasters gloves' (+dam/hr gloves).  The blacksmith can load 
+'blacksmith's banded mail' (+15/20hp bodyworn), 'a steel voulge' (4d4 3/3 prime 
+polearm), and 'a blacksmiths wristguard' (+str wristworn).  The 4 high 
+priests/priestesses in the southeastern part of the city all load beltpouches 
+that either have 'a flask of clear liquid' (rentable cure crit potion) or 'a 
+blue vial' (rentable heal potion).  Smith also accepts 'a cuprite sample' 
+(present/display/deliver keywords likely) to create 'a heavy cuprite battle axe' 
+(nolore heavy very elite prime axe).  Sample loads in Kharolis mines safe.
+
+The palace itself lies in the northeast part of the city, beware the 
+nobash/reflect beholder that repops every 10-15mins or so.  Upstairs and east 
+are 3 concubines that spec edrain but are wussy.  Upstairs west leads to Kitiara 
+and her captain.  Captain will yell, calling in 2 personal guards and Skye.  
+Kitiara loads 'a crystal pendant' (+int +5th slot neckworn), 'a thin golden 
+wristband' (-save_spell 10 shield charges), and a gown which is a container with 
+a key.  Get the key from the gown and go east, 'pull string' and go up.  
+Unlock/loot the box.  Box loads 'blue dragonscale' pieces that are all 
+enchantable and barbable, and also 'an engraved emerald knife' (4d4++ thief 
+stabber) and 'a blue dragonmask' (+con headworn).  Personal guards also load 'a 
+blue sash' (+disable).  South of the concubines is a dumb waiter in which you 
+have a mage 'ride waiter'.  Once done, the mage needs to solo a wimpy guard, 
+loot the dungeon key, and dimdoor/relo back to group.  
+
+Back down on 1st floor, head east a few and north.  Find the 2 dark knights 
+cleaning their swords and kill them.  They load 'a steel longsword' (3d6 1/1 
+prime lblades).  Further east is a closed door, behind which is Cervos.  Cervos 
+conjures 2 apprentices who need to be bashed.  Cervos can load 'a thin wooden 
+wand' (magic missle spec), 'a small platinum talisman' (+5learn neckworn), and 
+'a ring of protection' (-10ac ring).  Cervos loads tablets (firestorm, mass 
+refresh, word of recall), and the other key to the basement.
+
+West and south a few from Cervos is the locked door S leading to the basement.  
+Down here, wait at the 2nd door for 2 tracking, stoneskinned, immune_elements 
+golems.  Frag them down with acid/elefist/thorn/kick and move 3 north.  Beware 
+golems and prison guards stick weapons.  West of this room is the Lady Succubus, 
+Demon Torturer, and Lord Ariakas.  Demon Torturer sticks weapons also.  Lord 
+Ariakas loads 'a mace of destruction' (very nice prim mace evil only), 'a set of 
+power cussies' (+str legs antigood), 'a set of power brassards' (+str arm 
+antigood), a 'red dragonmask' (+con autoinvis headworn), and 'a little red key' 
+for the crate east of the concubine room.  Run back up to the crate and have a 
+skilled thief disable the trap.  Crate can load a magebook 
+(massinivs/haste/reloish very rare), 'a red dragonscale plate' (+20health evil 
+only), 'red dragonscale gauntlets' (2dam/2hr evilonly), 'a banner of the 
+dragonarmies' (+dam light held evilonly), and 'a steel halberd' (3d6 3/3 prime 
+polearm).
+
+
+**Forgotten Temple
+
+Another overspammed zone.  Beings by killing gateguards and then 5-10+ 
+scan_tracking dark knight mobs.  Area helps but assisting is plenty on a decent 
+group.  Head east or west and send tank up onto battlements.  Guards/officers 
+will likely scan_track, they hit hard if all together.  Officer can load 'a 
+tarnished iron ring of the watch' (sense_life) and the key to the commander's 
+room.  Head all south (watch for guards) and either east or west depending which 
+side you're on.  Archer loads 'a large darkwood bow' (3d7 ++), 'a pair of spiked 
+demi-gauntlets' (+dam +dex), and 'a three-strap leather bracer' (+str wrist).  
+Commander loads 'a stone sword' which is a key.  Take the sword down to the 
+Statue of Paladine, unlock/loot the crown and go west, and north to fight 2 more 
+knights.  'Unlock/open doors' at the deadend to procede.  From the NESW: east is 
+toward the mages and balor, west is toward the trainer and Krona, and north is 
+toward Ombra.  Kill the mages first, who can load 'a dark cudgel' (3d5 offhand 
+autofly), and 'get all bookshelf' to get the 1st page.  Kill Tesiak east, loot 
+the 2nd page.  'combine page page' then 'decipher page' 'g key' and unlock/loot 
+the chest in the room.  Chest loads 'a sparkling black bracelet' (immdrain 
+wristworn), 'mottled robes of the Archmage' (+hp nocharm bodyworn), and a 
+locate/forcebolt level spellbook.  If you want to piss off and kill the balor, 
+'destroy circle'.  He is nobash/reflectish and loads 'a massive black runed 
+sword' (3d7 3hr evilonly 2hander).
+
+Heading back west, kill the trainer and his trainees.  Trainer loads 'a 
+weaponmaster's blade' (3d6 ++ prime lblade).  Trainees can load 'a black 
+training amulet' (antigood +hr neckworn).  Northwest of trainer, be sure to kill 
+the 3 knights to the west.  Next kill the general and Krona.  General loads a 
+key for the desk in his room, and Krona loads 'a skull-capped mithril battle 
+axe' (4d4++ axe prime), and 'skull-encased mithril pauldrons' (+con +dam).  Loot 
+key from general, unlock/loot desk, and go back to NESW.
+
+Go north, west (kill priest) and 'smash statue' to get the 2nd rose piece.  
+'Combine rod bud' to make the rose.  Head east and north to fight Ombra.  The 
+minions hit very hard, so be sure to heal every round until one dies.  Ombra 
+himself loads 'a ruby encrusted battle flail' (3d6++ cleric prime).  'Slide 
+tapestry' here to procede.  The next fight is a stoneskinned golem in a 
+no_cleric_magic room.  Have tanks/casters frag it down while fleeing out for 
+heals.  
+
+Once it's dead, move in and 'place rose pedestal' and 'enter portal'.  Now there 
+are 3 riddles to solve.  First one is 'say evil', 2nd is 'say will', 3rd is 'say 
+win'.  After entering all the portals 'poke man' to wake him up and get Walker 
+to follow you.  Head all east and then all south.  There is a fiend east of here 
+that loads some whip but usually gets skipped.  Have a lawful good character 
+'touch rune' then you can 'open/move rune' and move south to Samus.  Samus is 
+imm_elements and has a special that causes 150-200 damage and lags he uses 
+randomly on anyone in room.  He loads +str plate, +dex boots, imm_drain ring, 
++3hr gauntlets, and 'a tainted medallion of paladine' (neut only +heal neck).
+
+
+**Graknar
+
+Located beneath Thorbardin at the bottom of the spiral staircase.  No enormous 
+secrets here.  Straightforward kill everything aggro you see.  Turning south at 
+the entrance leads to dark elven raiders, leader loads 'an obsidian ring' 
+(casteronly det invis).  There is also a mindflayer at the eastern edge that 
+loads 'a glowing adamantite bracer' (+5hp wristworn) and 'dark elven skin boots' 
+(mage/druid imm poison).  Turning east before the gate of Graknar itself leads 
+to a deep wyrm, which is probably the toughest mob in the zone.  He is high 
+%reflect and loads 'dragon power armor' (+str and other stats I believe, 
+unsure).  The theiwar patrol leader loads 'a two-handed battle axe' (4d6 or so 
+2handed axe) and 'a belly skewer' (-2/3 hitroll +dam headworn).
+
+Once inside the city and at the square, west leads to the master assassin 
+(beware trackers, open panel at the north room at the very west end).  East 
+leads to the theiwar nobles who load 'an obsidian bracelet' (+wis druidonly 
+wrist), and further east leads to the smith who can repair some medium-range 
+gear.  North from the square is the palace, in which are the priests of Hiddukel 
+and Grap.  The priests load 'a mithril cube' (-int held autoinvis), and 'a pair 
+of obsidian bracers' (armworn +wis -con).  The high priest loads 'a jade 
+medallion' (+turn), 'a long string of prayer beads' (ancient 
+curse/heroism/fortify self clerical book), and 'a sphere of souls' (antigood 
+held autofly).  Grap himself loads 'a black theiwar coat' (antigood +heal 
+bodyworn), 'a chain flail' (2d8 or so +bash blud prime), and 'a pair of face 
+rippers' (-2dex +2dam handworn).  The treasure room to the west of Grap's rooms 
+can load 'a granite ring' (casteronly +con).
+
+
+**Kharolis Mines
+
+An interesting zone that can load very nice coins and a few neat items.  On the 
+goodie side, the mine overseer loads 'a heavy brass bastard sword' (3d6++ 
+2hander primeable with 24/25str), 'a pair of silver dwarven gauntlets' (+dam/hr 
+handworn).  His sentries can load 'a copper dwarven ring' (-int +con).  The 
+foreman who wanders the mines loads 'a dwarven cuprite ring' (norent +con quest 
+item in the lower part of the zone).  Magnus ver Magnussin can load 'a large 
+copper ignot' that can be presented to the armor smith in Thorbardin to receive 
+'a suit of spiked copper plate' (-2dex +dam bodyworn).
+
+There are 2 major exp quests in this zone.  If you are good aligned, grab 2 
+pick-axes that are lying about or kill miners and find the Abandoned Tunnel.  
+Type 'dig west' twice to open up the lower part of the zone.  Go down the path, 
+and down at the Fog.  Beware you have to fight 4-6 stabbing kua-toa scouts.  
+Once they're dead head all west until a Slippery Bank.  Go up and into the kua-
+toa city.  South from here leads to the kua-toa shaman, who loads 'a transparent 
+fish-skin bracelet' (wristworn +wis) and 'a transparent fish-skin robe' (about 
+worn autoinvis).  Shaman also rarely loads druid tablets (charm monster, 
+tornado).  North of the shaman and past the entrance there is an up exit that 
+leads to the kua-toa chieftain.  He doesn't cast spells, but he has a special to 
+prism that he likes to spam happily. Two elite guards will track into the room 
+when he dies.  He loads 'a crown of the kua-toa chieftain' (norent waterbreath 
+quest item upstairs), 'an aqua-green azurite scepter' (held light autofly with 1 
+charge of iceshield), and 'an azurite medallion' (unsure stats, likely +learn). 
+Take his crown back upstairs and give it to yourself in front of the foreman to 
+receive ~700k experience and a key.  Take the key to the southwest portion of 
+the mines and unlock the foreman's chest.  Inside loads 'a strip of birtchbark' 
+(rentable 3 healing mist/mass refresh wand), 'a silver dwarven medallion' 
+(+hitroll neckworn), and 'a pair of bornite sleeves' (+dam armworn)
+
+If you are evil aligned, kill the dwarven foreman and loot his cuprite ring.  
+Take the ring down to the kua-toa chieftain and drop it to receive ~700k exp and 
+'a tri-jeweled ring' (key to chieftain's chest).  Go back onto the dark lake and 
+move around until you find the room with a down exit.  Dispel/remove your fly, 
+hold a light, and go 2down.  Don't talk while doing this.  The chest loads 'a 
+pair of green stained leggings' (legworn canfly), 'a moist-blue green scroll' 
+(norent heal scroll), and a few other items.  'Touch rune' to receive 
+waterbreath and fly back up to your group.
+
+There is also another side of the upper portion of this zone.  Kill the mine 
+overseer and loot his key.  Go all west to the mine office, 'g cup table, 'shake 
+cup' and receive another key.  Go 2 east, north and disable (just a lightning 
+bolt trap) and loot the safe.  Take that key back to the mine office and 
+unlock/open the vault.  Loot the crate of dynamite and give it to your tank.  
+Another 'large copper ignot' can load in here for the spiked plate armor.  Move 
+group down into the mine and all north.  Go up at the up exit and kill the 2 
+dwarf guards there.  Unlock the door to the north and send the tank all north, 
+east, north to 'A Sealed Tunnel'.  Be sure the tank is in this room, and have 
+him 'light crate'.  He will take some damage and cause an earthquake.  Move the 
+group inside and go 2 east when you can.  'Open door' to open the secret, and 
+kill the 2 theiwars to the south to cause their invasion.  Now the mines will be 
+overrun by theiwars instead of hylar.  Make your way back down toward the 
+foreman's chest, killing the theiwars for good coinage enroute.  In the chest 
+room will be 2 guards and a named warrior who loads 'a dark shield of Kharolis' 
+(nice heavy bashing shield) and 'a pair of granite Theiwar gauntlets' (antigood 
++con hands).  Killing the warrior causes Jehnzan and Kayhnar to pop back at the 
+Sealed Tunnel where your tank blew up the crate.  Jehnzan is a mage, Kayhnar an 
+assassin who both hit decently hard.  Jehnz loads 'a suit of flowing black 
+armor' (antigood +7th slots autoinvis mageonly), Kayhnar loads some sleeves that 
+are probably +dex.  Jehnzan also loads a key to the wall safe in the foreman's 
+chest room.  After killing these 2, head back there and check out the safe.  
+Inside loads 'a cuprite sample' that can be presented to the sanction smith to 
+receive 'a heavy cuprite battle axe' (heavy, nolore, deadly axe prime).
+
+
+**Village of Mortigoth
+
+Straightfoward kill everything zone with a lot of dts, so be scanning.  The ogre 
+leader loads 'a sword of carved obsidian' (3d6 1/1 lblade prime antigood) and a 
+few other misc items.  The cave wyrm loads 'a wicked wyrm tooth dagger' (decent 
+thiefy offhand piercer).  Further in, the evil treant can load 'a treant leaf 
+potion' (norent heal/barkskin potion).  The ogre patrol leader inside the 
+village can load 'a pair of razor-lined gloves' (+dam handworn), and 'a shirt of 
+black chainmail or somesuch' (+str bodyworn).  The ogre shaman west of the city 
+can load 'a human bone ring' (-5hp +wis ring), and 'a thick, woolen cloak' (+5hp 
+aboutworn).  Grisk, the ogre leader can load 'a collosal battle axe' (3d6 3/3 
+axe prime) and the items also loaded by the 2nd patrol leader.  Once all the 
+ogres in the village have been killed, you can free the mayor east/north of the 
+square to receive 500-700k exp for a good aligned char.
+
+
+**Storms Keep
+
+This zone was much better before the revamp, but anyways.  Begin by having your 
+group (not you) all type 'accept' at Sara and the dragon.  Type 'listen sara' 
+and let her talk until she drops both a letter and a golden amulet.  Loot these 
+and accept.  Move north to the gate and kill the kender/janitor.  Have someone 
+with high strength 'knock gate' to get the guard's attention.  Kill the guard 
+when he comes out quickly, try to keep him floor so he doesn't escape.  Loot the 
+key and open the gate.  There will be 5-10 tracking knights/warriors you may 
+want to filter out slowly.  Move north into the keep (not everything is aggro) 
+until you can see Steel.  Send in your tank, and 'display letter' and 'display 
+gold.amulet' to get Steel to run off.  Kill the mobs, and move west (few more 
+tracking mobs).  Head north and kill the guards/dragons/captain.  Head north of 
+the dragonrider captain, and look at the smith.  Blacksmith can load 'a leather 
+jerkin' (+str/+hr bodyworn) and 'a pair of wicked black boots' (+dam footworn 
+nonmetal).  Note the blacksmith's room is nomagic.  North and east of smith is 
+the stable keeper, kill him for a key.  Head back west, and a few south and 
+unlock the door east.  More trackers come here.  Go east, kill the champion of 
+lily, who can load 'black lily gauntlets' (+con handworn antigood) and 'the 
+plate of the black lily' (+con bodyworn antigood).  He also loads a key you will 
+need.  Head south and kill Romis and his guards.  Romis can load 'an ebony 
+hilted gleaming sword' (nice high-str offhand lblade) and 'an ebony shield' 
+(+bash shield).  He also loads a key.  Head back north to the champion room, and 
+then east.  More trackers at this locked door.  Head through the door and 
+northward to the barracks.  At the northeast end is Steels room, go in and 
+'convince steel' or 'challenge steel' (it may be a new kw but it won't be too 
+hard to figure).  Take Steel back down to Romis area and he will open up a 
+secret.  Follow the path until you can see Grom, and kill him.  Do not touch the 
+knight in the room while Grom is alive.  Once Grom dies, have one of your 
+healers heal the knight.  This is good exp if it's done alone.  Take the group 
+back up the path and west of the cabinet until Steel pushes a button and 
+vanishes.  Have your group all push button to reach the upper level of the keep.
+
+Up from this room are a few more trackers and some master of the thorn mage 
+mobs.  Keep the mages bashed--they can edrain/stun/tent etc.  Head north from 
+here and unlock the west door and fight the 3 tracking, healing knights of the 
+skull.  The high priestess also wanders these few rooms, find and kill her.  She 
+loads 'a small, tattered prayerbook' (word of recall/sunbolt/summon/negative 
+plane protection clerical book).  North of the skulls room are 2 minor priests, 
+kill them without touching the kender.  Once dead, have someone you want to 
+control Steel as a charmie 'push 2.button'.  Now head back to the central room 
+of the upper level.  Head east and kill the guards and the stoneskinned golem to 
+find a mem room.  North of the mem room is a nomagic fight with a lord of the 
+lily.  There is a door to the west of him that leads to the old Ariakan room, 
+but is now a trap set by Lord Saq.  You can either overbash/silence Saq (tough 
+to pull off) or just kill everything.  If Saq manages to yell, kill guard guard 
+lord captain dragon.  Otherwise you only have to deal with Saq and his guard(s).  
+Once all these mobs are dead, 'roll statue' and open the door east to head back 
+to the mem room, and 'move/push fireplace' to open a doorway north.  North of 
+Saq is another fight.  This fight order is usually guard guard high lord, have 
+someone bashing high priest and bashing lord Yath.  This fight can load 'a 
+sterling ornate orb' (unsure stats, +con held maybe).  Once done with this fight 
+head back to the button room.  Steel will automatically 'push button' and have 
+your group do the same.
+
+Head back to the courtyard, being cautious.  You will find a group of Shriners 
+there that you need to kill.  Best kill order is Abraxas, Thar, Katsuhiro, 
+Isamu.  They load a few various items of no excitement, and Abraxas loads the 
+key needed for lord Noom.  Loot them, find the fountain near the smith (Steel 
+will say something about Noom), and head back to the button once again.  Push it 
+(mem in the memroom if necessary) and head further up into the keep.  The 
+'guardian of the tower' dies quickly if you blind it.  Once at the top of the 
+keep, you can go south to fight Kul who loads 'the amulet of Kul' (5hp detinvis 
+neckworn) and 'a transparent shroud' (about worn autoinvis).  Once he's dead, go 
+back the other way and head north.  You'll have to fight some knights/masters 
+again.  Make sure you are flying and try to spin your group north.  You'll end 
+up in a room with a down exit a few times, this room is a nofly dt so don't go 
+down.  Keep trying to go north from the center room until you succeed.  From 
+here, 'shatter 2.mirror (or 1.mirror if you have the mirror key packed)', move 
+north, and 'unl door w'.  West of here is lord Noom and his 2 demons.  Noom is 
+not nearly as deadly as he was before the revamp, but he can still be a pain in 
+the ass if you are low on clerics.  Kill his demons first (stabbing them on 
+entry or having tank kick/charge the first one helps) while keeping noom on his 
+ass with charges/bashes.  He areas like any other high mage mob and has his own 
+flesh decay area spell that does quite a bit of damage.  Noom loads 'a robe of 
+the elements' (body worn autoinvis), 'an obsidian crown' (mageonly 2int 
+autoinvis head), and 'the black staff of shadows' (immune_edrain prime staff 
+mageonly).  You can 'push/move chest' to get below the room and loot the coins.  
+Either Noom himself or the hidden room can load a magebook.  This is probably 
+the most chaotic book load in the game.  It can be anything from forcebolt to 
+(uniquely so far) prism.  The mirrored monocle is needed to reach Ariakan so be 
+sure to loot it.  Move back to the mem room and mem.
+
+From here, move west, south, west and wear the monocle.  You will then be able 
+to 'ent passage' to reach the secret area of Ariakan.  Sara will be in the room 
+for this fight so don't use area.  This fight can either be really nasty or 
+pretty easy depend on how your saves fair.  When you move in, kill the guards as 
+fast as you can.  Once Ariakan/Flare arrive the kill order (assuming everything 
+is alive) is guard guard guard guard dragon lord.  Ariakan can load 'a skull 
+helm of takhisis' (antigood immune_heat headworn), 'a gleaming ivory staff' 
+(4d4++ offhand blud), 'a black lily pendant' (+10hp neckworn antigood/evilonly 
+perhaps), 'a pair of dark legplates' (+dam legs), and/or 'the dark plates of 
+Takhisis' (+dam legworn evilonly).  If Steel and his owner survived, you can 
+'free sara' with Steel in the room to receive upwards of 1million experiece for 
+a goodie char and a key.  This key opens either the cabinet in the lily champion 
+room, or the silver box beneath lord Saq's room.  You can 'open rug' in Saq's 
+room to access the box.  The cabinet loads 'an old tarnished lance' (antievil 
+2d12 ++ piercer prime) and a druid tablet (mass refresh, firestorm, word of 
+recall).  The silver box loads 'a golden orb' (held light +7th circle clericonly 
+that is also a heal wand).
+
+
+
+**Mystic Isles
+
+This zone is west of Drac Tower and also past the evil great white shark.  In 
+the village, the high priest and his posee load 'an alb' (+8hp +wis aboutworn), 
+'a papal cross' (goodonly autofly held light), 'a maniple' (+int wristworn 
+clericonly), and a cure disease/gust clerical book.  To progess deeper into the 
+zone, move west a few of the high priest to the fountain and 'move/push 
+fountain'.  Go down and loot the key.  Next head north to the gate, and then 
+east a few until you find the Commander to your north.  Kill him and loot 'a 
+letter' from his corpse.  Go back to the gate and murder the gateguards.  Move 
+north to the golems.  From here you have to fight through a forest full of 
+annoying-ass giants and giant mages.  The path through the forest is this:  
+n,u,e,d,n,u,n.  Once you reach the last room 'open bark' and have a nonevil 
+'agree' or 'accept' what Miles says.  Loot the key he drops and go back down 
+into the forest.  Head north until you reach the corner of the castle and head 
+east to find the gate.  A few east of the gate is the giant commander and a 
+draconian advisor.  These two can load 'a leopard skin cloak' (+dex aboutworn), 
+'a leopard skin sash' (+dex waistworn), and 'a suit of crimson banded mail' 
+(+dex bodyworn).  Head back west to the castle.
+
+Once inside, get to the central room and go south.  Have everyone either 'enter' 
+or 'touch mirror' (both commands do the same thing).  Move the group 2 north.  
+If the room does not have a closed down exit, move back 2 south and have group 
+'enter' or 'touch mirror' again.  Repeat this until you reach the room with the 
+down exit.  Leave your group there and head back south and touch the mirror.  
+Now you need to find 2 keys.  Go 2 north and south until you find an NES exit 
+room and go east.  Type 'open statue' twice, loot the key from the statue, and 
+flee from the one that attacks you.  Head back south and touch the mirror.  Now 
+go 2 north again until you reach an ES room.  Once there go east, 'get key' and 
+'smash orb'.  Now keep going 2 north, south, touch mirror until you reach your 
+group.  If you end up in the labyrinth at some point, moving u,n,u,d,s will get 
+you out.  Once back at your group 'unlock crate' and loot the key, then unlock 
+the D door and go down.  Don't touch anything in the next room.  'Unlock silver' 
+and head 2 east past the dt room.
+
+From here you can go south/up to the battlements.  The archers here can load 'a 
+fine silver bow' (3d7 1/1 bows) and the captain can load 'a mystic bow' (3d7 3/3 
+bow).  Find the door to the tower and head up.  At the top there are 3 scholars 
+and a mentor.  Quock can load 'a long rope and pouch' (+int beltworn container) 
+and 'a moon staff' (+int mage weapon/offhand).  He also loads tablets 
+(paralysis, cone of cold).  Once done head back down into the keep and go north 
+into the library.  Here, 'pull/move rug' and then 'touch floor' to open a north 
+exit.  Go north and 'present letter' to the general to receive the key to the 
+queen.  Head north to the queen and her dragon.  The queen can load a crappy 
+offhand misc crossbow, 'the royal shield' (norent 40hp shield), 'the queen's 
+diamond wedding ring' (+learn ring), 'a silver fauld' (+con waistworn), 'a 
+silver tuille' (2dex legworn), and a crown I can't remember.  
+
+East of the queen is the vault.  There are different items scattered about the 
+zone that give clues to the combination, but I haven't taken the time to search 
+for them.  Past the vault you can go all north, south, north to reach the door 
+to the king's ghost.  This is a dangerous nomagic fight against the king and his 
+3 undead guards.  The best plan here is to have your tank go in and flee as soon 
+as the minions arrive.  Now, you'll want your tank to go in and flee 
+immediately.  Once he does, move the group in and have them kill 3.minion first.  
+If it doesn't die in 2 rounds have everyone flee out and heal them up.  Repeat 
+this until 3.minion dies.  Once it's dead flee out and heal.  Again, send the 
+tank in to flee instantly, and then move in and kill 1.minion until its dead or 
+2 rounds pass.  Repeat until it dies.  Again have the tank enter/flee to target 
+and kill the last remaining minion.  Once the last minion dies, kill the king 
+like it is any old nomagic fight.  The king's tomb can load 'a diamond bracelet' 
+(goodonly +2dam wrist), 'a pair of diamond circlets' (immune_cold armworn), 'a 
+pair of combat sollerets' (+dam footworn), and a possible magebook.  I am unsure 
+what spells load in this book, should be from relocate or mirror image level.
+
+
+**Forest Shrine of Habbakuk (Shayds)
+
+This is a pretty simple zone filled with good aligned forest mobs.  It's located 
+south of Mt. Nevermind by passing through a hidden exist in a barren forest.  
+The first area is spin rooms with a bunch of wandering mobs.  Fight through them 
+(bash the druids if they assist) and head eastward until you reach a stream.  
+Remove everyones' flies and waterbreath everybody.  Head south, down, and all 
+south once this is done.  2 sentries are above you from here.  South of these 
+sentries are 3-4 tracking wolves that have very low hps but hit kinda hard.  
+Kill them quick.  Wander the village killing elves/sentries/humans/grim hunters.  
+Note that any room that discusses 'moisture' at the end of its description is 
+nomagic.  Sentries and Grim hunters can load 'a woodsman's ring' (saves_spell 
+ring), 'a pair of woodsman's sleeves' (+str armworn), 'a pair of woodsman's 
+leggings' (+something I can't remember), 'a woodsman's vest' (+con bodyworn).  
+In the southwest corner of the village you can fight Shaylon, who loads 'a green 
+hilted machete' (3d5 ++ prime lblade).  The northwest corner is the nomagic 
+fight with Elowyn and Leaf.  Leaf can load 'a windswept sandstone tablet' (can 
+be any winds spell druid), 'an earthen mace' (8hp prime/offhand), and 'a heavy 
+earthen plate' (druidonly +wis bodyworn).  This fight also loads the fake 'extra 
+silvery potion' which is harm instead of heal.  In the center, southern portion 
+of the village is the Elder Mystic nomagic fight.  The room north of him is also 
+nomagic, so it's best to have the tanks flee and go north to receive healing.  
+Kill the clay golem first and bash the elder.  The elder can load 'a hypnotic 
+medallion' (+gaze dkonly neckworn) and a spellbook around ams/relo level.  The 
+chest in his room is hard_pick and can load 'an extra silvery potion' (rentable 
+heal potion), and 'a suit of woodsman's armor' (neutral only bodyworn +heal).
+
+Moving around the mystic hut you can enter Suicide Alley.  This is a series of 
+spin rooms in which 2 caster undead spawn everytime you enter.  Keep moving 
+through it until you come out into the Fey woods.  A jungle wyrm will track to 
+you here, but he's not too deadly.  He can drop 'a plate of elfish bones' (evil 
+only +str -int bodyworn).  The giants in this area can load 'a giant scalp 
+shield' (heavy evil only saves_spell shield).  The centaurs can load 'a bloody 
+centaur skull' (+gaze dkonly headworn).  The pixies can load 'a cracked pixie 
+skull' (antigood canfly ring).  The group of dryads can load a 2int/2wis norent 
+headpiece and 'some dryad skin sleeves' (evil thief only +dex arms).  
+
+
+
+
+
+**Isle of Shadows
+
+There are 2 ways into this zone.  If you have a lot of tanks you can go up at 
+the cliff and go in the main route.  Kill the dragon Khita and 'enter nest' and 
+then 'move eggs' and head down.  Kill the waterweirds and head east to the 
+deadend.  Have a few strong people 'turn statue' and move north.  Kill the 
+undead guardian and 'slide sarcophagus'.  Tero is a dangerous, hard-hitting 
+nomagic fight.  He is also worth 500k+ experience if you aren't ranked.  Have 
+the tanks all go down and kill him, assign 1 warrior as the basher.  Be sure to 
+rescue off at fair/bad and instantly if Tero bashes someone.  Have the tanks 
+flee or go up for heals.  Tero loads 'a pair of heavily scratched gauntlets' 
+(used to be +2hr/+2dam neutral only, unsure now), and a nice belt I can't 
+remember the name of.  Loot the dagger he drops and unlock the door above him to 
+continue into the zone.  From the central staircase room you can go up twice to 
+fight the thief/stabber mob Shiira.  Shiira loads 'a pair of greasy footpands' 
+(ranger/thief only +2dex footworn), 'a golden nail' (+pick), and a glowing 
+dagger that generally sucks.  Head back down to the basement.  East of the 
+bottom is a guardian golem who can load 'a suit of marble plate' (clericish 
+saves_spell bodyworn).  In this room and the room south there are 'revered sons 
+of darkness' who each can load 'a black crystal staff' (lightweight 2wis prime 
+blud).  Loot the marble shard from the golem and unlock the door east.  North of 
+the golem is Walcanar and Aegis.  This can be a long fight if you don't have a 
+paladin so make sure you have a good number of heals.  You can either have 
+everyone kill Walcanar and bash Aegis or just have people kill/bash Aegis.  
+Absolution works well on Walcanar.  Walcanar can load 'a wreteched medallion' 
+(nolore +heal det invis nv evil only cleric neckworn), 'a dark blue robe' 
+(norent imm heat/cold aboutworn), and 'an ivory staff' 
+(steelskin/darkness/sacred ward/restoration clerical book).  Aegis can load 'a 
+green demonic ring' (+1 all slot evil mage only -con/hp) and 'a small golden 
+trident' (10hp +int piercer prime casteronly).  The chest in this room requires 
+a thief and is hard_pick, and loads a key for the quest and 'a black pearl 
+inlaid ring' (autofly imm_drain ring).
+
+East of the golem is the room leading to 5headed.  By saying 'selur idhob' you 
+are transported to a 1man room west of the dragon.  Evil characters can enter 
+the dragon's lair without being aggroed, but neutral/goodies will piss it off 
+nicely.  This is an extremely tough fight that can be insanely unpredictable.  
+The best method to win is to have all your evil chars in the room and grouped 
+up.  When ready, have your non evils (has to be done 1 at a time) say the 
+keyword, enter the lair, and follow the leader.  Having your tank do this first 
+is a good idea if he's not evil.  Once you get everyone in the room, do your 
+best to get everybody killing 1.head 1.head 1.head 1.head until they are all 
+dead.  Area is godly here, if you can keep your casters alive.  Once 2/3 heads 
+die, it becomes much easier.  Once down to just the body, have your healers 
+retreat and mem while 1 keeps casting.  The body can heal itself numerous times 
+and has a lot of hps.  If you win, its a huge rank, 2million exp, and can load 
+the best spellbooks in the game barring pws.
+
+The other entrance to Shadow is for use if you don't have enough tanks to kill 
+Tero, you want to do Caldean, and you have a thief.  Go north and east from the 
+base of the cliff and 'pull branch'.  Then go 2 north and all west to reach the 
+keep.  Keep the doors around you closed to hinder the tracking of the masters of 
+dread annoying mobs.  The room to the west of the 1st keep room has a door to 
+the west that must be picked by a thief, and is hard_pick.  North of this center 
+room is the dark lord captain who can load a few mundane items.  In the captains 
+room, have a sanctuaried mage 'ent wardrobe', 'open crack', go down into a few 
+mobs, 'g all hole' (a key) and dim door or relo back to you.  This is the key 
+for Caldean.  Head back south and west, kill the 2 elite guards, and head up.  
+You are back in the area with Shiira and Walcanar below you.  Unlock the door to 
+the east and kill the night golem.  Nightgolem can load 'a night shadow 
+bracelet' (+hp wristworn) and 'a bladeless sword' (nolore 2d9++ish lblade 
+prime).  You can 'open door' to open a hidden door to the north.  Send an imm-
+drain tank in and kill the wraith to the north.  In this room 'blow candle' to 
+open the door to Caldean.  Caldean is a typical high level mage mob with a cat 
+lacky.  Kill/bash the cat first and dualwield for Caldean who is nobash.  
+Caldean can load 'a black robe of shadows' (+int bodyworn antigood/evilonly 
+mage) and 'a shadow mask' (+int headworn mageonly).  He also loads a mummy claw 
+that is the key to a jar (unlock jar) in his room.  A blood red scroll loads 
+inside the jar (heal, stoneskin norent scroll).  'The sceptre of shadows' is a 
+quest item/edrain wand.
+
+
+**Tarsis Wastelands
+
+The only exciting mob in the wastelands is the Ancient Hermit.  You need to spin 
+out into the wastelands and find the up exit in the southern area.  Spin up into 
+the path and follow it to the hermit.  East of the hermit is a dt so be careful 
+and don't flee.  Hermit has a lightning bolt special that can do alot of damage 
+so bash him down.  He loads tablets (charm monster and tornado), 'a lightning 
+rod' (+2 6th slot held druid only that can storm call if you 'thrust rod'), and 
+'an amber necklace' (autoinvis/detinvis neckworn druid only).  The brass quest 
+also exists around the wastelands, but too many fools already know it and spam 
+it.
+
+
+**Ancient Keep  (**Note:  The entrance from Gargath’s Keep now involves a 
+combination)
+
+You can either enter this zone through the Mushroom Forest or though Gargath’s 
+keep.  The best entrance is through Gargath’s, Mushroom Forest just sucks.  
+After killing lord Gargath, make sure everyone is freshly flying, ‘open throne’ 
+and follow path to the keeper.  Kill him, loot the key, and continue the path 
+until the end.  Open the door and send the tank south.  This fight is maid maid 
+valinda.  The chambermaids can load ‘a silk ribbon’ (+wis ring).  Open the door 
+east and send tank, killing the 2 spellcasting butlers.  Once dead, heal up and 
+have everyone move 1 east.  Once the lag wears, move the group 2 south, and send 
+the tank down.  This fight is nomagic.  Kill the mirror creature and make sure 
+no one flees.  Once it’s dead, move the group 1 south and heal up/fly everyone.  
+Head 2 west and send the tank down.  Kill boy girl priest healer, bash priest 
+and healer.  One of these mobs can load ‘a long chain and pentagram’ (evil only 
+neckworn/held autofly) and a cure disease/gust clerical book.  Open the door 
+east and wait for the 2 tracking guards and murder them.  Head 2 east, send tank 
+up and kill the stabbing trainee mobs.  Loot the spinning dagger and ‘lean 
+trophy’ to open an exit east.  Go east (nomagic) and ‘unlock/open amosnevine’.  
+Send the tank north and fight Erebus.  He has a special to leave combat and stab 
+a random group member, hard.  This is an extremely dangerous fight with casters 
+and erebus must be bashed well.  Avenge faith prime can make this fight a 
+cakewalk.  Eerebus can load ‘a black thieving plate’ (thief/barb +2con 
+bodyworn), and ‘a black crested visor’ (unsure stats, detects headworn).  Go 
+back to the mem room if necessary.  From there go east, all north if you have 
+the key from prince Ibon in Gargath.  Kill the elite guards, unlock the 
+door/lion and go north to kill King Starden.  He loads a few neat items I can’t 
+think of off the top of my head.
+
+East and north of the memroom is a closed door w.  Have the tank spam west while 
+you open the door so that Vauld doesn’t track out into nomagic.  Move west and 
+kill jaguar/vauld.  Vauld loads ‘a slender spiked war axe’ (rangeronly 2d9++ 
+prime axe) and his jaguar loads ‘a diamond-studded jaguar collar’ (+health 
+rangeronly).  Move a few south of Vauld to a closed door e.  Have your casters 
+sit out if they like, the next fight is a nasty stabber in nomagic.  Make sure 
+everyone is flying.  Move east, open doorway, and send tank east.  Evaro needs 
+to be bashed, but also make sure someone rescues the tank if he gets low.  
+Avenge faith primary makes this fight very easy also.  If Evaro flees, send a 
+different tank in each time.  Evaro can load ‘a dark red dagger’ (3d4 encantable 
+offhands), ‘a dark red visor’ (headworn infra/det invis), and ‘a dark red 
+thieving plate’ (+dex bodyworn).  Once he’s dead, head all north of his room to 
+find the Warrior Statue and Amity.  These two require a quest to fight and are 
+very tough.  I haven’t spent time learning the quest.
+
+South and 2 down from Amity is the crazy warlock and unfinished strong warrior.  
+Kill warrior, bash warlock.  Warlock drops ‘a strange book’ (powerful strong 
+warrior charmie).  Head back 2 up and north to mem if needed.  If you go all 
+south from Amity to the NE room and go east, there is a furiously evil mage 
+below you.  Send tank in and bash him.  He can load ‘a pair of magic shoes’ 
+(saves_spell nosummon footwear).  2 east of him is an outlaw priest that can 
+load ‘a set of prayer beads’ (+wis/int neckworn clerical).  The pit also has 
+quiet healers and adventurers, adventurers can load ‘a spiked golden bracelet 
+(or similar)’ (+dam wristworn).  I am unsure of the path to the pitmaster from 
+the outlaw priest, so be careful.  Some of the pit rooms are nomagic.  The 
+pitmaster is magic, and needs to be bashed.  He summons hordes of rats to attack 
+random people so have your tank rescue well.  2 west and all north from 
+pitmaster leads back to Amity.
+
+From here, go south, west, and 2 north to fight a spellcaster.  He can load ‘a 
+pair of spellcasting gloves’ (+10hp +int handworn).  This room spins.  You 
+either move back into the Red Room, into a Closet, into a Completely Dark Room 
+or into Lord Kaligath’s chambers.  If you spin into Completely Dark Room you are 
+stuck in another spin.  You will randomly go into a cave that leads back to 
+Vauld, get sucked into the pit, or get stuck in a 1man room with the Master of 
+Darkness.  You can either swap to a mage and have him move you and poof back if 
+master, or give a cleric the strange book and have him kill the master.  If you 
+fall into the pit, the exit (pitmaster) is north, west.  The 2nd room is 
+nomagic.  Repeat this process until you get to fight lord Kaligath.  He is 
+nobash and reflect and casts like any high level mage mob.  Avenge head helps 
+some.  He can drop ‘ancient armor of wizardry’ (+slot and other stats, mage 
+bodyworn), ‘an ancient medallion’ (neckworn nocharm/nosummon), ‘a cryptic ring’ 
+(+dam ringworm), and (rarely) ‘a tarnished wand’ (relevel wand).  Kaligath’s 
+room is norecall, so move group back south when finished.
+
+
+**The Lost Valley
+
+This zone is beneath Garnet (on the 2nd level of the mountains, find a room with 
+only an U exit and type ‘enter’).  Dinosaurs roam this area, just ignore them if 
+you aren’t soloing.  Track/find the apeman runner, kill him, and get the jewel 
+out of his pouch.  Move down when often and get in the bottom center of the 
+valley.  There will be an altar and some more apemen here.  ‘Set/drop jewel 
+bowl’ to activate it.  Now have everyone chant altar quickly (lighted person 
+last) and have the tank move into the Stalker of the Mists.  Make sure people 
+don’t move into the stalker if the tank is low hps, as the stalker does a lot of 
+damage with his breath.  It is holdable.  Stalker can load druid tablets 
+(plantwalk, pass without trace, temporal path).  Once looted, move group down, 
+up, south to escape the mists.  Move into the next area and track down the 
+shadow hunter.  Kill him/loot his key, and move to the north end of the valley.  
+Hunter also loads ‘a shadow spear’ (2d9 flat nothief piercer prim).
+
+Go through the door into the Caves of Despair.  There are a few dts here so be 
+careful.  This is a maze where you need to get through without hitting the dts.  
+A few mobs can load ‘some spirit armor’ (antigood –str autoinvis bodyworn).  I 
+think the path is: all north, west some, north at the first junction, then north 
+again at the 2nd.  Once out of the caves, head north to the gate of the citadel.  
+From here head east, and north when you can’t go further east.  You’ll reach a 
+scannable DT, but if you check exits it will be called ‘A Small Alcove’.  Go in, 
+loot the key, and move back to the gate.  Once inside you have to kill a bunch 
+of stoneskinned guardians.  They are no_stab, so either have a fire/iceshielded 
+caster tank them or kick/frag them down.  Kill the first one, move west (maybe 
+1n first) and then kill the 2nd guardian.  Head north from that one, and then 
+east to the 3rd guardian.  East of here is the Shadowlord.  He is nobash 
+reflect, and there is a red skull laying on the floor in his room.  Anyone 
+touching the skull will die.  Shadowlord is a rank mob and loads ‘a magic pouch’ 
+(a very large waistworn container).  Once dead, head back all west, all south, 
+eastward, and then north some to the 4th guardian.  Kill it, go north to the 
+deadend.  Do not touch the skull, but have everyone in your group type ‘up’.
+
+This central room spins.  You need to get to the west room, go north to the end, 
+loot key, and get back to the center.  Now you have to spin east and head 
+further east until The Door of Imagination, unlock it and follow the path down.  
+From ‘Gliding on the Wings of Darkness’ head south and east to find a down exit.  
+Be memmed and ready.  Down is the last fight, kill order savant then silent.  
+Both are reflect, savant bashable, silent observer nobash.  Both mobs are rank 
+and observer is a nice 300k exp.  Observer can drop an unknown mage book, ‘some 
+fur-trimmed boots’ (resist_cold +mvs), ‘a black pearl ring’ (unsure stats), ‘a 
+gold bracelet’ (-10ac wristworn), ‘a sable cloak’ (antigood neckworn autoinvis), 
+‘the amulet of Itark’ (neckworn +dex +str), and ‘a gold belt’ (antigood 
+waistworn autofly).  The D exit leads back to the apeman shaman room.
+
+
+**Citadel of Dracos
+
+This zone is located southwest of palanthas through Slade’s forest.  This zone 
+requires a thief (summonable).  Move west through the archieologist camp and 
+kill the 3 mercenaries.  Move down and find the green shard on the ground.  Have 
+everyone ‘get shard’ and they will be ported into the zone.  After getting 
+shard, everyone needs to go 2 up and type ‘agree’.  Once this is done, make sure 
+everyone is either mounted on a flying dragon or flying themselves.  When ready, 
+move the group u,s,e,s,w,s,e to reach the citadel.  Have the tank go down, and 
+have the rest of the group go down individually also once he is fighting.  Area 
+and assisting owns the dreadwolves.  Once they’re dead, move the group west to 
+the closed stairway.  Leave the group there, head all east, go up, 2 north, then 
+run back 2 south, down, all west back to group and wait.  A gargoyle or 2 will 
+track to you and smash open the door.  They are stoneskin so kick/frag them 
+down.  
+
+Inside there are black robed and reengage mages.  The black robes are friendly 
+and no_hassle, so have your bashers bas the renegades.  Firstly from the NES 
+room head all south and have 1 person go into the room east.  Once Gunther stuns 
+move in, listen to him, and loot the key he gives you.  Move back west.  South 
+and west of here are groups of 2 renegade mages and a powerful renegade.  These 
+must all be killed.  Powerful renegades are nobash.  Kill 1 group then mem and 
+repeat if your group isn’t strong enough to kill 2 in a row.  Gunther’s room is 
+a mage mem room, a hidden room west of the NES is a cleric mem room, and a 
+hidden room south of Gunther’s is a druid mem room.  The cleric mem room is also 
+summonable and tellable.  Once these 2 groups are dead, move all north and kill 
+the other 2 groups north and west of this room.  The powerful renegades load ‘a 
+thin, light green robe’ (large aboutworn container, saves_spell).  Once all 4 
+renegade groups are dead, go east from here and kill/bash Domack.  Domack loads 
+‘a glass ring filled with mercury’ (-int +learn mageonly) and ‘a renegade’s 
+robe’ (+int onbody mageonly).  Loot the key and mem.  Move back outside of the 
+mage area and either north or south of the entrance.  
+
+Unlock the door and send tank (2 door guards to kill at each entrance).  Inside 
+this area there are 3-4 groups of 2/3 soldiers and a captain.  Kill soldiers, 
+bash captains.  Hunt down and kill these groups, memming back in the mage’s area 
+when necessary.  Head southward inside the keep and then east some to a room 
+with closed doors E N and S.  Open the door east and kill the captain and 
+general.  The general loads ‘a massive barbed sword’ (3d6 +disarm prime lblade), 
+‘a pair of ebony inlaid armplates’ (+str armworn), ‘a suit of ebony inlaid 
+platemail’ (female_only +2con bodyworn), and ‘a pair of ebony inlaid legplates’ 
+(+dex legworn).  Get the key/open the door and head east.  There are 2 more 
+soldier/captain groups in this area so be careful.  Hunt them down and head 
+north (from east of general).  Follow path to the door guards and kill them.  
+Mem up and make sure everyone has cloak of bravery.  South of this door is 
+Charr, a nobash black dragon.  Beat him down until he’s low hp and he will flee 
+east.  Mem if necessary and move east.  The next fight is extreme damage on the 
+tank until Charr dies.  It is advised to heal every round until Charr dies.  
+Crynus is the other mob here, and he hits very hard.  When he is low hps Crynus 
+must be killed by magic.  Hitting him with melee weapons will only make him heal 
+himself.  Have tanks spam ‘cast’ or remove weapons and let the casters finish 
+him from bad.  Crynus loads ‘a treated steel rapier’ (3d6++ or 2d10++ lblade 
+prime, very nice), ‘a pair of treated steel gauntlets’ (+2dam dkonly), ‘a pair 
+of treated steel armplates’ (+dex armworn I believe), ‘a suit of treated steel 
+platemail’ (not a clue, but nice), ‘a treated steel bracer’ (+hitroll wrist I 
+believe).  He also loads a gown you will need.  Once looted, ‘lift skirt’ to 
+reveal Ryka, then ‘display gown’.  She will talk and drop a rune you need.  Head 
+back down, mem, and move back east of the general.  Move south, east to find a 
+closed door n.  
+
+North of here is a stabber mob that stabs insanely hard and hits nastily.  Tank 
+needs to string open door n,n and you need to follow and heal him instantly.  
+Door also needs to be closed asap to prevent mob from fleeing.  Once the 
+ambassador is dead, have thief pick bookcase.  Open the bookcase and move east.  
+Don’t touch the prisoner, but kill the torturer.  The prisoner can be one of 
+three mobs:  A ranger, a cleric, or a paladin.  ‘Free (mob)’ will give you a 
+staff and the prisoner’s gear will drop to the floor.  The ranger loads various 
+‘ergothian hunting armor’ pieces that are nice and ‘an ergothian hunting bow’ 
+which is very nice.  The paladin loads various ‘brushed steel’ armor 
+pieces/sword.  The cleric loads ‘ancient elven’ armor pieces, including ‘an 
+ancient elven breastplate’ (female_only +heal bodyworn [maybe antievil]).  Make 
+sure you have the staff and head back out past the general and to the northern 
+end of the keep.
+
+You’ll reach another room with closed doors N E and S.  Have thief pick door 
+east.  Move in and ‘wave rune portal’ to open it.  Have group all enter portal.  
+This area is all spins with obliterating abominations.  Rescue casters instantly 
+here.  Head east/northish until you reach a room with an U exit.  Go up, west, 
+and ‘c ‘dispel magic’ doors’ to break the seal.  Mem full, unlock the doors, and 
+go west to find Galan.  He won’t be agro until you ‘throw staff sphere’ or ‘toss 
+staff sphere’.  Once agro, he is a mean nobash mage mob.  He also has group 
+damage specials and sleep specials.  2 stoneskinned gargoyles will also come out 
+of the walls to rescue him.  Keep people targeted on Galan and ignore gargoyles 
+as well as possible.  Be sure no one touches the shard in the room or else they 
+get ported out.  Galan loads a nice magebook (relo/mirror level likely), ‘the 
+robe of Galan Dracos’ (+15hp +int bodyworn mageonly), ‘a palladium ring’ (globe 
+charges), ‘anklets of woven palladium’ (legworn +dex canfly), ‘an amulet of the 
+astral plane’ (secret keyworded [I don’t know] nomagic/held recall item), and ‘a 
+runed hood’ (nv headworn).  A silver key also loads someplace in this room or 
+near.  It unlocks the chest in the archieologist camp, which loads Honor’s Face 
+(very nice nolore axe prime).
+
+
+
+**Pax Tharkas
+
+This is a very long and interesting zone.  This guide assumes you plan to do 
+both Glymmer and Verminaard.  Unfortunately I haven’t had a chance to get back 
+inside to completely figure out Feisal, so he won’t be included. You will need a 
+‘medallion of Mishakal’ from Xak Tsaroth, so make a quick stop there before 
+heading toward Pax.  Also I haven’t had to lead Pax in quite a while, so a few 
+of the room directs might be off slightly.  Either way, you should be able to 
+wing it easily from what I provide.
+
+Begin first by going to the entrance of Qualinesti and going all south when 
+able.  Once in A Crescent-Shaped Clearing ‘push bush’ to reveal a path south.  
+Move south (once or twice) to find Gilthanas and Eben.  Ignore Eben and bow 
+before Gilthanas.  Let him speak and allow a tic or two to pass until he 
+shoulders his pack.  Say ‘You have my word’ and he will give you a glowing 
+yellow gem.  Leave Qualinesti and get back out to the road, and move toward the 
+regular Pax entrance.  Kill the guard, make sure everyone is always flying, and 
+head along the path west.  The down exit is a no_fly dt.  You’ll run into groups 
+of 2 hobgoblin soldiers and a hobgoblin captain.  When the captain dies a 
+reflect worm will spawn.  These groups respawn occasionally so just deal with 
+them.  Find A Path Along a Wall NS exits (I think that’s the room name) and 
+‘push stone’ (or push wall perhaps) to reveal an east exit.  Make sure tanks are 
+healed and send one 2east.  The fight is nomagic and involves a few guard dogs 
+and some tracking guards.  Kill them and move up.  Kill the archers above you 
+and the pitchman and his lackies to the west.  Back in the center room you want 
+to buff up your best tank as much as possible and have him ‘knock door’.  He 
+will get sucked into the closed room east and forced to fight a solo nomagic 
+mob.  It’s not overly tough, but can cause problems if unprepared.  Once it 
+dies, have the tank loot the key and come out.  Go in and loot the red vial from 
+the chest that has appeared in the room.  Move back down and outside of the 
+tower.  Head south and follow the path up the cliff.  Kill the tracking 
+guards/wyverns when they come.  Find the wounded knight and either ‘drop vial’ 
+‘present vial’ or ‘give vial self’ to help him.  He will give you a figurine you 
+will need later.  Head back down the cliff and back toward the zone entrance.
+
+Head east this time, killing the captain groups whenever necessary.  Follow the 
+path to a NSW.  West of here is the draconian encampment that holds very hard 
+stabbing sneaking guards.  These guards load ‘a grooved dagger’ (3d6 +2dam thief 
+prime).  A few other items load in the camp that I haven’t seen load in ages.  
+It’s dangerous and probably not worth the risk mid/late wipe.  Head southward 
+until you reach a Tree.  If you look at the tree you will see there is a hole in 
+it.  ‘Place figurine hole’ or ‘insert figurine hole’.  Then ‘say huma’ to open a 
+passageway east.  Go further south until you find a room with a ladder.  Have 
+the tank spam ‘climb ladder’ and once he goes, the rest of the group also.  Kill 
+the archers and the commander.  He loads ‘an unstrung black bow’ that you need a 
+high str person to string.  When done it becomes ‘a large black longbow’ (4d4 
+3/3 bow that specs cone).  Continue southward until end, go east, and ‘place 
+gemstone indentation’.  Head back north to the exit made at the tree.  Head down 
+the path and follow it until you reach a dead end.  Have a good aligned person 
+‘pray/kneel statue’, go n, and ‘spin/turn wheel’.  The wall to the east will 
+open.  The next part of the zone is packed with knights of solamnia that agro 
+evils.  Fight through them if necessary.  Follow the path eastward until you 
+reach a 4-exit room called Center of the Action.  South of here is a path 
+leading to a recup/mem room.  North leads to the crazy druid.  Mem up if needed 
+and head north to the druid.  You want to have the tank enter/flee in order to 
+get the beetle to appear.  Once done, send him back in and kill beetle/bash 
+druid.  The beetle loads ‘a rhinoceros beetle carapace’ (+hp druid bodyworn).  
+The druid loads ‘a faded green robe’ (about worn +2wis), ‘a bracelet of threaded 
+roses’ (+7hp +int antievil druid wristworn), ‘a magical watering can’ 
+(autorefilling drink container), and druid tablets (mass refresh, fire storm, 
+and word of recall).  Once dead, head back up and mem in the memroom (druids can 
+mem in druids room).
+
+Back at Center of the Action head east and down.  Have group ‘enter waterfall’.  
+Move north and an east or two (until NEW exit room).  North of here is a nomagic 
+room with a ranger mob inside.  When aggroed, a tiger and bear will track in 
+from the room east and molest the casters, so you need to leave a tank or two to 
+guard them.  Have the tanks kill ranger/flee for heals.  Ranger loads ‘a gold 
+inlaid mithril bow’ (very nice bow), and ‘a pair of fighting trousers’ (some odd 
+statted ranger pants).  He probably loads other items I haven’t seen yet.  Once 
+he is done, get rid of your fly only and become waterbreath.  Leave group to mem 
+and move west (maybe 2) and south through a hidden exit.  Move down to a room 
+with NESWU exits.  In each direction but up there is a statue depicting a period 
+in Krynnish history.  You need to turn them in the right order.  The statues 
+move when the zone repops.  You need to turn statues in this order:  Origins of 
+Mankind, Kinslayer War, Vinas Solamnus, and the Kingpriest.  A down exit will 
+appear in the central room.  Head back, round up your group, and bring them down 
+through the exit.  Follow the path to the entrance of the Solamnic Camp.  Note 
+the knights in this area will track to an evil char, so have area ready if you 
+have some.
+
+You need to roam the camp and kill every single mob here before doing Glymmer.  
+The painter and the commander will yell, so do them last.  Once all the knights 
+are dead, mem full and get ready.  Resist cold is a must.  Lein and Glymmer is 
+an extremely tough fight.  Start by sending your tanks into Glymmer the Elf’s 
+room, and have them kill him.  When he dies, Glymmer the Dragon and Lein will 
+track in and attack.  Move the rest of the group in.  Everyone needs to 
+kill/bash Lein first and then Glymmer.  You cannot flee until Lein is dead.  
+Glymmer will area every single round so be prepared.  Lein drops ‘dragonrider 
+gloves’ (very nice handworn I am unsure stats) and other various perma_maxed 
+items.  Glymmer drops his skull (very nice unsure stats also), ‘a deep purple 
+prism’ (+7th neckworn mageonly), druid tablets (enlarge and insect swarm) and ‘a 
+small golden prayerbook’ (hideously rare—sunray and healing mist clerical book).  
+Assuming you survive this fight, head all west of the camp and climb the hill 
+back up to the mem/recup room.  Mem up and head back outside of the solamnic 
+tunnels.
+
+Head all south and east to the indentation, and head all north into the Sla-
+Mori.  Move west (Do not touch Kith-kanan), north, west.  Rummage to receive a 
+key.  Head back east, south, east.  Be careful here, there is a dt.  Once back 
+at the ESW, head all east to a room with a closed door N.  In this room ‘raise 
+medallion’.  Open the door and head in.  Move past the trash on the floor to the 
+room with closed doors E and W.  There are 3-5 hidden caryatid columns in this 
+room.  They are stoneskinned and assist, so use frags/kick/area.  Once they are 
+dead, ‘pull chip’ to open an exit north, head in and go east.  Have everyone 
+‘move/search debris’ and they will be moved inside of the fortress.  
+
+From here you need to be as fast as possible without dying.  Move the group east 
+and north some until an U exit.  Above here are groups of patrolling guards.  
+You want to kill/bash the mages first and then assist the tank.  There are 2-4 
+of these groups so be ready in case 2 come in at once.  Once groups are dead 
+head east, down, and through the door south.  Head east to a closed door N and 
+go through, be ready for another group or two.  Kill them and head up, north, 
+and west.  Open the door S and kill dog, Zhultar.  Loot the key ring from the 
+dog and any other items (unsure what loads here, always maxed).  Head back east, 
+south, down, east, south to a closed E door.  ‘Select key’ to flip through the 
+keyring to find the right one to unlock the door.  Open door and kill Rthanan, 
+typical high lev mage mob.  He can load ‘a fiery-red ring’ (+7th slot evil mage 
+only that does damage when worn) and probably other items I’m unaware of.  Head 
+back west and all north, and go up into the tower.  Kill the guards there, move 
+down and westward to the other town, and kill the dogs/guards there.  Head back 
+down into the cellar.  Find the locked door that is east, north from the cellar 
+entrance (from debris) and ‘select key’ until you can unlock the door.  Send 
+tank in and kill ogre, commander.  Loot the key and head east, all s.  Use this 
+key to unlock the door south.  This room has a deadly trapped coffin.  Have a 
+thief disable and pick it.  Coffin loads ‘an inverted cross’ (evil only +dam 
+neckworn I believe) and ‘a ring of pure darkness’ (evil only +heal ring).  Head 
+north until you reach another locked door west, select the right key and go in 
+and north.  Listen to Maritta and say ‘Yes’ to have her follow you.  Lead her 
+outside into the courtyard and back toward Zhultar’s room.  Go past his room to 
+the next locked S door, select the key, and go in.  This is best done alone, 
+using say can awaken the dragon.  Maritta will tell you to wait here, so wait 
+for her.  When she comes back, move into the next room and wait a sec.  She’ll 
+produce a key and unlock the cell s.  Move in and ‘free children’.  They’ll 
+follow you.  Wait a second or two, then move back out into the dragon.  The 
+children will disappear.  Head back out, round up your group, and go back to the 
+northeastern corner of the courtyard.  
+
+If you were too slow to kill Zhultar you might have to wait until next sunrise 
+or sunset before Verminaard returns home.  You’ll see a message when Verminaard 
+returns, and also a message showing Ember dying to Matafleur.  Maritta will 
+appear and follow you.  Have her sit here so she doesn’t get killed in the 
+fight.  Move 1 west and prepare for Verminaard.  This can be a very long fight 
+because Verm is limit damage, high heals, and nobash.  You want to begin by 
+killing/bashing the draconian.  Hopefully Verm will waste most of his heals on 
+the drac before it dies.  If he summons a Demon, get tanks to target it—it has 
+low hps and Verm can heal it.  Once the draconian dies get everyone on 
+Verminaard and wail away at him.  Have clerics use their heals, flee out, and 
+mem as fast as they can.  Once the draconian is dead the fight isn’t overly 
+deadly, but it can drag out past heal count.  The draconian captain loads ‘a 
+skull flail’ (3d5++ prime bludgeon decapper), ‘a black insignia of the 
+Dragonarmy’ (+con neckworn I believe), and ‘the robes of darkness’ (formerly 
+evilonly nobash, unsure stats now).  Verminaard loads a thin metal rod (druid 
+lightning storm tablet), an ancient tome (gate/animate/strength of one clerical 
+book), and a few other items I have never seen load.  You can go west from Verm 
+and select the right key to fight some wyverns.  They drop wyvern claws (decent 
+misc offhands).  Head east of Verm to find the barracks.  Unlock the door to 
+find the blacksmith.  He is a typical nomagic fight, not too tough.  Look the 
+trunk from his corpse and look inside.  Trunk loads ‘a pair of unfinished 
+mithril legplates’ (+20mvs +dam legworn).  Once everything you want to kill is 
+dead, retrieve Maritta and move to the southeastern corner of the courtyard.  
+Kill the guards at the prison entrance and go in and east, south.  Let her and 
+Elistan talk.  When he finishes, have a cleric heal him.  This is a good exp 
+quest for good align.  He used to drop ‘a small tattered prayerbook’ (word of 
+recall/summon/negative plane protection/sunbolt clerical book), but it hasn’t 
+loaded the last few times.  There is also a throne room north and 2 west of 
+Zhultar.  The throne likely loads items I have never seen load.  Kith-Kanan also 
+loads ‘Wyrmslayer’ (a nice prime lblade usable only by elves).
+
+
+**Dragon Isle Chain (Irda)
+
+This zone is hidden in the ocean north of Kalaman.  To find it, find the old 
+elven fisherman and follow this path: 
+ 
+n,n,w,n,e,n,n,e,n,n,w,w,w,w,s,s,e,n,n,e
+
+Starting at A Strange Lagoon, the entire zone is no_summon and (I think) 
+no_poof.  Head eastward inside, kill Jargin and his elementals.  He loads ‘a 
+belt of seashells’ (waistworn saves_spell druid/mageish).  Follow path to the 
+village gate and kill the human guards.  Head all east into the zone, stop at a 
+closed tree north.  Go in and kill Veros, loot the key, go up, unlock/open 
+hatch, and loot the trunk in the room above.  Take the leaves (if they loaded) 
+to the alchemist (a few rooms further east and 1 north) and give them to 
+yourself to receive ‘an orange potion’ (norent fastdecay AMS potion).  Head all 
+east, and turn all north.  Go eastward through the door and kill the 
+priests/Clagon.  Loot the key, mem, and head south.  Unlock the door and send a 
+tank into the nomagic room to ‘rub pentagram (or similar)’.  Htoll will appear, 
+and the tank should flee.  Close the door once it tracks into the room Wizinvis.  
+Have the tank flee and instantly reenter to force Htoll visible.  Keep him 
+bashed, and overbash/frag him hard when he hits bad.  He can escape and hide 
+no_hassle if bashes fail or he dies too slow.  Htoll loads spellbooks (clair, 
+ams, relo, monstersummoning, maybe mirror).
+
+Once done with Htoll head back outside the temple and all south to the other end 
+of the city.  Go through the gate and follow the path.  Fight off the blink 
+dogs/irda scouts.  Kill the 2 giants at the castle gates, be careful of their 
+special.  Once memmed, send the tank through the gate and wait for the horns to 
+blow before going in.  Lots of trackers here, area and assisting rule.  Raylax 
+is the only one who hits remotely hard.  Raylax loads ‘a light golden shield’ 
+(autolight shield) and a key.  Take his key and move through the door at the 
+north end of the courtyard.  Move all north.  2 west of this room is a 2man room 
+with a hermit.  The hermit loads ‘a staff of meditation’ (+2int prime blud).  He 
+is a dangerous fight.  The room is 2man nomagic and the hermit has a para 
+special he likes to spam.  2 tanks need to kill him/disarm the staff as quickly 
+as possible, fleeing for heals.  Once done with the hermit, head all east an 
+north.  The next fight is very tough, so spell up before heading east into the 
+nomagic room (quaffing the AMS potion if it loaded is a good idea for a healer).  
+When ready, move east and say ‘Laniru’ to open the door.  This fight order is 
+bard, terahio, lord.  The bard is reflect and needs to die as fast as possible.  
+Bard has a hold/entangle special he enjoys spamming and fleeing is impossible 
+while he’s alive.  Area works well.  Once the bard dies bash lord to stop him 
+from casting.  Bard loads ‘an ancient tome’ (gate/animate/strength of one 
+clerical book).  Terahio loads ‘a silver slicer’ (nice offhance lblade) and ‘a 
+pair of barbed wire boots’ (+2dam footworn).  Lord Loklomin loads ‘a flowing 
+robe of oak leaves’ (+8th slot druidonly aboutworn), ‘a silver chain of maple 
+leaves’ (antievil/goodonly +2int autoinvis neckworn), and ‘a rod filled with 
+multicolored gas’ (norent mageonly prism wand).  Loot the key from Loklomin and 
+mem (hermit room is cleric mem).
+
+Move to room south and west of Loklomin, open the wooden, and move west until 
+you can move north. Head north until you can see The Barracks on exits.  Send 
+the tank and let the lammasus track in.  Kill/bash them.  Move east, open the 
+steel door, and kill Tarl south.  Tarl loads ‘a horned helmet’ (nv headworn) and 
+the other key.  Loot his key and ‘combine key’ with the piece from Loklomin.  
+Move north, west, and south some and find the up exit (not the tower).  Go up 
+and east.  Behind a closed N door on 2nd floor is Vestiv, a nobash cleric mob 
+that loads ‘a sky-blue robe etched with gold’ (+wis aboutworn).  All east on the 
+2nd floor leads to a closed E door, behind with is a sun child and Mazuz.  Send 
+the tank in and have him flee to make the sun child track out.  Afterword go in 
+and kill Mazuz.  Mazuz loads ‘a helm composed of wispy blue flames’ (+dam 
+rangeronly headworn) and some type of orange flaming potion (rentable haste 
+potion).  Head back all west and down to first floor.  Head further down into 
+the basement and go a few east until a closed door E.  Open it and kill/bash uzo 
+joslen invoker, frag down the skinned golem.  Once their all dead ‘open 
+tapestry’ go south, and loot the tuning fork.  Head back west and follow the 
+path to the dead end.  ‘Tune fork’ to shatter the wall.  Move further to the 
+vault.  Unlock it with the combined key.  Vault loads ‘a black demon skull’ 
+(3wis evil cleric only headworn det invis), ‘a black belt with a skull buckle 
+(+str con or dam I can’t remember and a big container for evil waistworn), ‘an 
+ancient jade ring’ (+8th slot mageonly ring), ‘a serpentine ring’ (+bludgeon 
+skill), ‘a bone-twined leather breastplate’ (antineutral bodyworn +heal), and a 
+possible druid tablet I am unsure of.  A book also loads here that can be taken 
+back to the city (need to kill the mage guildmaster for a key) and turned in to 
+an imp for good exp for evils.  The phoenix east of the vault spawns a tougher 
+one each time you kill it until ‘an ancient phoenix’ which is nobash.  It loads 
+‘a belt inlaid with fiery opals’ (casterish immune_heat waistworn) and ‘an egg 
+of the phoenix’ (charmie creation item).
+
+
+**Celestial Valley
+
+This zone is divided into a Good side and an Evil side.  It’s impossible to do 
+all of both sides in a single run.  It is required (usually) that part of the 
+Good side be done in order to do the Evil side.
+
+Good side:
+
+Start by finding the zone through the Eastern Dreadwoods west of dwarf keep.  At 
+the young knight type ‘agree’ to receive the horn.  Fight through the forest and 
+be sure to kill the Cambion and his group, he loads ‘a long black steel 
+scimitar’ (3d5 offy lblade).  Move to the northeastern end of the forest and 
+follow the path.  ‘Blow horn’ at the dead end to open the path.  Have a good 
+aligned char move in and listen to the cleric’s speech.  After the cleric casts 
+his spell, have the good char move 1 north past him.  Move the rest of the group 
+in and kill the cleric.  Have the goodie char inside keep go 1 east and ‘pull 
+lever’ to reopen the portcullis.  Move in and west to kill Kenny the guard.  
+Loot his key, move east, unlock door n.  Have some tanks spamming bash mage and 
+bash squire as you move the group north into them.  Hug the eastern wall until 
+you reach a room with SW exits and ‘open doorway’ to open a door east.  Move in 
+and kill Vrinal.  His room is cleric_magic_only and he has a hold person area 
+special.  He loads ‘a sunburst long sword’ (2d7++ offy lblade) and ‘a suit of 
+flexible red dragonscale armor’ (bodyworn +dex/+hr armor).  Loot his half of the 
+key and mem.  Move back up, hug the east wall again until you see an up exit, 
+then go all west and 2 up.  Send tank north and kick/area/frag down the 2 suits 
+of armor.  In the room south of the armor you can ‘touch butt’ to open a secret 
+door east.  Go east, north and check the table for ‘a teal potion’ (rentable 
+heal potion) and ‘a teal cloak’ (neckworn autoinvis).  Go north and up of the 
+armor and kill Bors, who loads ‘a honed dwarven battleaxe’ (3d6 3/3 axe prime), 
+‘a sterling cuff’ (+str wristworn antievil [I think]), and ‘a pair of spiked 
+sterling gauntlets’ (+1hr/+1dam handworn antievil).  Head back down, all south, 
+1 down, and all north.  Send 3 tanks and a healer west to kill the archer.  Once 
+it’s dead ‘push green’ to open a secret passage.  
+
+The next few rooms are blocking, so get everyone back outside.  Send the tank 
+west, north, north first then a healer.  Have the rest of the group move in 
+afterword.  Kill the shade, and then have everyone move up (same order as they 
+entered this room).  Have everyone kill/bash mage mage and dualwield for Kinin.  
+They are all % reflect.  Kinin loads ‘an embroidered white robe’ (+int bodyworn 
+mageonly), ‘an azure-symboled white hood’ (nolore +7th slot mageonly headworn), 
+and ‘a purple glass wand’ (very fast decay cloudkill wand).  Loot the 2nd half 
+of the emerald get and ‘combine key’ them together.  Have group head back down 
+and out through the blocking rooms.  Mem if necessary and head back all south, 
+up, all north and unlock the hatch above Bors.  Follow the path to Than.  Than 
+hits hard, has a target special, and has a high damage impailing special at low 
+hp.  Bashes help immensely.  Than loads ‘a pair of stitched dueling gloves’ 
+(+disarm +parry I believe), ‘a flexible red dragonscale bracer’ (+hr wristworn), 
+‘a fine dueling rapier’ (nolore nice prime lblade), and a key you’ll need.  Grab 
+the key and head back down to the bottom level.  Mem if necessary and head all 
+east to the other tower and move up to the top.  Head north, kill the 2 keep 
+guards, and unlock the hatch.  Kill the sea elf ranger at the top of the steps.  
+He hits very hard but has no specials.  Sea elf ranger loads ‘a sea elf 
+headband’ (ranger/thief detinvis infra headworn), ‘a flexible glassteel sabre’ 
+(2d7/2d8 offhand lblade), and ‘a flexible red dragonscale sleeves’ (+dex +hr 
+armworn).  Loot his key and mem fully.
+
+The next fight (ranger, cleric, druid) is long and can be dangerous.  The best 
+way to handle it is to have everyone kill the druid and bash the cleric.  The 
+tank needs to be awake and able to rescue quickly when the ranger targets or 
+rescues the druid.  Have clerics run back down to the mem room and mem what they 
+can during the battle.  Once the druid dies, have everyone kill the ranger and 
+bash the cleric.  The ranger hits pretty hard, but without the druid the fight 
+is much easier.  The druid loads ‘a long golden cloak’ (aboutworn canfly), ‘a 
+runed topaz bracelet’ (antievil nolore +int +7th slot druid only wristworn), and 
+‘a steel-shod oaken club’ (keyworded prime bludgeon druidonly nolore).  The 
+cleric loads ‘a moonstone ring’ (ringworn +wis).  The ranger loads ‘a small 
+feathered pendant’ (autofly neckworn) and a ring I cannot remember but is 
+nolore.  Loot the key from the cleric, mem full, and prepare for the planetar.  
+Planetar hits randomly weakly or extremely hard, has a high damage area attack 
+he uses if not bashed, and a very deadly single-target special.  Heal the group 
+well and keep the tank above bad and it shouldn’t be overly tough.  Planetar 
+loads ‘a massive sword of divine wrath’ (nolore goodonly 2handed sword that hits 
+randomly for special damage), ‘a pair of huge white wings’ (aboutworn canfly), 
+and ‘a blue silken turban’ (+3 3rd circle good mage only headworn).
+
+Once the planetar dies, a demon shows up, drops some coins, and tells you to 
+leave.  The last part of the goodie side is very dangerous and requires either a 
+lot of luck or a huge amount of area.  Mem full and slowly move down toward the 
+bottom level.  Note that all the mobs scantrack, and there are about 10-12 of 
+them.  They all massacre or harder and half of them are high level mage mobs 
+(prism/tent/stun).  The trick is to either scantrack them solo and kill them one 
+by one or jump whole groups and hose them down with area.  The leader demon hits 
+harder and casts more often than the weaker ones.  The leader can load ‘a pair 
+of demon claw gauntlets’ (evil only +dam handworn) and ‘an orb of black flames’ 
+(antigood mage only +12-15hp imm_edrain held).  Once the planetar is dead, the 
+entrance to the evil side of the zone is closed.
+
+Evil side:
+
+The zone is the same up until Kinin.  If Bors is naked he can be skipped to just 
+kill Kinin and get the ‘purple glass wand’.  Make sure Kinin dies fast enough so 
+he doesn’t waste all the charges on it.  Don’t take too long at this point, you 
+need the wand and it decays quickly.  Move back out of the keep and into the 
+forest.  Head all south to the southeastern corner and fight through the bats in 
+the cave.  The end of the cave has the Arch to the evil side.  Have the tank 
+enter the arch first (he will be degrouped) and have everyone else follow.  The 
+entrance room is nomagic and has 2 massacring flesh golems, kill them to receive 
+the key for the door.  Head south until there is a branch to the east.  Buff up 
+your best tank and send him east (he will be locked in a nomagic room) and have 
+him kill the guard.  It’s not overly difficult and he can load ‘a blackened 
+spiked bracer’ (tankonly –dex autoinvis wristworn).  Have him loot the keys and 
+come back out to the group.  Move south and kill 2 more flesh golems and unlock 
+the S door.  Move a room south (maybe 2 rooms) and ‘push wall’ to reveal a 
+secret exit to the east.  Head all east (make sure tank is immdrain) and kill 
+the fiend south.  It’s a stabber mob that will flee, so be sure to bash it.  
+Other than the key, it can load ‘a wickedly barbed shortsword’ (3d5++ antigood 
+thief stabber).  Head back outside the secret wall, make sure everyone is 
+flying, and move all south.  Send a tank down and let most of the dretches track 
+in to him.  They are weak and die quickly but there is upwards of 15-20 of them.  
+Fight them off and head to the southeast corner.  
+
+Unlock the door, leave your group behind, and move south just far enough (no 
+more than 2 rooms) to find the hidden rabbit.  Do not go into the room beyond 
+the rabbit yet, you will die.  Use the wand to cloudkill and wait until you hear 
+15 or so death cries from the south (the rabbit will die too).  Wait for the 
+cloudkill to disperse (or gust) and go get your group.  Move all south and send 
+the tank east.  Kill the 2 insects and piscoloth (he loads a norent mageonly 
+prism wand), loot his key, and have the tank step a few rooms east until the 
+succubus.  She has ‘her arm’ that is a tentacle wand she enjoys spamming if not 
+overbashed.  She can drop ‘a pair of succubus wings’ (antigood female_only 
+bodyworn canfly).  Mem full.  The next few rooms have a bunch of scantracking 
+bone golems that all doublemass/annih.  Rangers beat the hell out of them and 
+area helps also.  Make sure your melees are all on the same one.  Fight through, 
+youll know the end when you see 4 golems in the same room that don’t scan.  Kill 
+them, mem if necessary, and then move north to kill Khane.  He loads ‘a wolf 
+tooth bracelet’ (wristworn +str +hr) and ‘a broad bladed twohanded sword’ 
+(nolore nice damage twohanded sword that has a special to make the wielder drunk 
+[blooddrinker]).  Mem full for the next part.  North of Khane are 4-5 stone 
+golems which you need to stab/kick/frag/area down.  Usually can avoid having 
+more than 3 in a room at once, but they do scantrack.  Make sure you’ve killed 
+them all (don’t touch the rust monster) and have your group mem.  Run back to 
+Khane alone, then move south and west and ‘clear debris’.  Go into the uncovered 
+room and ‘g all shelf’ to receive a ‘creamy black potion’ (norent fastdecay 
+enlarge) and ‘a thin copper wand’ (charm monster wand).  Move back south, east, 
+north some, east, north, west to find a cute little rust monster.  Use the 
+copper wand to charm him, and lead him to the northeast corner of the cave.  It 
+will eat the iron golem and leave a key.  Round up your group and head through 
+the door.
+
+A room or two later you’ll find the next fight, Velchior.  He hits hard and has 
+an extremely high damage bash.  Anyone casting on him will be bashed and take 
+150-200 damage, so let your melee do the work.  Heal the tank early.  Velchior 
+can load ‘a carved dragon claw ring’ (+dam ringworn), ‘a dragon tooth necklace’ 
+(nolore like +2hr +health neckworn), and ‘a carved dragon bone breastplate’ 
+(+2str bodyworn).  Continue on and you’ll find another room with a black robed 
+apprentice and another arch.  Kill/bash the apprentice and have your group all 
+enter arch and get reformed.  From here you can reach Vshrinal by moving 
+u,n,w,w.  There are wandering trash mobs and also big groups of them lead by 
+hezrou demons.  Using mass invis will work well to avoid the manes, but the 
+hezrou’s do see invis.  Hezrous can load ‘a long hezrou spine’ (3d5++ offhand 
+piercer).  Reach Vshrinal and listen to his speech.  Once done, head w,d and 
+send tank down again to fight the glabrezu.  Kill him and lood his head and take 
+it back to Vshrinal.  There is also a Babau either 2 west of Vshrinal or w,d,w 
+of him.  Babau can load ‘a long babau horn’ (headworn +2con).  Vshrinal himself 
+is killable but extremely dangerous.  He hits excessively hard, has an area 
+affect special that either confuses or stuns, and a targeted special that does 
+insane damage and paralyzes.  He loads ‘an ornate twin-bladed battle axe’ 
+(nolore 5d5++ decapper 2handed axe) and ‘the gauntlets of Abyssal might’ 
+(antigood or evilonly 3dam handworn).  Head e,e,s,d from Vshrinal to return to 
+the arch.  Mem full and have your casters get full damage spells.  When you are 
+ready, you’ll have tank enter the arch first and others follow/get regrouped 
+immedeatly after.  The first mob is the archmage.  He likes to cast a lot, and 
+is % reflect.  He needs to be bashed to conserve heals for the 2nd fight.  The 
+mage can load ‘a pair of dark blue satin boots’ (nolore bash_mod footworn), a 
+few other items I’ve never gotten to see, and a high level mage book rumored to 
+be mirror/prism level.  When the archmage dies, you have 1.5 tics before the 
+lich will appear.  The obsidian lich is nobash and perma stoneskinned.  Have 
+your casters frag him down and tanks kick/charge.  The lich loads ‘an obsidian 
+circlet’ (nv headworn) and other nice items I cannot remember.
+
+
+**Qualinesti
+
+Quali is located west of the goblin camp.  You need to find a room with only EW 
+exits and ‘push bush’ to open a hidden path south.  Follow the path west until a 
+NE room.  Move south to enter the zone.
+
+In the southwestern portion of the forest is the shrine guard and the 
+shrinekeeper.  The shrine guard can load ‘a mithril bracelet’ (antievil +dam 
+wristworn) and ‘an elven pike’ (3d6 1/1 prime polearm antievil).  The 
+shrinekeeper might actually load these items, but I can’t remember offhand.  The 
+shrinekeeper is a nomagic room that is agro to anyone non-good aligned.
+
+If you head west from the entrance and north when possible you’ll move towards 
+the city.  When you reac the Cliff’s Edge (north is a dt, be careful), head east 
+first.  Follow the path and kill the posse of elves patrolling it.  Loot the key 
+from the field marshall.  He also loads ‘a helm of clan oakleaf’ (infra 
+headworn).  Move to the end of the path and through the gate, killing anything 
+agro.  Eventually you’ll scan ‘a tall purple elf’.  These are the elven heralds, 
+the most annoying part of the zone.  If they shout, quite a few bronze dragons 
+and elven high guardians will become agro and track you around the zone.  The 
+trick to killing the heralds is to move your group in all together, have your 
+tanks spam bash on them, your casters silence and then frag.  Kill this one and 
+continue south until you reach a closed gate south with a key on the floor.  
+Loot the key, but this gate is pickonly.  Head back out and around to the Cliff.  
+Head west this time and kill the guard and the griffons.  Loot the key from the 
+guard, move west, kill the guard dog, and loot its key.  Move into the city and 
+follow the path to the next herald.  Kill it the same way, and unlock/go through 
+the locked portcullis to the east.  Close these doors behind you so the 
+guardians don’t track later if you annoy a shouter.  Once you reach a room with 
+2 closed exits N and E, open the gate E and kill another hearld.  From here, you 
+can head north to Lord Nam’s house and kill him for a possible druid tablet 
+(call lightning, icestorm, cure critical), head east toward Porthois, Alhanna, 
+and the Gazer, or south toward the platinum dragon.  The most efficient way to 
+do this zone is to go east first, so head that way.  Be scanning for heralds and 
+also elven servants.  The servants have low hps but they will also yell.  Elven 
+citizens yell as well, but they aren’t agro and should be ignored.
+
+Once you reach a closed gate to the east, go through it and head south.  Follow 
+the rooms and kill the K’lael agro guard on the eastern side.  1 room north of 
+this guard is an NS room.  Type ‘pluck petal’ to open an exit to the east.  Head 
+east and up into the tower.  W,n,w from the landing is a memroom for everyone.  
+From the memroom go e,u and scan to see Alhanna and Porthois to the south.  You 
+can kill the royal guards that wander the floor if you are afraid they’ll move 
+in on the big fight.  For this fight, have everyone kill marshall, alhanna, 
+porthios.  Bashing Alhanna helps stop her from healing.  Porthios has a heal or 
+two he might use on himself, but usually he doesn’t bother for some reason.  
+Alhanna can load ‘a ceremonial elven slingstaff’ (casteronly 4d4 3/3 misc 
+prime), ‘an emerald crest’ (2int/2wis headworn), and ‘a pair of regal elven 
+gauntlets’ (cleric only autoinvis handworn).  Porthios can load ‘a great elven 
+axe’ (3d6 2/2 prime axe) and ‘a suit of regal platemail’ (+dam bodyworn).  Once 
+they’re dead, loot the key from porthios and unlock/loot the throne.  His throne 
+can load ‘a hooded black chasuble’ (evil only +heal bodyworn), ‘the starjewel’ 
+(held immune_fire reverse cold resist), and ‘a small tattered prayerbook’ 
+(summon/word of recall/sunbolt/negative plane protection clerical book).  If you 
+wish to fight the gazer, ‘shine moon’ in the throneroom to open up an exit east.  
+The gazer is east, up, west from this room, and it there is a DT to the west of 
+it.  Cloak of bravery is essential.  The gazer is nobash and reflect.  I never 
+took the time to figure out the quest, but ‘a gazer’s eye’ is no longer nobash, 
+but it is awareness and other neat things.
+
+Head back outside the tower to the 3way junction just before the outer gate.  Go 
+north to kill lord Nam (nothing notable about this fight) if you wish, and then 
+come back and go all south.  Go through the door, kill/bash the magic-user, and 
+loot his key.  Head east, up, 2 north, and send tank up to fight an elven lord 
+and noblewoman.  The untrapped chest in the room can load ‘a ceremonial elven 
+cloak’ (aboutworn +dex container rangeronly).  The elven lord can load ‘a great 
+mithril bow’ (4d5++ bow).  Once their dead head d,s,w and ‘unlock/open web’.  
+Move in, and have your group all type ‘break egg’.  Now ‘touch gate’ to open it, 
+move west and north to fight the granite golem.  It can drop ‘a granite shield’ 
+(+5hp shieldworn).  Type ‘push gemstone’ to open an exit east, head that way and 
+type ‘rub neck’ at the room with the fountain and go west.  Now have a few group 
+members (not leader or maintank) ‘bend bars’ to open a doorway north, and send 
+the tank in.  There are 2 stabbing dreadguards here that can load ‘the ancient 
+sleeves of stealth’ (+dex +dam armworn dex/thief).  Move north to the mem room 
+and mem full.  
+
+North of this room is the enormous platinum dragon.  This is usually a pretty 
+easy fight but can get dangerous without resists or if saves lose.  Make sure to 
+be resist electricitied, and have your tank type ‘cast’ when he enters the room 
+to summon the 2 elves.  The kill order here is kill/bash elf elf and then 
+dualwield for the dragon.  The dragon can load ‘a vicious black dagger’ (3d5++ 
+“decapper” dagger prime thiefish), ‘a platinum gilt helm’ (goodonly +heal 
+headworn), ‘a dragonshelm’ (+2con headworn), ‘a pair of platinum gilt boots’ 
+(+dex +con footwear I believe), ‘a thin metal rod’ (lightning storm druid 
+tablet), and ‘an ivory staff’ (sacred ward/darkness/restoration/steelskin 
+clerical book).  He also loads ‘an auburn vial’ (norent autodeath potion which I 
+believe is involved in the gazer’s eye quest).  You can ‘climb rubble’ and move 
+through a tunnel and ‘push wall’ to get back to the rest of the zone if you have 
+reason to.
+
+**Lunitari
+
+This zone is located in the sky (duhh) and you need to find Stutts (northeast of 
+Lemish in the mountains) and ‘board ship’.  Your group will be transported into 
+his ship on tic and it takes 2 tics to reach Luni.
+
+From the landing zone head all south and west until you find a path further 
+south.  Fight off the worms/tigers in your path.  Follow the highway until you 
+come across an eastern exit, and move that way.  At the Fungus Orchard, head 
+south and east until you find a closed gate.  Type ‘charge gate’ twice, the 
+first time will summon 2 trees to kill and the second will open it.  Move south 
+a few into the village (fighting off the treefolk) and go west when you can.  
+Listen to the One, the Treefolk’s riddle and ‘say sky’.  He will give you a key 
+and attack.  Move all east and north until a closed door to the west.  Unlock it 
+and follow the path to a dead end.  ‘Get all rope’ ‘unlock rotting.chest’ loot 
+the rotting chest and type ‘twiddle’ and loot the key that appears on the floor.  
+Move back out past the door and all south.  Unlock the southern door, go in, and 
+go west to the dead end.  Type ‘pull door’ and then ‘push wall’ to open the path 
+west, and follow that direction until the end.  Here type ‘pull two’, ‘pull 
+three’, and then ‘pull one’ and loot the key from the ground.  Head back out 
+toward the entrance of the village, except unlock and go through the closed E 
+door before the exit.  After going through the door type ‘open trapdoor’ and 
+‘get all trapdoor’ to get a note and some string.  ‘Combine string hook’ to make 
+a little fishing thing and hold on to it for now.  
+
+-----
+(Note this part leads to the King of Lunitari, which is generally not worth 
+doing on a full group.  If you don’t care about the king, skip down below the 
+next set of dashes) Continue east until an NSW and have your tanks move south 
+into the smoky rooms.  It will be nomagic and they’ll take damage but not a lot.  
+Have them find the smoke elemental, kill it, and loot the stuff it drops.  When 
+it’s dead, they can keep moving north until they get back to the group.  Head 
+north, unlocking whatever doors lie in your path, and find Seven, of the 
+Treefolk.  (Sorry for not remember directions specifically here, I usually wing 
+the King).  Say ‘lunitari will blow your mind’ and he will give you a key and 
+attack.  Note that Seven can also load ‘a crimson glass bracelet’ (easy frag 
++dam wristworn).  Take his key and head southward, unlocking and going through 
+whatever doors you can.  DO NOT CLIMB THE WALL TO VALIANCE.  There is no way out 
+of that room short of figuring out his hideous riddle, which I can’t remember 
+for the life of me.  Continue south and kill the 2 trees guarding the kings 
+door.  Loot their key, mem if necessary, and go attack the king.  The fight is 
+kill tree tree king, and then kill/bash the elite ogre that poofs in after he 
+dies.  The king loads ‘a dusty tan tunic’ (bodyworn autoinvis), ‘a pair of cut-
+off pants’ (+mvs legworn), ‘a well-worn battle club’ (4d6++ 2handed bludgeon), 
+and ‘a pointy hat (or some variation)’ (+int headworn).
+
+-----
+Head back out past the entrance of the village and back onto the highway.  Head 
+northward until you reach the plain of stones, and wander northeast until you 
+find a room in which you stub your toe on a big rock.  Here type ‘use string 
+hole’ to fish another key out of the ground.  Now head all west and north to the 
+northwestern corner of the planes.  Here starts the lunitarian hills, in which 
+each room has a plant that annoyingly blocks your movement.  You can spam the 
+direction to get past eventually.  There are 2 ways to get through this part: 
+kill everything or mass invis and spam through.  The ogre mages and chieftain do 
+not see invis, but the ogre magi priest does.  The priest (scannable as wearing 
+a holy symbol) can load ‘a runed crimson skull staff’ (held autofly light) and 
+‘a wicked chain and dagger’ (3d4++ offhand +style sblade).  The chieftain loads 
+‘dual crimson gauntlets of ogre power’ (trash item nolore no found benefit).  If 
+you kill the chieftain, 2 elite ogre mages poof in and need to be bashed.  
+However you decide to get through, follow the path west until you reach an SWU 
+junction.  South is the quickest way to the boulder, so I’d recommend going that 
+way.   Eventually you’ll find a room with SU exits with a boulder that you can 
+look at.  Get your group here and have a few of them ‘move/roll boulder’ and 
+move north inside.  Unlock the door and kill the imp that flies in.  Move north 
+and down and mem full and listen to the chatter of the battle group.
+
+There are a few ways to do this fight.  If you have a good number of heals (3 
+clerics is a good idea here) and some nice area, you can fight them all at once.  
+If you do this, the best method is to have everyone kill: mage druid cleric 
+warrior while bashing the cleric.  Have your casters either area or focus damage 
+on the mage and then the druid.  The thief can be blinded relatively easily and 
+rompe is just an annoyance who will die eventually.  The 2nd method of doing 
+this fight waits until the group breaks up and heads to their rooms.  Have a 
+tank, a cleric, and your casters move east into the mage’s room as soon as you 
+engage the warrior.  You also want another tank to go down and keep the druid 
+occupied.  Have the mage group kill the mage, then move west and down and kill 
+the druid, then come back into the main room to kill the cleric and then the 
+warrior.  If you have a basher left over in the warrior room, have him bash the 
+cleric when it arrives.  This fight is fun and spammy but can get chaotic and 
+dangerous if it’s not done quickly.  The cleric loads ‘a golden battle ankh’ 
+(antievil held/neckworn +heal) and ‘a small golden prayerbook’ (sunray/healing 
+mist clerical book).  The warrior loads ‘a suit of golden dragonscale plate’ 
+(+str imm_drain bodyworn) and ‘a slick blade’ (3d5++ +age offhand lblade).  The 
+mage can load ‘a book of battle magic’ (+10/15 learn held mageonly) and also a 
+magebook (colorspray/haste/relo level).  The thief can load ‘a runed knife of 
+crimson adamantite’ (2d9++ prime sblade.  A fake one also loads but will vanish 
+quickly).  The dark knight can load ‘a deadly serrated battle axe’ (nolore 
+decent damage decapper 2handed axe antigood).  Check the beds in the rooms of 
+each group member for similar loads also.  Have casters mem in the room closest 
+to their respective class.  At some point go into the mage’s room and type ‘g 
+all shadow(s)’ to get a chest.  Get the ball of levitation from the chest.
+
+Head back outside the boulder and either fight through again or invis past the 
+repopped plants back to the SWU and up back out into the Plane of Stones.  Head 
+southeast back to the highway and keep going south past the village turnoff this 
+time.  You’ll end up at more plants, but there are only a few to spam through.  
+When through the plants you’ll arrive at the base of an obelisk with exits SUD.  
+Make sure everyone is flying and head up to kill the brass dragon, Cupelix (he 
+is agro to evil).  He is nobash, holy, and has a heat blast area breath attack, 
+but otherwise not incredibly dangerous.  Cupelix can load ‘a brass dragonscale 
+shield’ (+con shield) and ‘a brass dragonscale battle orb’ (autoinvis +9th slot 
+held mageonly).  He probably loads a few other items I can’t remember.  When 
+he’s dead, move the group back down below him to mem, and head alone 2 up.  Type 
+‘rub ball’ to open an exit further up and move in. Do not drop the ball of 
+levitation yet. Loot the coins and type ‘g all stack’ and ‘get all pile’.  This 
+room loads ‘the medallion of the keeper’ (quest item needed in a minute), ‘a 
+tall candlestand’ (rentable autofly wand with a charge or two), ‘a scroll of 
+improved transport’ (rentable lev 30 invis, fly, refresh scroll), ‘a gilded-gold 
+scroll’ (relevel scroll), and a magebook (ams/relo/haste level).
+
+Head back down to the group and move down below them (alone again).  At the 
+bottom of the shaft type ‘g debris’ and ‘use debris spikes’ to make it safe to 
+pass the spikes north of you.  Round up your group and head all north to the 
+massive gnome.  The massive gnome is a very dangerous fight, but it is 
+bypassable by typing ‘present keeper.medallion gnome’.  The gnome hits for 400-
+600 damage a round with vicious oblits.  To kill it, you need to make sure your 
+casters do not assist and your healers heal every single round.  If you can’t 
+kill it outright without memming, just keep the clerics from engaging with magic 
+and they can keep the tanks alive while they flee to remem.  Make sure your tank 
+has at the very least 650hp if not 700+hp for this.  The gnome can load ‘a 
+fulgurite plate’ (imm_heat or imm_elec, one of these I’m unsure), ‘a ring of 
+gnomish power’ (gnome only +3str ring), ‘a pair of fulgurite sleeves’ (no clue 
+what these are but nice), and ‘a fragile fulgurite helmet’ (saves_breath norent 
+headworn that loads if you kill gnome or not).  Once the gnome is dead or sent 
+away, be sure you are fully memmed and head north and up to the closed door.  
+‘Say open’ to open the door.
+
+The next fight can either be laughable or insanely dangerous.  The Avatar of 
+Lunitari is probably the most unpredictable fight in the game.  Moving into the 
+room causes the leader to be forcebolted. There are 3 forms of the avatar:  the 
+first one is a simple bashable reflect mob to beat down.  The 2nd avatar splits 
+into a black and a white avatar, in which you should have your tanks ‘kill black 
+and bash white’.  When either white or black dies, the 3rd avatar will appear.  
+This avatar is nobash and high % reflect, so have your tanks dualwield and 
+casters area.  It has a lightning bolt breath similar to the magespell except 
+area affect, and it casts high level mage spells at a 35+ level.  Stuns from it 
+last an insanely long time, its prisms can fire off twice instead of once and 
+hit each person with 3 rays.  It also makes 11 images when it mirrors and fires 
+15-20 magic missiles.  Shielding the tank is a good idea.  Sometimes it just 
+doesn’t seem to cast, other times it just goes nuts.  Ride out the area and keep 
+people healed to win.  Avatar can load ‘a crimson cloak inlaid with marble’ 
+(+int neck/about worn neutral only mageonly I believe), ‘a crimson shawl inlaid 
+with threads of marble’ (nolore sense life +int headworn neutral mage only), and 
+‘a ruby red dart’ (quest item you’ll need in a minute).  Have everyone but a 
+summoner recall (have him run back to the obelisk down of Cupelix) and ‘say it 
+is only an illusion’ to open the wall north.  North is a norent nodrop sphere 
+with a keyword to clair and a dusty chest (chest is only there if I book is 
+loaded inside of it).  Move south, down, and south to The Entrance Chamber.  
+From here (make sure you have the dart and the ball of levitation) type ‘enter 
+rock’ and then go down into the crimson winds.  Go north and ‘say it is only an 
+illusion’ to be teleported before Lunitari.  ‘Kneel lunitari’ to be recalled, 
+stunned, and given the key to the chest, ‘a crimson sphere medallion of lunitar’ 
+(norent minor_limit_damage neckworn), ‘a crimson potion’ (norent fireshield), 
+and ‘a crimson splotched egg’ (beast of creation summoning item).  Relo/get 
+summoned back to the obelisk and go unlock/loot the book from the chest.
+
+
+**High Clerist’s Tower
+
+Located just south of Palanthas and west of the Tollhouse.  Start by killing the 
+templars outside the north or south portcullis and loot the keys.  These 
+templars can also load ‘a solamnic two-handed sword’ (4d6 2handed swords 
+antievil).  Move into the tower, note that the knights inside will be agro to 
+evil.  Find the knight patrol groups and kill them, checking their corpses for 
+the inner tower key.  There are 2 groups and only 1 key loads, so just kill the 
+other group if the first one doesn’t load it.  Find the closed door W on the 
+eastern side and unlock/go in and kill the 2 guards at the bottom of the stairs.  
+Head up, 3 north, and into the dining room to the west.  Knights will track to 
+and attack evil chars in the hallway.  Once in the dining room ‘push red.button’ 
+to open an exit north.  Make sure people are flying and no one uses say until 
+out of the elevator.  Move in, ‘push button’, and ‘say 3’.  Send tank north into 
+the stabber, Sirak.  He can breathe acid but is para/holdable.  Sirak loads ‘a 
+hooked blood dagger’ (nolore nice sblade offy with a damage special).  From here 
+you can go west to kill Thomas, north and west to kill Gaston (clear/clean desk 
+in his room to find one of the combo #’s), and 2 north west to kill Lilliana.  
+Lilli loads a key you’ll need and ‘dual anklets of gold’ (legworn canfly).  Loot 
+her key and go east, up, south, and unlock/move through the west door.  Next 
+fight is lady, mark.  Lady can load ‘a black silk teddy’ (bodyworn imm_drain) 
+and ‘an azure silken robe’ (aboutworn nocharm_nosummon).  Mark loads another 
+key.  Loot it and head north and 2 east and south to fight Persion (he is holy).  
+He can load ‘a sterling bracer’ (goodonly +hr wrist), ‘a sterling breastplate’ 
+(goodonly 2hr nocharm bodyworn), and another key.  Loot the key and go north, 
+west, south and unlock Michael’s door.  Mem full.
+
+This fight is best done by killing elf, slate, Michael.  Bashing elf keeps her 
+from casting, Michael himself is nobash.  Michael likes to rescue slate and the 
+elf so be sure your tank is ready.  The elf loads ‘the staff of the Speaker’ 
+(decent casteronly blud prim with sunray special) and ‘boots of the elven magi’ 
+(+hp mageonly footworn).  Slate loads ‘a huge iron axe’ (6d4 +hr 2handed axe).  
+Michael loads ‘a pair of sterling gauntlets’ (+2dam +1hr [or reversed] goodonly 
+handworn), ‘a medallion of Paladine’ (+5hp detinvis neckworn goodonly), and ‘an 
+ivory staff’ (sacred ward/darkness/steelskin/restoration clerical book).  Once 
+mobs are dead you can ‘move desk’ to reveal the vault panels.  You can change 
+the numbers by typing ‘push left’ ‘push middle’ and ‘push right’.  I haven’t 
+found the remaining combo numbers yet this wipe so I can’t include them here.  
+There is also a riddle after you input the combo and ‘pull handle’, the answer 
+was ‘say shadow’ last wipe, but I’m told it was changed.  The vault loads druid 
+tablets (enlarge and insect swarm), ‘the ring of the High Clerist’ (unsure full 
+stats but very nice, imm_drain ring), ‘a sterling claymore’ (2d10 enchantable 
+2hander primeable with 26str), and ‘the hammer of the Forge’ (6d6 fast decay 
+norent hammer quest item).
+
+Mem up and head north to the up exit.  Make sure everyone is flying and kill the 
+agro moves above.  Move east and 2 down quickly (nofly dts) to return back down 
+to courtyard.  Head to the northwestern corner of the courtyard and kill the 
+knight.  Loot the key and move into the forge.  ‘Pound stones’ to reveal a down 
+exit.  Move down to fight the crypt guardian.  The guardian is nobash, hits 
+decently hard, and has a laggy, high damage special it uses on random people.  
+Kill it, loot the key, and unlock the tomb.  Tomb can load ‘the sword of the 
+Kingfisher’ (3d7++ goodonly 2hander primeable with 24str), ‘the plate of the 
+Kingfisher’ (unsure stats, very nice goodonly bodyworn), and ‘a jade key’.  The 
+key is not 100% load.  If it does load, head back out to the southern part of 
+the courtyard and find the locked gate/portcullis north.  Unlock it and go in to 
+see if ‘a dragon orb’ is loaded on the pedestal(very special item, +1 all slot 
+canfly held, causes damage when held).  
+
+
+**Theiwar Caverns
+
+This zone is located inside Kharolis mines, all south from the group of kua-toa 
+scout stabbers on the lake.
+
+The entry tunnel is inhabited by puddings, rust monsters, lurkers, and a large 
+otyugh.  You want to calm/flee past the puddings since they divine repeatedly 
+and frag a bunch.  Track down the otyugh, kill it, and loot the key.  Then head 
+southward and go down when able, then north, east, south, down to reach the next 
+level.  Kill/bash the umber hulk if you find it.  Umber hulk can load ‘the eye 
+of the umber hulk’ (det invis light held).  Move to the western side of the 
+cavern and type ‘ent crack’ to move through the wall and go down.  Follow the 
+tunnel, killing the mobs in your way.  Use the otyugh’s key to unlock the 
+trapdoor at the end and go down to the mindflayer area.  Mindflayers will poof 
+away and go wizinvis if they die too slowly or aren’t held/overbashed at bad or 
+lower.  Normal mindflayers can load ‘a purple silk robe’ (saves_spell bodyworn).  
+At the northwestern end of the area is the Master Mindflayer who casts like a 
+high level mage but is bashable.  He can also poof away and hide if you are too 
+slow in killing him.  The master can load ‘a skull-shaped medallion’ 
+(+1int/+1wis evilonly neckworn).  The chest in the room with the Master is 
+dangerously trapped and shouldn’t be touched without a thief.  If the chest is a 
+mimic, it can load ‘an emerald and electrum medallion’ (2-3 charges of AMS).  If 
+the chest is trapped with a deadly area explosion, it loads ‘a staff of 
+striking’ (decent damage caster prime that has a nice damage special).  Head 
+back northeast, through the tunnel, and out the crack back to the umber hulk 
+area.
+
+Head north into another tunnel and turn east when able.  Kill any guards and the 
+imp with the key.  Guards can load ‘a pair of black soldier boots’ (saves_para 
+footworn).  Loot the key from the imp and head back west and further north.  At 
+the gates kill/bash the imp and archmage.  Mage can load a 
+glitter/forcebolt/locate/calm level magebook.  Move through the gate to the 4way 
+interection and go west, south, and east until a closed door S, killing any 
+guards on the way.  Send the tank in and have the group kill/bash apprentice, 
+mage, captain.  The captain can load ‘a suit of leather armor’ (infra bodyworn).  
+Loot the key from the mage and head back to the 4way junction.  Head east and 
+kill the imp and either frag down or blind/calm the stoneskinned xorn.  Theiwar 
+workers in this area load ‘a imp-skin pouch’ (good sized waistworn nodrop 
+containers).  The conjurers can load weak enlarge potions.  Head west back to 
+the 4way and go north to the golem.  Kill it and mem if needed.  Unlock the door 
+and send the tank into the 2 stabber scouts.  The scouts can load ‘a black 
+adamantite shortsword’ (3d4++ glowing offy sblade) and ‘a spiked wrist buckler’ 
+(+dam –dex wristworn).  Mem again if needed and head 2 north.  Next room is a 
+fight with the 2nd archmage, 1 or 2 scouts, and maybe 1 or 2 more mages.  
+Kill/bash the archmage first, then any mages, then the scouts.  The mages can 
+load ‘a gem studded bracer’ (+3rd slot wristworn).  Kill any mages east and 
+north that didn’t wander in and mem.  Move north of the archmage and open the 
+door and wait for a weak-stabbing tracker or two to come through.  Once done, 
+move north and then send tank north again to kill adept adept priest.  The 
+adepts can load ‘a black silk waistband’ (det invis waistworn).  The priest can 
+load ‘a blood red cowl with black runes’ (-5hp +2wis headworn), ‘a long black 
+stole lined with red’ (+int waterbreath neckworn), ‘a pair of black sleeves’ 
+(+dex armworn), ‘a pair of black leggings’ (+mvs legworn), and ‘a small tattered 
+prayerbook’ (summon/sunbolt/word of recall/negative plane protection clerical 
+book).  Mem up and head west into the maze.
+
+The maze is a group of spin rooms with a few theiwar scouts, hard-hitting 
+glabrezus, and driver/demon teams.  Move through the spin, bashing drivers 
+whenever necessary, until you reach an U exit.  Clerics should not cast in any 
+rooms above the bottom of this shaft, doing so will cause the group to lose 30k 
+exp a piece.  Send the tank 4 up and kill Simm.  Simm is nobash and can load ‘a 
+bloody axe-shaped medallion’ (antigood saves_spell neckworn).  A glabrezu also 
+likes to wander up here so find/kill him.  Run group back down the shaft for 
+heals when needed.  East and north of Simm is the emaciated dwarf.  He is a 
+typical caster that can be bashed, but he will poof away and hide for a few 
+seconds repeatedly at low hp.  Have a tank move out/in to make him appear again.  
+Dwarf can load ‘a venom dagger’ (nolore nothief nice offhand sblade that has a 
+damage special), ‘a sheath in the shape of a viper’ (waistorn +envenom), and a 
+‘thin golden necklace adorned with a charm’ (evilonly 8charge gate wand).
+
+
+**Last Gaard Mountains
+
+This zone is located past the steam golem on Southern Ergoth (past the Elven 
+Arch).  Once over the bridge (don’t fall into the dt water) hug the west wall 
+and move northward through the ogre plains.  Eventually you’ll reach some rooms 
+heading west with verbeegs.  Fight through these and follow the path into the 
+zone.  At the first path splitting, move 1 north and make sure everyone is 
+flying (taking a tic to be sure a fly doesn’t wear is smart).  Head up and kill 
+the scouts east and west before it tics.  Kill/bash the apprentices if you don’t 
+make it in time.  Head back down and north into the canyon.  There are large 
+groups of mobs here that don’t hit very hard.  Assisting and area eat them 
+alive.  Minotaur scout leaders can load ‘a steel flail’ (2d9 prime bludgeons) 
+and ‘a thick steel broadsword’ (3d5 enchantable prime lblades).  Fight through 
+the canyon until another up exit.  Let it tic again and be sure all are flying, 
+and head 2 up and kill the scout.  Head back down and continue northward to the 
+ESW room.  Head west to the up exit, let it tic, and go up, kill the bird, up 
+again and kill the last scout.  Head back down, go west, and send tank south 
+into the stabber mob Ertimus.  Kill/hold him and ‘clear rubble’ to reveal some 
+stuff on the ground.  Grab it and head north, and all east.  Move north into the 
+valley and kill tiger tiger panther, bash panther.  Hug the west wall until you 
+reach some gnolls and a tiger.  Don’t touch the gnolls, kill the tiger, and 
+continue into the cave.  Go up, kill the lions, head west and kill any miners, 
+go up when able, and head west and southish and west again to find and kill the 
+foreman.  Loot his key and head back to the up exit.  Go up again, east, and 
+have your tank ‘ent hole’ and then follow him in.  Have tank step east and north 
+to the dracolisk and kill it.  Dracolisk can load ‘a mithril and gold ring’ (det 
+invis ringworn) and some coins.  Move back out of the hole, west, and unlock the 
+trapdoor up and move in.  Head north and kill the mobs west and let it tic.  On 
+tic, have everyone ‘enter chute’ to land in the wagon.  ‘Fasten tarp’ to keep 
+the enemies outside from seeing you.  Wait 2-3 tics until the wagon stops.
+
+Once it’s stopped move out of the wagon head south, west, south (killing 
+anything in your way) and head up to kill the giant chieftain and guards.  
+Chieftain can load ‘a fur-trimmed girgle’ (waistworn +str).  Go down and move 
+toward the southestern part of the courtyard (find the open up exit), go up, 
+kill the 2 elites, and head through the door east to kill Destibus.  Loot his 
+key (and the 3d4 offy axe if you like) and move back to the ramparts with the 
+closed U exit (northern center of courtyard).  Have an imm_drain tank step up 
+and 2 west to kill any wraiths that are there.  Give the emblem you found in 
+Ertimus’ cave to the knight and he will give you 2 ghost knight charmies.  Loot 
+the medallion that appeared on the ground.  Head back down the ramparts and to 
+the central southern part of the courtyard.  Kill the 2 spitting guards and mem 
+full.  Unlock the door and make all bashing chars ready to spam ‘bash cheetah’  
+The next part of the zone involves having your tank step through the keep until 
+you find and kill 4 hard stabbing cheetah mobs.  They like to flee at any hps so 
+they must be bashed.  Once all 4 are dead head to the northeast corner of the 
+keep and find the paymaster.  Kill the man and a leopard will spawn.  Kill/bash 
+it, loot the key, (and the chest if you want 500 more coins), and head to the 
+northwestern corner of the keep.  The garden in the center of the keep is a 
+memroom when needed.  Kill the minotaur (ranseur sucks) and move 2 west and kill 
+the elves.  Open the curtain north to find 2 more elves and Melizzir. Melizz 
+loads ‘a pair of midnight blue bracers’ (+str +parry armworn).  Head east and 
+south and unlock the closed doors east and check the chests.  Chests can load ‘a 
+suit of ebony platemail’ (saves_spell bodyworn) and ‘a black granite axe’ (4d5 
+prime axe).  Head all south past these rooms, unlock the door east, move 2 east 
+and kill/bash Jaketh to the north.  He can load ‘a transparent mask’ (detinvis 
+detmagic headworn) and a key.  Grab it, head south and east until an S exit, 
+move south/north quickly and let the mobs die.  Head north, unlock the door n, 
+move in, g all table (can load a magebook), back south and west and into the 
+ambasaador room.  Kill the 2 elves and ‘move panel’ to reveal an s exit.  Follow 
+the path to its end, killing all the black mages.  Mem full and move to the ES 
+exit room and send tank north to fight Brith’nea.  She is nobash and heals, and 
+will calm/summon 2 red abishis that need to be bashed/areaed.  Once their dead 
+beat Brith down until she runs out of heals or you have a paladin that can 
+avenge/abso her.  Loot the medallion from her corpse and run back to T’orgh’s 
+room.  ‘Patch medallion’ to combine the fragments together.  Head back down to 
+Brith’s room and ‘climb rope’ and go down to the tranquil spring.  ‘Place/set 
+medallion pedestal’ to open a down exit to the crypt.  The first crypt room can 
+load items in ‘1.niche’ ‘2.niche’ and ‘1.crack’. Southern crypt room loads items 
+in ‘1.niche’ ‘1.crack’ and ‘2.crack’.  Western crypt room loads items on the 
+ground, in ‘1.niche’ ‘skeleton’ ‘casket’ and ‘chest’.  The crypt can load (in 
+various places) ‘a malachite encrusted bracelet’ (antievil +heal wristworn), ‘a 
+globe of radiance’ (held light with a recharging AMS keyword), ‘bracers of 
+blinding strike’ (+dex armworn), ‘a suit of adamantite mesh’ (autohide 
+ranger/thief), ‘a barbed silver ring’ (+dam –health thief/ranger ringworn), ‘a 
+suit of Solamnic mithril plate’ (+dam +dex bodyworn goodonly), ‘the staff of the 
+Abyss’ (evilonly prime bludgeon that is a recharging gate wand), ‘a pair of 
+pearl studded greaves’ (+str legworn), ‘a skull-capped mace’ (antigood 
+clericonly 3d5 2/2 prime bludgeon), and ‘a suit of gold runed armor’ 
+(autoinvis).
+
+
+**Bay of Balifor
+
+Find the chain ladder in the sandstone cliffs at the northeastern end of Balifor 
+Bay.  Have the tank climb the ladder and the rest of the group do the same.  
+Kill the guards, loot the key, and head north into the zone.  Kill/bash Karine.  
+She can load ‘a pair of pitch black gloves’ (antigood +int handworn).  Move 1 
+room east, get the key from the pantry, move back west and up.  Unlock the 
+trapdoor, make sure tank is imm_drain, and send him u,s. Follow quickly (the 
+room gets sealed off) and kill/bash the demon and then kill Shi’ar.  Shi’ar can 
+load a forcebolt/locate level magebook and a pair of autosneak boots.  Mem up 
+and ‘open grate’ to reveal a down exit.  Head down to the bottom and send the 
+tank east.  Have your clerics blind the stoneskinned viper and either calm or 
+have everyone flee off of it and retarget the Balrog.  Kill it, loot his key, 
+and mem full.  Head back down and follow the path to a Warm Cave.  
+
+Master of Maces and his dragon Gruarth is usually a medium-challenge fight for a 
+good group, but it can get ugly quick.  The best tactic is to have everyone 
+kill/frag dragon (its immune_heat) and bash the master.  The master doesn’t 
+usually heal the dragon, but both mobs like to area.  Once dragon dies the fight 
+is simple, just kill/bash the master.  The dragon loads various red dragonscale 
+pieces whose stats I can’t remember and druid tablets (mass refresh, word of 
+recall, fire storm).  The master loads more dragonscale pieces including ‘a red 
+dragonscale book’ (nolore +int don’t try to study) and ‘a red dragonscale 
+pendant’ (evil only neckworn +heal).  Master also loads ‘a small golden 
+prayerbook’ (sunray/healing mist clerical book).
+
+
+
+**Silvanesti and Silvanesti Secrets: (**Note: Silvanesti was revamped recently—
+use this guide only as a starting point, it will be different now)
+
+Silvanesti is located all the way east of Tarsis and Lantern.  The first part of 
+the zone is a hideously annoying spinning forest of undead.  
+
+Tower of the Stars:
+
+Begin by killing as many undead elf warriors and priests as you can find until 
+one of them drops ‘a white marble key’.  Once you find the key head northeasti 
+through the spins until you find the Tower of the Stars entrance to the east.  
+Once here mem up and head eastward into the bottom floor of the tower.  Fight 
+off the undead guards and bash the lich that will come in eventually.  Head to 
+the center northern wall.  Have a mage or 2 spell up and move north through the 
+‘solid wall’, go up, and kill the wraiths (% reflect mobs) to open the way for 
+the rest of the group.  Move the group north and up to reach Caiphus/Faldainen 
+area.  Head east, kill the golem, and have a lawful good char open/loot the 
+statue.  Statue can load ‘a vial of holy water’ (rentable heal potion).  
+Faldainen is south of here, Ciaphus to the west.  Both are dangerous fights that 
+I have actually not gotten to do.  Once done with the statue, head back down to 
+the bottom floor and move to the northeast corner.  Have your best keyword 
+figurer ‘ent chute’ and try to figure out the keyword to open the ceiling for 
+the rest of the group.  I haven’t had a chance to play with this one myself.  
+East and north of this room is the 12-headed Hydra.  It has dangerous area 
+breath and random targeted attacks.  Hydra loads druid tablets (fire storm/mass 
+refresh/word of recall I believe—could be tornado and charm monster however).
+
+Head back up and south to find Lorac and a big dragon orb.  Touching the orb 
+will get the person killed, so leave it alone.  ‘Guide lorac’ to have him follow 
+you.  Make sure your group knows not to use ‘elf’ as a keyword when fighting the 
+undead guards.  Head south and east to the staircase and head up, then west onto 
+the 2nd floor.  Follow the hallway around (ignore the closed doors) west, 
+southish, then east to the next staircase.  Head up the stairs, west into the 
+hallway, and all south.  Move east into Lorac’s bedroom and let it tic.  He will 
+wake up and attack, kill him.  Head all west and all up and kill the iron golem.  
+‘Open hatch’ to reveal an up exit and Anatlab.  High lev nobash mage mob who 
+summons in 2 apprentices like Cervos.  Kill Anatlab and bash the apprentices.  
+He can load ‘a pair of elven boots’ (thief/ranger autosneak) and ‘an aspen 
+staff’ (+int delayed +2 5th slot mageonly prime blud).  He also loads a robe 
+that I can’t think of.  Head back down to Lorac’s bedroom and mem.
+
+‘Move bed’ and ‘push/open/touch depression’ to reveal an exit to the north.  
+Head in and down the stairs.  There is a room to the east with a table that can 
+load ‘a teal potion’ (rentable heal potion).  North of this area is the old 
+Fake-Cyan.  This fight now consists of the Nycadaemon, a red Cyclops, and a 
+black lich.  This fight can take a lot of heals so don’t do it if you aren’t 
+prepared.  You have to spin into the room so have your tank rescue off quickly.  
+Have your group begin by killing the nycadaemon and bashing the Cyclops.  The 
+nyca is a mage mob that enjoys areaing so kill it as quickly as possible.  The 
+Cyclops has a nasty lag/damage/bash special he uses on the tank if it’s not 
+bashed.  The lich is a nobash (reflect too I think) cleric mob with about 9-10 
+heals.  The lich won’t heal the nycadaemon but it will use every last heal on 
+the Cyclops.  Once the nyca is dead focus everything on the Cyclops and have 
+your clerics flee out to remem if needed.  The Cyclops will obviously rescue the 
+lich.  The nycadeamon loads ‘an adamantite helmet’ (+2con headworn).  The 
+Cyclops can load ‘an adamantite shield’ (nolore nice clerical shield), ‘an 
+adamantite breastplate’ (unsure stats), and ‘a dark mithril bracer’ (+heal 
+wristworn).  Once all three are dead you have access to the portal leading to 
+Cyan Bloodbane.  I’ve never gotten to fight him, so I have no idea what tactics 
+to use.
+
+Silvanesti Secrets:
+
+Instead of (or after) hunting down a key and heading to the tower, you can 
+continue to wander around the forest and fight off the undead until your group 
+is suddenly teleported into a room without mobs.  From here, have a druid or 
+ranger temp path ‘tyrant’ until they succeed.  Follow the path until you can 
+scan the mob, but beware that there will also be stoneskinned gargoyles in the 
+room if it’s nighttime.  Wait until day and kill the tyrant.  It is nobash and 
+nomagic with some annoying specials, but it’s not overly difficult.  From here 
+you can have your strong members ‘lift slab’ to reveal a tomb.  Head all down 
+and north to find a group of mobs spread out into 2 rooms consisting of ‘a brown 
+clad man’, ‘a rotting lich’, ‘a mummy’, and ‘a yellow ghost’.  If you have a 
+strong group and a lot of heals you can do the fight straight up.  To do this 
+move into the room with the man and engage him.  He will call the mummy and the 
+lich into the room.  Have your group kill the mummy and bash the man.  Once the 
+mummy dies you can either kill the lich or the man, but keep bashing the man 
+(lich is nobash).  The lich heals itself and the man, so do what you can to 
+outheal it.  The man can load ‘a brown robe’ (aboutworn autofly) and a very nice 
+(mirror/tent/prism level) magebook.  He also loads a key to his desk that can 
+load ‘a raven feather quill’ (+learn held).  Move back east and kill the ghost 
+which can load ‘a ghostly shroud’ (aboutworn autoinvis).  Head back outside of 
+the tomb, have strong members ‘lift slab’ again to get back out.  Note that 
+gargoyles will be outside during the night.
+
+From the eye tyrant’s room, move n,n,e,n,n,n,e,e,s,e,s,s,s,w,s,e,e to reach ‘The 
+beautiful forest of Silvanesti’.  A one-armed elf wanders this area and can load 
+‘a dark sack’ (aboutworn large container).  East and south are also hairless 
+dogs that load ‘a bronze chain collar’ (+con neckworn) and more elves that can 
+load ‘a pair of dog hair sleeves’ (+dex resist_cold armworn).  Head north and 
+east to fight some tracking honor guards that can load ‘a pair of green elven 
+boots’ (+2dex footworn) and some decent offhand weapons.  South of this room is 
+a spring and a memroom which has elves that can load ‘a garland of white roses’ 
+(mentioned below).  North of this room leads through a hidden exit into a gaunt 
+cleric, a dark druid, and a silver dragon.  Mem extra cure blinds for this 
+fight.  The cleric and druid are bashable, but dragon is nobash and has a sunray 
+breath weapon.  Kill order is kill/bash cleric druid dualwield for dragon.  The 
+cleric can load a create food wand, ‘a garland of white roses’ (goodonly +heal 
+headworn), ‘a pendant of the sun’ (rentable cure crit wand), and ‘an ivory 
+staff’ (sacred ward/darkness/steelskin/restoration clerical book).  The dark 
+druid can load items I haven’t seen and druid tablets (summon, barrier, mass 
+fly).  The dragon likely loads items I have not seen either.
+
+
+**The Mound
+
+This zone is located west off the road between Palanthas and the High Clerist’s 
+Tower.  Move through the scrubland until the end, move north, and ‘move tree’ to 
+open a path.  Head north to the gates, move east and kill Pooda for the key.  
+Now head through the gates and hug the east wall until you find a down exit.  
+Move into the Karst Caves (mem room) and kill the 2 draconians.  Head east to a 
+down exit, and have your tank run 3 down (all block rooms).  The 3 draconians at 
+the bottom hit relatively hard when they’re all alive.  Area/kill them—they 
+frag.  Head down again and south to find Aspre Tohz.  Aspre is a high-hp pure 
+melee fight.  He can load ‘a pair of spiked battle armets’ (evilonly armworn 
++dam), ‘a bloodstained steel band’ (-10ac wristworn antigood), ‘a heavy rune-
+inscribed battle axe’ (3d7++ heavy axe prime antigood), and ‘a black battle 
+kilt’ (+dam legworn).  Kill him and loot his strongbox which loads some of his 
+items, ‘an onyx plate’ (quest item), and ‘an onyx pentagon’ (quest item).  Head 
+back and mem up then come back down and move north, east of Aspre.  Send the 
+tank south to agro one of the ugly draconians and have him flee out.  The drac 
+will track, and 2 magical assistants will poof in when it dies.  They both cast 
+and force, so keep them bashed.  When they die, move south and kill the other 
+ugly drac and the 2 assistants.  
+
+Once they’re all dead ‘place/set pentagon hole’ to release the wall.  Now have 
+some of your strong members ‘slide wall’ to open an exit to the south.  This is 
+a nomagic fight and the mob turns into a statue.  Jaraag loads ‘a malevolently 
+hooked beast goad’ (4d4 +disarm polearm prime), ‘a suit of darkened tusk 
+scalemail’ (evilonly +str bodyworn), ‘a pair of bloody butcher’s gloves’ (+dam 
+evilonly handworn), ‘a bloody butcher’s apron’ (evilonly aboutworn 
+immune_drain), and ‘a crimson shield of the wyrmgaard’ (nice +bash shield).  
+Send a healthy tank east and kill 2 more drac sentries.  East again is another 
+draconian assistant that killing will cause 2 more assistants to poof in.  Kill 
+them, loot their key, and get the hemisphere from the desk/cabinet in the room.  
+Now move the group back outside to the Karst caves and have them mem.  Move up 
+alone (bring a tank if you need to) and head northwest through the trash.  Find 
+a closed N door and go in, and kill Gopi Ratbasher.  He can load ‘a crooked 
+crown of the gulldwarves’ (nolore –int +7hp delayed headworn), and loot his 
+chest to get a key to the shack.  Head south, east, and then north again until 
+you find ‘At the base of the statue’ and rummage.  Open the statue, loot the 
+other hemisphere, and head back south some.  Find the up exit leading to the 
+shack (don’t go up the slide!) go in and kill Eras.  ‘Get shovel rack’ then 
+‘clear pile’ and loot the 2nd onyx plate.  Now type ‘combine onyx.plate’.  Head 
+back down to the Karst Caves, round up your group, and head back down east of 
+Jaraag.  Move all north by yourself (don’t use say) and finish off the keywords 
+with ‘screw hemisphere’, ‘combine staff staff’, and then ‘unscrew hemisphere’.  
+These keywords give 1million+ exp if done alone.
+
+Now you can go back to your group and prep up for Ochre.  He’s a very tough red 
+dragon (immune_heat, fire breath).  Once ready have your group not “say” 
+anything and move back north to the portal.  Have your tank ‘say tyhin ror 
+fybkes safe’ to be ported into the dragon chamber.  Once you see him fighting, 
+have the rest of the group say the password and get ported in.  You want to have 
+everyone kill/bash dracos because he will flee/stab very hard.  Dracos is also 
+para/holdable and landing one will end him quickly.  Once Dracos dies have 
+everyone dualwield for Ochre.  An iceshield scroll helps immensely here as Ochre 
+has a shitload of hitpoints and regens a ton of them every tic.  Beat/cold spell 
+him down as fast as possible.  Dracos loads ‘a cloak of bloody scalps’ 
+(save_spell -2 [maybe para] aboutworn antigood), ‘a crimson dragon spine 
+javelin’ (very nice prime thief stabber), ‘a red metallic javelin’ (harder to 
+frag nice thief stabber), and ‘a set of blood stained leather wrappings’ 
+(antigood bodyworn +2int +wis).  Ochre can load ‘a mithril crimson bracer’ (+con 
+autoinvis wristworn) and some other nice things I haven’t seen.  He also loads a 
+magebook (mirror/tent/prism(?) level).  
+
+
+**Dargaard Keep
+
+This zone is located southwest of Kalaman.  This zone isn’t overly complicated 
+but is filled with angry undead of all sorts.  You want to hunt down and kill 
+all of the undead guards and knights before making a move on Lord Soth.  Beware 
+of the Fire-Blasted Room as it is a non-scannable dt.  Undead guards wander all 
+over the keep, but the knights are stationary.  There is one guarding the base 
+of the stairs on the bottom floor, and 4-5 move in the guardposts on the floor 
+just below the top.  The undead knights can load ‘a fire-blasted shield’ 
+(resist_heat lightweight), ‘a charred bastard sword’ (4d4 enchantable 
+lightweight 2handed sword), ‘a charred long sword’ (2d7 offhand lblade), and ‘a 
+charred visor’ (infra headworn).  During nighttime there are banshees guarding 
+the staircase and they can load ‘a sheer gown of gossamer’ (aboutworn 
+autoinvis).  Once you’ve cleared out the guards head up to the top floor and 
+move south, east, south and kill/bash Caradoc.  Mem full for Lord Soth.
+
+Soth can be one of the most deadly fights in the game.  He needs to be bashed 
+the instant he stands, and he’s not easy to bash.  He randomly PWK’s (no save 
+anymore) a group member, but never seems to do it to the maintank.  There is a 
+spellcasting banshee in the room, so have your tanks engage the banshee first 
+and then being bashing Soth.  Use area/elemental spells to kill the Banshee as 
+fast as possible.  Soth is immune cold and heat.  Once he dies, any 
+guards/knights you didn’t kill will track in to the group.  Lord Soth loads ‘a 
+two-handed sword stained black with blood’ (6d6 3/3 antigood 2handed sword), 
+‘the plate of the black rose’ (antigood saves_spell bodyworn), ‘the shield of 
+the black rose’ (antigood saves_spell shield), ‘a pair of pitch black vambraces’ 
+(save_spell canfly armworn), ‘a set of pitch black greaves’ (saves_spell 
+legworn), ‘a plumed helm and visor’ (2wis headworn), ‘a set of pitch black 
+bracer’ (unsure stats), ‘a tattered purple cloak’ (neck/aboutworn saves_heat), 
+‘a heavy black belt’ (+con waistworn), and ‘a pair of ice cold gauntlets’ (+2str 
+handworn).  You can ‘move rug’ to reveal a room beneath with a chest.  The chest 
+has an edrain trap, so have it disabled. Chest can load a magebook (unsure 
+level) and ‘a book of the dead’ (animate dead clerical book).
+
+
+
+**Stone Bluff
+
+This zone is located on the eastern shores of the Newsea.  Once you reach the 
+closed gates, have a good aligned char go east, up (and west, up) and pull the 
+levers on each side.  Then ‘press gates’ to open the path.  There is a block 
+room to get through and then an old dwarf that repops to kill.  Once he’s dead 
+head all north and then all east.  ‘Pull ring’ to open a door northward and wait 
+for 2 mobs to track out and attack an evil char.  Once they’re dead you have to 
+kill an obsidian goldem in the room to the north.  The golems are nobash and 
+need to be silenced or else a group of 6 dwarven guards and their horses will 
+track in and attack.  Move in as a group and have all your casters silence the 
+golem.  Once silenced, make sure they frag it down because of its high hps.  
+Head north, open the door, and move north, east to find a memroom.  Mem if 
+necessary and go back into the keep and kill the 2nd obsidian golem to the west.  
+Head all east to the room with the closed gates and ‘open gates’ to reveal an up 
+exit.  Send the tank in and kill the guard, sergeant groups.  There are 4 groups 
+of a guard and a sergeant that are limit_damage high hp mobs.  Move around the 
+perimeter of this area until all 4 of the guard groups are dead.  They do 
+scantrack so be careful.  Run down to the tree and mem when necessary.  
+
+Once all the guards are dead you can mem and prep up for the Thane fight.  This 
+is a very high melee damage fight with 1 caster mob that usually dies quickly.  
+The mobs enjoy spamming target so have your casters not assist if possible and 
+make sure your tank is quick on the rescues.  Have everyone begin by 
+killing/bashing the clerk.  Area helps a ton for this fight.  Once the clerk 
+dies kill order is guard guard captain thane.  The captain is immune_fire and 
+nobash.  You may want to flee out and remem at some point if you are burning too 
+many heals.  This fight can load (on various mobs) ‘a jeweled sceptre’ 
+(nightvision held), ‘a holy talisman’ (nolore +intish tank headworn), ‘a pair of 
+silver arm braces’ (+str armworn), ‘a dwarven shatang’ (2d9 enchantable prime 
+lblade), and ‘a thick silver belt’ (+8/10hp waistworn).  Once everything is dead 
+‘relax throne’, head east, north, down, all west outside the gate, and north to 
+find a key.  Head back to the tree and mem.
+
+From the tree, head all west and follow the path to the well.  ‘Pull lever’ to 
+drain the well and send the tank down.  Let the Zorn track into him, then move 
+in and kill it.  Move a few west and send the tank into the 2 golems and the 
+statue.  Have tanks bash/target the statue and the casters frag down the skinned 
+golems.  The golems stick weapons on death.  The statue loads ‘a pair of mithril 
+leg braces’ (7hp legworn) and another key.  Run back to the tree and have your 
+group mem/recall.  Go into the keep toward the southeastern area and find the 
+Trophy Room.  ‘Push button’ to reveal a down exit and go in.  Move east (if you 
+can) and ‘unlock/open recess’.  Head all east to find a chest.  Unlock/loot it.  
+Chest loads ‘a ring of finest silver’ (bashmod ringworn), ‘a fine dwarven katar’ 
+(3d6 3/3 lblade prime), ‘a moonstone pendant’ (immune_cold neckworn tankonly), 
+‘an emerald studded gold bracelet’ (+heal wristworn), and magebooks (ams/relo 
+level probably).
+
+
+
+**Largus Sarian (Blacken/Icen/Greenen)
+
+These are pretty standard zones so I won’t go into a huge amount of detail in 
+stepping through them.
+
+Blacken:
+
+The monks here can load ‘a thin black sword’ (2d7 +3dam thief stabber) and ‘a 
+translucent black ring’ (-con autovinis antigood ring).  The high priest loads 
+‘a blackend chest’, ‘a black stone’ (+2dam held), and ‘a jeweled black belt’ 
+(+con waistworn).  The vault here (southeastern corner through a hidden S exit) 
+loads ‘a beautiful violet rose’ (autofly held).  The hidden panel east of the 
+frozen also loads ‘a black stone’.  The black dragon loads ‘a suit of black 
+platemail’ (nocharm and maybe +str).
+
+
+
+
+Icen:
+
+Cold monks load ‘a ring of ice’ (resist_heat –ac) and ‘a shard of ice’ (3d5 
+offhand piercer).  You can find the white dragon by going n,w,w,w,s,s,s,w,s from 
+the entrance room.  The dragon loads ‘a suit of white platemail’ 
+(nocharm_nosummon), ‘an ingraved ivory staff’ (nolore 4d4++ish held canfly 
+bludgeon), a magebook (forcebolt/locate level), and druid tablets 
+(stratification, cone of cold, paralysis).  You can find the white temple door 
+by heading all south, west, all south (or near enough) from the entrance room.  
+The cold high priest loads ‘a pair of white boots’ (+mvs).  The chest behind the 
+locked doors (keys load on high priest and monks roaming outside) can load ‘an 
+icy white bracelet’ (resist_cold) and ‘a hooded white chasuble’ (goodonly +heal 
+bodyworn).
+
+Greenen:
+
+You can find the green temple by either going north or south and then up from 
+the entrance room.  East and north from the green temple door is a statue that 
+you can open ‘open statue…’ to reveal a room to the east.  This room loads ‘an 
+ancient green sword’ (nolore 5d5++ish detinvis 2handed sword).  Fight your way 
+through the priests all south but 1 from the green temple door, then go east, 
+south to fight to green high priest.  High priest loads ‘a vine belt’ (+wis 
+waistworn), ‘a malachite ring’ (+hitroll), and ‘a small tattered prayerbook’ 
+(summon/word of recall/sunbolt/negative plane protection clerical book).  Head 
+back to the entrance room for greenen.  From here you can head 3south, west and 
+south more (if I remember this path correctly) to find a locked down exit (pick 
+or use high priest’s key).  Down here you will find 4 locked doors in all 4 
+directions.  You can only unlock 2 so choose wisely.  North leads to a cure crit 
+wand, east leads to a +wis held sphere, south leads to something I can’t 
+remember but sucks, and west leads to a +5learn held cube.  The wyrms in this 
+area like to load str/ref potions also.  Again head back to greenen entrance, 
+but this time head all east.  Once you reach a wall follow the path south 
+(ignore the dt-looking room) until you reach a door.  Mem full and prepare for 
+the dragon.  Greenen dragon loads ‘a malachite encrusted helmet’ (+con/hp 
+headworn nolore), ‘a malachite inlaid ring’ (+heal ringworn), ‘a suit of green 
+platemail’ (nocharm +str), druid tablets (fire storm/mass refresh/word of 
+recall), and mage books (relo/ams/cloudkill level).
+
+
+**Temple of Takhisis
+
+This zone begins with the statue of Takhisis in Neraka.  Kill the statue and 
+loot the gem.  ‘Say one world order’ to conjure the portal and head in.  Have 
+your group wait outside for a few seconds while you open the gates.  ‘Say 
+Submit, or die!’ to open the gate, and then ‘present gem/amulet statue’ to quell 
+the statue guardian.  Reform your group and head all north.  Have the casters 
+and tanks form their respective groups, tanks have to go through nomagic east 
+and casters have to go west.  Easiest for the casters to engage/flee past the 
+mobs rather than kill them.  The casters just follow their path to the end of 
+the gauntlet.  The tanks can follow their path and find/kill the shadow beast 
+who loads ‘a black fang of a shadow beast’ (3d5 nightvision thief stabber 
+prime).  Tanks need to find the sleeping demon and kill it for the key, it also 
+loads ‘a black pronged trident’ (2d9 +2 dam piercer prime).  Then head north to 
+kill the 2 undead edraining mobs and then out of the gauntlet.
+
+Once back together and healed up, try to get your group to stop typing.  This is 
+nearly impossible to do cause people suck, but try anyway.  Head north and up 
+the stairs.  If you try and go north through the hall of statues pairs of mobs 
+will appear and attack.  To avoid this you can go around them either east or 
+west (if your group isn’t spinning the room).  Move all north and then back west 
+or east to the end of the statues.  Have the tank move north to piss off the 
+5headed dragon statue and kill the heads/body.  Head north and up to the 
+hourglass room.  Smash it with ‘strike hourglass’.  Head south and kill the sand 
+beast.  It can load some horribly shitty pants you should lore yourself just for 
+kicks.  Head further south, up the stairs, and north to a dead end.  ‘Open 
+curtain’ to reveal an exit to the north.  North of here is the first fight with 
+Spauld and he has Kelvos with him.  Kill/bash Spauld until he dies or recalls, 
+then kill the skull knights that appear and then Kelvos.  Spauld can load ‘a 
+swirling black potion’ (rentable heal potion) and ‘a necklace of gnomish ears’ 
+(antigood +wis neckworn).  Kelvos can load ‘a heavy steel battle axe’ (high str 
+3d7++ -dex axe prime).  Mem up heals and make sure your best tanks are at the 
+bottom of the group list.  Head up the stairs
+
+Move into the mirrored halls until Kalidon stabs your tank (he stabs for 550+ 
+and triple oblits, make sure you have a 650hp+ tank and quick healers).  
+Bash/frag/blind him down fast before he flees.  Kalidon can load ‘the boots of 
+shadows whisper’ (nolore autosneak thiefonlyish), ‘a black assassin’s emblem’ 
+(+dam or so).  Might load other things I never see.  Once he’s dead head all 
+south through the spins until you reach a dead end.  Type ‘shatter mirror’ to 
+start the cycle of 4 mobs.  The order is lich, zorn, beholder, lord.  All but 
+lord are nobash.  Lord cahybor loads ‘a mirror shield’ (+10hp -10bash shield 
+with recharging mirror image keyword).  ‘Shatter mirror’ again once lord is dead 
+to open the passage.  Mem if necessary and head south and up to the end.  Have 
+your tank ‘climb stairs’ and then the rest of the group after him.  This fight 
+is Spauld again and some commander I can’t remember.  Kill/bash Spauld first 
+again until he recalls/dies.  Commander loads ‘a huge broadsword of blackened 
+steel’ (3d6++ antigood prime lblade), ‘a deep black steel ring’ 
+(antigood/evilonly +dex ring), and 1 more thing I can’t remember.  Once they’re 
+dead ‘move/push/shove altar’ and ‘lift/pry/pull tile’ to reveal another portal.  
+Have everyone enter it and kill the 2 dark knight guards.  Mem full.
+
+The final fight order here is kill/bash Spauld then kill dragon bash borbane.  
+The dragon (Blanc) is nobash and immune_acid.  Spauld can load ‘an ancient tome’ 
+(gate/animate/str of one clerical book).  Blanc loads ‘a dragon skull helm’ 
+(evilonly +heal headworn).  Borbane loads stuff that I haven’t seen.
+
+
+**The Mushroom Forest
+
+This is a zone damningly similar to Largus Sarian so I won’t go into great 
+detail stepping through it.  You reach this zone by typing ‘glare mirror’ in the 
+Faerie Queen’s room in faerie kingdom.  There are 4 levels: green, red, black, 
+ice.  Each level has a boss imp and 2 separate spores you can breathe.  The 
+correct spores take you to the next level up and the wrong spores take you to 
+the entrance of your current level.  The green imp boss is west of the entrance 
+and he loads ‘a translucent wing’ (held canfly) and some other item I can’t 
+remember.  Roam around until you find the spores and have everyone (tank first) 
+‘breathe spores, wake stand).  The red imp boss is southwest of the entrance and 
+can load ‘a glowing orb of fire’ (held light resist_heat) and ‘a fiery red 
+cloak’ (aboutworn det invis).  The spores are eastward somewhere.  The black imp 
+boss is in the northeast corner and loads ‘a dark black robe’ (no idea) and ‘a 
+faerie bone necklace’ (+5learn neckworn).  The spores are west of the boss on 
+this level.  The ice imp boss is in the southeast corner and you need to ‘break 
+ice’ to awaken him.  He loads ‘a frozen crown of iron’ (mage/druid/cleric 2int 
+headworn) and ‘a spiked ice bracelet’ (easyfrag +dam wristworn).  After killing 
+the ice imp and memming have everyone breathe/wake/stand again and gust away the 
+cloudkill that appears.  To the north is the Illusionist, a mob that creates a 
+lot of fake output and change his shape, so tell your group to ignore it and not 
+panic.  He is nobash but not that hard.  He can load ‘a bracelet of polished 
+sodalite’ (+10hp wristworn), another item I don’t see enough to remember, and a 
+fireshield/iceshield/mirror image/or ams prep norent item.  If you ‘stare 
+mirror’ in the Illusionists room, you are transported to the mirror creature 
+nomagic area in Ancient Keep.
+
+
+**Alpine Glacier
+
+This zone is a group of spin rooms with wildlife that load a few neat items and 
+a very tough white dragon named Frostbyte.  It’s located in the Kharolis 
+Mountains south of Thorbardin and west of Tarsis.  Make sure everyone is flying 
+and spin through the rooms, killing/areaing the wildlife.  Snow eagles can load 
+‘a snowy white eagle feather’ (held autofly), polar bears load ‘a white polar 
+bear pelt’ (aboutworn fastdecay resist_cold), bighorn sheep load ‘a bighorn 
+sheep skull’ (+bash headworn), and snow leopards load ‘a snow leopard’s tail’ 
+(+dex waistworn.
+
+Somewhere on the glacier is a hidden down exit that leads into a crevice.  To 
+find it either make a non flying charmie and roam the glacier or move down in 
+the spins whenever able.  At the bottom, send a tank west and kill/bash the 4 
+ice imps.  Move north and east and mem full/prep for the nasty dragon.  
+Frostbyte hits excessively hard (triple nasty oblits) and has a whole posse of 
+lackeys around him.  When you first move in there will be 2 white slaads and 
+Frosty.  When each slaad dies, 3 ice imp will poof in and area/attack.  The kill 
+order for this fight is: slaad imp imp imp slaad imp imp imp dragon.  Assign 
+bashers to each slaad and to as many imps as you can.  Once all the trash are 
+dead, dualwield and frag the dragon down.  Frosty can 1-round a very high hp 
+tank if he’s bashed, so it is wise to get a steelskin potion (and a fireshield) 
+before doing this fight.  Frosty also area stuns repeatedly and casts mage 
+spells.  He loads ‘a frosted tin ring’ (+dam ring), ‘a frosted tin helm’ (+con 
+headworn I think), ‘a frosted tin plate’ (canfly bodyworn), ‘a frosted tin 
+bracer’ (+all slot mageonly), ‘a frosted tin blade’ (4d4++ offhand lblade), and 
+druid tablets (summon/mass fly/barrier).  East of Frostbyte is his chest that 
+needs a said keyword phrase to open.  The clue for the chest is “You see an 
+image of Morgion turning tin dragons into ice dragons.  The time has come again, 
+from ice to tin.”  The old phrase was ‘say tin to dust’, but it was changed to 
+something nearly impossible.  The chest used to load magebooks of decent level 
+and ‘a laboradorite book’ that wiped away a failed spell.
+
+
+
+
+**Prepared in response to the proliferation of insider information to scumbags 
+who only play to ruin the game for others.  Hopefully better players will have a 
+chance to gain a foothold against the growing scum infection.
+
+https://ssl./
+http://www./
+http://members.multimania.co.uk/arcticmud/maps/text/javascript

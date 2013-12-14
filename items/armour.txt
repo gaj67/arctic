@@ -1,0 +1,104 @@
+ Object 'armor armour leather black soft silent suit'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 10           Value   : 125
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT
+NOBARBARIAN NOSHAMAN
+ Apply    : 3
+
+ Object 'scabbard jewels'
+ Item Type: CONTAINER
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 200
+ Restricts: NOMAGE NODRUID NOCLERIC NOSHAMAN
+
+ Object 'robe red'
+ Item Type: CONTAINER
+ Mat Class: cloth        Material: wool
+ Weight   : 10           Value   : 125
+ Effects  : DETECT_MAGIC
+ Item is  : MAGIC ANTI_GOOD ANTI_EVIL
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT
+NOBARBARIAN NOSHAMAN
+
+ Object 'boots leather pair'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 1
+ Item is  : BLESS
+ Apply    : 2
+
+ Object 'boots spiked pair'(palanthas elephant inn)
+ Item Type: ARMOR
+ Mat Class: metal        Material: gold
+ Weight   : 5            Value   : 80
+ You sense that this item affects skills.
+ Affects  : skill kick          by +3 ] via legend lore
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 2
+
+ Object 'cloak black hooded'(palanthas elephant inn)
+ Item Type: WORN
+ Mat Class: cloth        Material: wool
+ Weight   : 2            Value   : 120
+ Affects  : ARMOR         by -2
+
+ Object 'boots black soft leather'(palanthas elephant inn)
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 50
+ You sense that this item affects skills.
+ Affects  : skill sneak         by +3 ] via legend lore
+ Apply    : 2
+
+ Object 'robe many pockets'
+ Item Type: CONTAINER
+ Mat Class: cloth        Material: wool
+ Weight   : 4            Value   : 100
+ Affects  : ARMOR         by -5
+ Item is  : MAGIC
+
+  Object 'sleeves leather dark'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 11           Value   : 300
+ Affects  : SAVING_PETRI  by -1
+ Item is  : MAGIC
+ Apply    : 5
+
+ Object 'necklace scale alligator'
+ Item Type: WORN
+ Mat Class: natural      Material: bone
+ Weight   : 3            Value   : 100
+
+ Affects  : HIT           by 5 [i.e. +5 hitpoints]
+ Item is  : GLOW MAGIC
+
+ Object 'ring silver tarnished'
+ Item Type: WORN
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 100
+ Effects  : DETECT_MAGIC
+
+ Object 'amulet silver'
+ Item Type: WORN
+ Mat Class: metal        Material: silver
+ Weight   : 4            Value   : 250
+
+ Affects  : RESIST_COLD   by 6
+ Item is  : MAGIC
+
+ Object 'amulet silver'
+ Item Type: WORN
+ Mat Class: metal        Material: silver
+ Weight   : 4            Value   : 250
+ Affects  : RESIST_ELECTR by 10
+ Item is  : MAGIC
+
+ Object 'robe black priest's' [Balifor; Hiddikul]
+ Item Type: WORN
+ Mat Class: cloth        Material: wool
+ Weight   : 5            Value   : 80
+ Affects  : ARMOR         by -3
+ Item is  : EVIL MAGIC
+

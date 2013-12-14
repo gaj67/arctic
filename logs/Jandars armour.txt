@@ -1,0 +1,16 @@
+Jandar is using:
+<used as light>            a clear sphere
+<worn around neck>         a thin steel gorget
+<worn around neck>         a thin steel gorget
+<worn on body>             a solid steel vest
+<worn on legs>             a pair of thin steel cuisses
+<worn on feet>             a pair of thin steel boots
+<worn on hands>            a set of thin steel gauntlets
+<worn on arms>             a set of thin steel brassards
+<worn as shield>           a white dragon scale shield
+<worn about body>          a hermit's pack
+<worn about waist>         a fine silk belt-pouch
+<worn as pouch>            a plain component pouch
+<worn around right wrist>  a thin marble bracer
+<used in primary hand>     a dwarven smasher
+From Delphon -10 armor class

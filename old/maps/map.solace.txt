@@ -1,0 +1,56 @@
+read first
+                                  .--. .__.
+                 North  Gate       |10| |  +---+
+                    +   +----------+  + |   ___|        -/- Key -/-
+                    |   ________  __  | |      | [0]  Fountain
+                    |   |___   |  ||  +-+  +---+ (1)  Below the Inn
+                    |    (5)|  +--+|       |     (2)  Armor Emporium
+                    |    ___|      |  +====+     (3)  Weapon Shop
+                +---+   |          |   ^   |     (4)  Below Supply Shop
+(18)            |(4)    |          |   ===++     (5)  Below Magic Shop
+--------]       ====+   |          |   (13)|     (6)  Solace Cafe
+____    |       |(1)    |          |  +----+     (7)  Bar and Grille
+    |   +-------+---+   +----------+  +-         (8)  Arrows by Tansis
+    |                [0] (12)          E. Gate   (10) Stables
+    |   +-+   ++   ++   +-------------+-         (11) Solace Dump
+    |(8)| |(6)||(2)||(7)|___                     (12) Temple of Solace
+    |   | +---++---+|    (3)|    .___.           (13) Leather Shop
+    |   +-----------+   |===+----+[*]|           (14) Caravan Checkpoint
+    |___________   _.    _           |           (*)  The Vallenwood Tree
+               |(11)|   | |  Solace  |
+               +----+   +-+   Park   |
+                    |   .____________+
+                    |   |
+                    +   +
+                 South  Gate
+
+read second
+
+                           ___                              /-+KEY+-/
+  _______.                /   \           ____________. ^ (Up Exits)
+ |       |               | {7] |          |[12]  [11v]| v (Down Exits)
+ |^-Inn-v|           _____\   /___        |          /
+ |       |          /             \  .____|__    ___|
+ |       |          |[6] :[8v]: [5]| [10v]      |      1 The Fountain
+ |[R]    |          \_____.  .____/  |______.   |      2 Paladins Guild
+ |       |              / |  |   \          |   |      3 Clerics Guild
+ +---+   |             | ?     [4]|         |   |      4 Thieves Guild
+     |   |              \_.  .___/          |   |      5 Barbarian Guild
+     |   |               .|  |__.           |   |      6 Mage Guild
+     |   |_______________|       |__________|   |      7 Shaman Guild
+     |                                          |      8 Druids Guild
+     |    ______________    :1v: _______________|      9 Warriors Guild
+     |    |              |       |                     10 Scouts Guild
+     |    |              |__   __|                     11 Stephen's Supply
+     |    |                 | |                        12 Magic Shop
+     |    |            _____| |______       N          13 Solace Savings
+     |    |           |[2]        [3]|    W-+-E        14 Armor Shop
+     |    |           |_____:^:______|      S          15 The Fire Hearth
+     |    |          .______: :_______.
+     |    |          |[9]___  .___[10]|
+     \    \                 | |
+      \    \________________| |
+       |     .______________   \
+       |[14v]|              |[15]
+       |_____|              .____|
+

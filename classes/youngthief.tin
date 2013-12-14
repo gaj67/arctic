@@ -1,0 +1,30 @@
+#alias {env} {envenom $wep1;envenom $wep2}
+#alias {ba} {env;back %1;throat}
+#alias {h} {hide;sneak;%1;detect}
+#alias {hn} {h n}
+#alias {he} {h e}
+#alias {hw} {h w}
+#alias {hs} {h s}
+#alias {hu} {h u}
+#alias {hd} {h d}
+#alias f {fade}
+#alias {fn} {sneak;n}
+#alias {fs} {sneak;s}
+#alias {fe} {sneak;e}
+#alias {fw} {sneak;w}
+#alias {fd} {sneak;d}
+#alias {fu} {sneak;u}
+#alias t {throat}
+#alias {p} {#var lock %1;pick %1}
+#alias {bt} {back %1;throat}
+#act {Your hand is strong, and ready for some use.} {throat}
+#act {You've been caught!} {fade}
+#act {You can't seem to escape the battle.} {fade}
+#act {You failed to pick the lock} {pick $lock}
+#act {It seems to be locked} {pick $lock}
+#act {The lock quickly yields to your skills} {open $lock}
+#act {You deftly pick the lock} {open $lock}
+#act {You can't fade unless you're standing} {stand}
+#act {bludgeons YOU} {}
+#act {pierces YOU} {}
+#act {hits YOU} {}

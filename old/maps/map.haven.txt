@@ -1,0 +1,22 @@
+Haven:
+    +=========================+NG+=========================+
+    |      Rampart Way                     Rampart Way     |    -/- Key -/-
+    |     ______     ______                     ______     |
+    |    |   (1)      (2)  | Stonk  (7)  |      Stable     |  (1) Warrior Guild
+    |    |______     ______| Avenue______|      ______     |  (2) Dark Knight
+    |    |   (3)Guild (4)  |      | magic      | Bank      |       Guild
+    |    |______Lane_______|      |______|     |______     |  (3) Mage Guild
+    |    |   (5)     (6)|Inn        (8)  |       (9)  |    |  (4) Ranger Guild
+(12)|    |_____      ___|___       ______|            |    |  (5) Druid Guild
+----+          |(11)|         (10)                         +  (6) Paladin Guild
+    WG          ----       Haven Square                   EG  (7) Aarn's Armory
+----+      Havern Avenue                  Havern Avenue    +  (8) Bakafu's
+    |     ____________________________________________     |       Oddities and
+    |    |      ________________________________      |    |       Essentials
+    |    |     |             Palace             |     |    |  (9) Galar's
+    |    |_____|      ______Entrance______      |_____|    |       Weapons
+    |    |           |                    |           |    | (10) Fountain
+    |    |      _____|                    |_____      |    | (11) Barbarian
+    |          |                                |          |       Guild
+    |          |                                |          | (12) Caravan
+    +======================================================+       Checkpoint

@@ -1,0 +1,5 @@
+#var player Lara
+#var wep1 wrist.dagger
+#var wep2 ice.knife
+#var belt belt
+#alias helpfight au

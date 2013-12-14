@@ -1,0 +1,23 @@
+here is a small map to illustrate the area
+
+3d5 prime enchantable long blade loads in wayend on a wimpy minotaur
+easy to unload if it's poped.
+
+
+
+
+             bonfair         /dragon 
+		------------/-------
+                |          /       |
+                |                  | 
+                |    Taris         | 
+                |    Wastelands    |    |
+                |                  |    ---Tarsis west gates
+    wayend-|----+                  |  -|
+           |    |                 |--|
+           |    ------------------|
+           |-                     |
+           | |                   --
+           |  --                 |
+ sirrion       |_______/---------
+ sea                   hidden 'up'

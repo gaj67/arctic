@@ -1,0 +1,21 @@
+From town hall, w;open door;w;open door;s;w;get all;fix hinge
+n;n;w;w;open door;n;n;get hammer
+s;s;e;e;s;e;e;e to Town hall
+n;fix crate [hinge] hammer;open crate (fall down)
+u to get out.
+
+[Cavern Entrance] n;e;n;e;e;n;n;w;n;feel crack;move switch,
+brog warriors, desert rat gear (wear all 4 items for magic).
+Also loads magic ebony scimitar - unknown effect.
+
+Go to noble from entrance: n;e;e;e;e;s;s [Cavernous Pool]
+kill noble, get note corpse, read note:
+
+"Oogla ook nab noth nab est, ook nab soth. Ook
+nab na soth blac ta:
+BLUK! BLUK! BLUK! Na grib brog opre na shub."
+
+From entrance: n;e;n;e;e;n;n;e;e;e [Within the Natural Cavern]
+knock wall * 3 (fall down) u to noble brog place, 
+pull lever to get out. Not sure what quest is.
+

@@ -1,0 +1,48 @@
+Q1.  I am getting a DLL error.
+A1.  This is likely because you have Cygwin installed. Try to update Cygwin, if that doesn't help you're better off running Tintin in Cygwin instead by copying tt++.exe to the /bin directory in cygwin.
+
+
+Q2.  The #system command doesn't work.
+A2.  It doesn't, if you want full functionality install Cygwin and run TinTin++.
+
+
+Q3.  Tintin script files look weird in notepad.
+A3.  This is because notepad only follows the windows text format. Try using wordpad instead.
+
+
+Q4.  The #suspend command doesn't work.
+A4.  It doesn't, if you want full functionality install Cygwin.
+
+
+Q5.  How to automatically read in a file when starting this beast?
+A5.  Right click the WinTin++ shortcut, and choose properties. You'll see an input field containing the following:
+
+"C:\Program Files\WinTin++\cygterm.exe" -cygterm bin/tt++ -t WinTin++
+
+If your filename is named default.txt you need to change the link to the following:
+
+"C:\Program Files\WinTin++\cygterm.exe" -cygterm bin/tt++ -t WinTin++ default.tin
+
+
+Q6. Where does tintin save/read the files?
+A6. Tintin does so in the install directory. The installer makes a shortcut in: start -> program files -> WinTin++ -> Directory, which will take you there.
+
+
+Q7. How does copy/paste work?
+A7. Text is automatically copied when text is selected. You can paste with the right mouse button, or pressing shift-insert. Pressing ctrl-c will clear your input.
+
+Q8. How do I change the default settings of the terminal?
+A8. Go to the WinTin++ directory at C:\Program Files\WinTin++\ and double click on cygterm.exe which will open the configuration menu. After making your changes go back to the Session tab. Find the 'Saved Sessions' list, select 'Default Settings', and click the Save button.
+
+You can also access the configuration menu by right clicking on the WinTin++ title bar and selecting 'Change Settings'.
+
+Another option is creating and configuring a new session named tintin. In order to use it you would change the shortcut to the following:
+
+"C:\Program Files\WinTin++\cygterm.exe" -load tintin -cygterm bin/tt++ -t WinTin++
+
+Q9. How does WinTin++ work?
+A9. WinTin++ exists of 3 components. The first component is the Cygwin DLL which allows precompiled C code written for linux systems to work on Windows. The second component is the compiled TinTin++ source code. The third component is a modified version of Putty known as CygTerm that functions as a Cygwin compatible VT100 X terminal. The source code of CygTerm is available at: http://web.gccaz.edu/~medgar/puttycyg
+
+Q10. Where's the beloved input bar?
+A10. Type: #split
+

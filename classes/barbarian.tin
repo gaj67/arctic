@@ -1,0 +1,13 @@
+#act {You are ready to mend} {mend $mend}
+#act {You are ready to sharpen once again.} {sharpen $sharp}
+#act {The rage builds} {wardance}
+#act {The insanity builds} {wilddance}
+#act {The love builds} {healdance}
+#alias {kw} {ca %1;wardance}
+#alias ca {charge %1;battle}
+#act {%1 leaves} {track %1}
+#act {You charge at} {assail}
+#act {You barrel into} {assail}
+#act {With a crazed scream, you jump into the fray} {charge}
+#alias cc {carve corpse;drop meat}
+#act {Your feeble rescue efforts} {rescue}

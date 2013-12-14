@@ -1,0 +1,41 @@
+#alias ef {eat food}
+#alias dw {drink water}
+#alias fa {drink %1;drink %1;fill all %1}
+#alias hl {cast 'cure light' me}
+#alias hs {cast 'cure serious' me}
+#alias hc {cast 'cure critical' me}
+#alias a {cast 'aid' me;cast 'bless' me;cast 'sanc' me;cast 'prayer' me;cast 'holy aura';cast 'prot' me}
+#alias de {cast 'dispel evil' %1}
+#alias arm {cast 'holy armor' me}
+#alias wep {cast 'spirit';wield hammer}
+#alias cl {cast 'cause light' %1}
+#alias cs {cast 'cause serious' %1}
+#alias harm {cast 'harm' %1}
+#alias cc {cast 'curse' %1}
+#alias cb {cast 'blind' %1}
+#alias cp {cast 'poison' %1}
+#alias ch {cast 'hold person' %1}
+#alias harm {cast 'harm' %1}
+#alias gac get all corpse
+#alias rr {get glowing.scroll belt;recite recall}
+#alias gcp {get %1 component.pouch}
+#alias pcp {put %1 component.pouch}
+#alias lcp {l in component.pouch}
+#alias light {cast 'light';hold ball}
+#alias ga {get all}
+#alias bm {rest;ban me}
+#alias coins {get all.coins belt;put 200 coins belt;dep all}
+#act {You wince as you} {ban me}
+#act {You are hungry} {eat food}
+#act {You can't seem to find it} {get food pouch}
+#act {You are thirsty} {drink water}
+#act {probably stand up} {stand}
+#act {You are sent sprawling} {stand}
+#act {You apply bandages to your wounds} {sav;st}
+#act {Your studies complete} {sav;st}
+#act {spiritual hammer loses} {wep}
+#act{Your ball flickers and goes out.} {light}
+#act{the usefulness of a bright ball of light ends}{light}
+#act {into a blue mist and dissipate} {arm}
+#ticker {fred} {sav} {60}
+#session d mud.arctic.org 2700

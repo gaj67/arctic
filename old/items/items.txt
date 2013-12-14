@@ -1,0 +1,69 @@
+Object 'sextant'
+ Item Type: WAND
+ Mat Class: metal        Material: tin
+ Weight   : 1            Value   : 5
+ Item is  : HUM SELF_DESTRUCT MAGIC NORENT
+ Charges  : 2
+ Level 20 : fly
+
+Object 'jewel blue opalescent'
+ Item Type: WORN
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 2            Value   : 100
+ Item is  : GLOW MAGIC BLESS NORENT
+ Restricts: NOMAGE NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT
+NOBARBARIAN
+
+Object 'stone green' [from hidden kender in Palanthas]
+ Item Type: OTHER
+ Mat Class: natural      Material: stone
+ Weight   : 1            Value   : 100
+ Item is  : MAGIC
+ Immune   : IMMUNE_GAS
+
+Object 'scabbard jewels' [Rae Nil, Balifor]
+ Item Type: CONTAINER
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 200
+
+ Restricts: NOMAGE NODRUID NOCLERIC NOSHAMAN
+
+You recite a scroll of identify which dissolves.
+You feel informed:
+ Object 'ring skull fairy'
+ Item Type: WORN
+ Mat Class: natural      Material: bone
+ Weight   : 1            Value   : 80
+
+ Affects  : LEARN         by 2
+ Effects  : DETECT_MAGIC
+
+You feel informed:
+ Object 'ring silver tarnished'
+ Item Type: WORN
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 100
+
+ Effects  : DETECT_MAGIC
+
+You feel informed:
+ Object 'ring diamond gold wedding band'
+ Item Type: WORN
+ Mat Class: metal        Material: gold
+ Weight   : 4            Value   : 100
+
+ Affects  : ARMOR         by -2
+ Affects  : regeneration  1%
+ Item is  : MAGIC BLESS
+
+You feel informed:
+ Object 'ring black runed'
+ Item Type: WORN
+ Mat Class: natural      Material: stone
+ Weight   : 5            Value   : 300
+
+ You sense that this item affects abilities.
+ Affects  : HIT           by -3
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT
+NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN

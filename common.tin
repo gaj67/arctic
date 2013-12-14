@@ -1,0 +1,58 @@
+#alias ef {eat $food}
+#alias dw {drink $drink}
+#alias fa {drink %1;drink %1;fill all %1}
+#alias gac {get all corpse}
+#alias gcc {get all.coins corpse}
+#alias ga {get all}
+#alias gc {get coins}
+#alias {coins} {get all.coins $belt;put 200 coins $belt;dep all}
+#alias gcb {get all.coins $belt}
+#alias rr {get glowing.scroll $belt;recite recall}
+#alias {bm} {r;ban me}
+#alias {wep} {rem $light;wield $wep2 left}
+#alias {light} {rem $wep2;hold $light}
+#alias lgac {light;gac;wep}
+#alias lgcc {light;gcc;wep}
+#alias lga {light;ga;wep}
+#alias lib {look in $belt}
+#alias lip {look in $pouch}
+#alias lic {l in corpse}
+#alias uo {unlock %1 %2;open %1 %2}
+#alias uog {uo %1 %2;ga %1 %2}
+#alias agcc {#act {The death cry} {gcc}}
+#alias ngcc {#act {The deaty cry} {grin}}
+#act {You wince as you} {ban me}
+#act {You are hungry} {eat $food}
+#act {You can't seem to find it} {get $food $pouch}
+#act {You are thirsty} {drink $drink}
+#act {You can't find it!} {get $drink $pouch}
+#act {probably stand up} {stand}
+#act {You are sent sprawling} {stand}
+#act {You apply bandages to your wounds} {sav;st}
+#act {Come on! I'm relaxing!} {st}
+#act {You can't do that while sitting.} {st}
+#act {The %1 seems to be closed.} {#var lock %1;open %1}
+#act {disarms your weapon} {get $wep1;wield $wep1;get $wep2;wield $wep2 left}
+#var food food
+#var drink water
+#var belt belt
+#var pouch large.pouch
+#var light lantern
+#act {comes to your rescue} {assist}
+#alias {foll %1} {#var leader %1;follow $leader}
+#act {%1 starts following you} {gro %1}
+#act {$leader sits down} {r}
+#act {$leader rests} {r}
+#act {$leader stands} {st}
+#act {$leader divides} {coins}
+#act {C Exits:} {#var fight 0}
+#act {] Exits:} {#var fight 1}
+#alias helpfight {ass}
+#var dofight {#if {$fight<1} {#var fight 1;helpfight}}
+#act {$leader stabs} {$dofight}
+#act {$leader pierces} {$dofight}
+#act {$leader slashes} {$dofight}
+#act {$leader misses} {$dofight}
+#act {$leader hits} {$dofight}
+#act {$leader massacres} {$dofight}
+#act {$leader orders you to '%1'} {say ok;%1}

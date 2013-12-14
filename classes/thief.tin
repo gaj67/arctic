@@ -1,0 +1,37 @@
+#alias {env} {envenom $wep1;envenom $wep2}
+#alias {ba} {env;back %1;coup;throat}
+#alias {h} {sneak;%1;detect;hide}
+#alias {hn} {h n}
+#alias {he} {h e}
+#alias {hw} {h w}
+#alias {hs} {h s}
+#alias {hu} {h u}
+#alias {hd} {h d}
+#alias f {fade}
+#alias {fn} {sneak;fade n}
+#alias {fs} {sneak;fade s}
+#alias {fe} {sneak;fade e}
+#alias {fw} {sneak;fade w}
+#alias {fd} {sneak;fade d}
+#alias {fu} {sneak;fade u}
+#alias t {throat}
+#alias {p} {#var lock %1 %2;pick %1 %2}
+#alias {bt} {back %1;throat}
+#act {Your hand is strong, and ready for some use.} {throat}
+#act {You've been caught!} {fade}
+#act {You can't seem to escape the battle.} {fade}
+#act {You failed to pick the lock} {pick $lock}
+#act {It seems to be locked} {pick $lock}
+#act {The lock quickly yields to your skills} {open $lock}
+#act {You deftly pick the lock} {open $lock}
+#act {it wasn't locked} {open $lock}
+#act {You can't fade unless you're standing} {stand}
+#act {bludgeons YOU} {fade}
+#act {pierces YOU} {fade}
+#act {hits YOU} {fade}
+#act {You attempt to unbalance} {unbalance}
+#alias {au} {env;assist;unbalance}
+#act {Get in there and coup some chumps.} {coup}
+#act {comes to your rescue} {au}
+#act {You sense a life} {detect}
+#act {You sense you are not alone}

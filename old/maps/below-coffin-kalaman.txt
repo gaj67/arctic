@@ -1,0 +1,17 @@
+In graveyard west of Kalaman
+push coffin;n;n;pull torch;w;n;n[aggro hound,drop apples if lost];
+n;e[aggro guard];w;s[guard?];e;e;n[Out of Maze]
+w;w;n;n;n[Mess Hall;drunken guard-listen guard,patrol guard mobiles];s;w;n;
+w[An Empty Hallway - secret passage w]
+n;e;s[An Empty Hallway];s;e;n[Mess Hall]; - secret passage n? bypass death-trap but portal
+s;s;s;e;e[Out of Maze];enter tunnel;e;
+n[Half-Collapsed Tunnel]
+n[An Intersection,DEATHTRAP to n!!];e;n;w[DEATHTRAP to s!!];n;n[A Dead End]
+push wall;w;n[some footprints to n but dead end,not sure];w;w;get all crate-fill ? barrel
+e;n;w[2 guardians,guard mob,all aggro]
+[n is doors,w guard hall]
+n[A Common Area,fountain];open screen;e[2 apprentices,extremely aggro!]
+
+from fountain, w [Leylia's Chamber];d [A Secret Compartment];open box?;get all box?
+someone had been here before me!
+

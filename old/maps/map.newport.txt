@@ -1,0 +1,29 @@
+                       THE CITY OF NEWPORT
+                         ______________________________
+                        /                              |
+                       /    The North Pier             |
+        _____________ /     ____________________       |
+       | Town |     |/                                 |
+       |Guard |                                   The  +
+       |  HQ  |      Rapid Drive North           Docks +
+       |             ____       _________________      +       -/- Key -/-
+       | Rapid      |               |      |           |
+       | Drive _____|   Merchant's  |      |       The |  (1) Berlitz's Mares
+       | North| (1) |(2)   Lane  (3)|  (4) | (5)  Wharf|  (2) The Newport Forge
+ ______|      |     |____       ____|      |_____      |  (3) Tiddle's House
++ West                     Town                        |         of Equipment
++ Gates  Bubbling Brook   Square      Bubbling Brook   |  (4) The Warrior's Post
++           Street         (6)            Street       |  (5) Boats on the Bay
+| The  |             ____       ____                   |  (6) Water pump
+| Dump |      | (7) |               |   (10)    |      |  (7) The Ranger's Post
+|______|      |_____|(8)         (9)|___    ____|  The |  (8) First Bank of
+       | Rapid      |   Merchant's  |Bayview Inn| Wharf|          Newport
+       | Drive      |____  Lane ____|___________|      |  (9) Griglback's
+       | South                                         |
+       |      |      Rapid Drive South            The  +
+       |      |                                  Docks + (10) The Bayshore
+       | The  |_____|\      ____________________       +         Restaurant
+       |Newport     | \                                | (11) The Chapel Garden
+       |Chapel  (11)|  \    The South Pier             |
+       |____________|   \______________________________|
+

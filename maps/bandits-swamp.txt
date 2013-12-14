@@ -1,0 +1,181 @@
+located south east of haunting. follow the path in wendle woods, 
+this zone is located at the end.
+
+From Balifor [] to entrace Bandits swamp 
+
+North Gate -> n;n;e;e;n;e;n;n;n;e;e;n
+Outside a Quaint Town -> e;s;e;e;e;e;e [n to Outside a Ghost Town]
+Before the Wendle Woods -> s;s;e;s;e;s;e;e;e;s;e;e;n;n;w;w;n lizardmen, etc., some aggro
+Entering a Swamp -> n;n;e;e;e;n;n?;n?
+
+
+fighting bandit's
+
+MAZE
+
+2nwnw4n 
+
+Exits: ES>
+
+3es
+
+w- mem room
+
+4n
+
+fight 2 guard
+
+n
+
+fight guard
+cloaked man
+hawke - bash 
+
+guard block exits special
+
+ ^^^^^^^^  gets a pair of white feathered armbands from the corpse of Hawke. +wis
+ ^^^^^^^^  gets a piece of broken medallion from the corpse of Hawke.
+ ^^^^^^^^  moves the leaves aside, revealing a trapdoor beneath them.
+clear leaves
+open trapdoor;fol leader;group form
+autodegroup
+
+fight guard and assassin 
+fight cloaked man
+
+e 
+
+pull switch
+
+skip faight golem, fall down
+
+d
+
+nomagic fight - tru flee/move s
+
+s
+
+fight 2*pit beast
+
+a ring of enlightenment
+
+eseu 
+
+open hatch
+
+wnene
+
+ ^^^^^^^^ tries to move the curtain out of the way, but he accidently
+sets off a trap - triggering darts shooting from the walls at you!
+ ^^^^^^^^ seems weaker.
+
+open curtain
+
+nwn
+
+fight thief
+
+ ^^^^^^^^ moves some boxes around.
+
+move boxes
+open panel
+
+n
+
+fight tall druid and Leroux, master assassin bash both
+
+s
+
+You hear an eerie cackling in the room, then suddenly...
+A glowing wall forms to block the exit north.
+A glowing wall forms to block the exit south.
+
+
+A black robed mage arrives in a puff of smoke.
+
+A black robed mage taps a staff to the ground, shattering it.
+A hill giant now follows a black robed mage.
+
+fight mage and giant
+-mage has prism
+-giant has a kickbash special
+
+A hill giant says 'me strong.. me SMASH!'
+A hill giant crashes his club to the ground, knocking you to the ground!
+^^^^^^^^ gets a staff inscribed with runes from the corpse of a black robed mage
+^^^^^^^^ gets a medallion fragment from the corpse of a black robed mage.
+
+join/combine/assemble medallion
+
+^^^^^^^^ assembles two half medallions together
+
+ses3w
+
+fight golem
+
+w 
+
+op hatch
+
+3sws2w
+
+ ^^^^^^^^ chops the large bushes, clearing the way to a dark cave.
+
+chop bushes
+enter cave
+
+fight red dragon
+
+ ^^^^^^^^ gets a crystal ball of life from the corpse of a red dragon.
+
+enter opening
+
+sw
+
+^^^^^^^^ pushes aside the leaves of the vegetation and disappears into
+the foliage through a tiny space.
+
+enter foilage
+
+n
+
+fight nightmare
+
+^^^^^^^^ fiddles with the large black rock. Suddenly, the ground
+begins to tremble beneath you for a short while.
+The large black rock moves to the side, revealing a secret down exit.
+
+d
+
+fight 2 stoneskined guardian
+
+ ^^^^^^^^ gets a ring of the stone guardian.
+n
+Ghama thanks ^^^^^^^^ for setting him free, then he runs off to work on
+reclaiming the forest.
+You receive * experience.
+free ghama
+
+^^^^^^^^ gets a miniature golden tree.
+su3e3s3e
+
+
+try to find /Outside an Old Cabin///(E)W>
+
+3w2ews
+
+exits NS> entrace
+
+4s3wsww
+
+A Small Hideout
+Ghoron, the forest guardian, tells Bersch his story and begs for help.
+listen guardian
+
+ ^^^^^^^^ unlocks a small panel.
+{unlock panel/open panel}
+ ^^^^^^^^ gets a flask of fluorescent green liquid from a small panel.
+ ^^^^^^^^ gets a black bearskin bag from a small panel. - nodrop nofrag container
+
+
+

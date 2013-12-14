@@ -1,0 +1,187 @@
+
+
+
+gulfport - aquamarine potion = fly, blue potion = dispel magic?
+
+tried brew bless, ate my flask of swamp gas.
+temple of grak
+leather book gold hinges is cause critical
+
+quest
+first get harm in newport from pasal
+should have at least 3 6th level spell slots
+Fnark: is getting ham start of quest?
+Jandar: nah you go into xak thn you port into the temple of mishakal
+
+-----------
+Balifor:
+ Mistletoe           247  A sprig of festive mistletoe  (Low Abjuration)
+ Tulip                27  A withered tulip  (Low Enchantment)
+ Ribbon               35  A red silk ribbon  (Low Enchantment)
+ Vial                 52  A vial of tinctured iodine  (Low Healing)
+ Vial                 92  A vial of seductive perfume  (Mid Enchantment)
+ Cornea               68  An opaque cornea  (Low Illusion) - mage
+ -----------
+Haven:
+ - Lemuel's Herbs, eennw from fountain
+ Pebble               18  A smooth river pebble  (Low Divination)
+ Cinnamon             22  A stick of cinnamon  (Low Enchantment)
+ Cabbage              12  Some rotten skunk cabbage  (Low Evocation)
+ Beans                12  Some coffee beans  (Low Plant)
+-----------
+Palanthas:
+- The Three Moons, nnes? from south gate
+   ? Balance              88  A tiny bronze balance  (Low Divination)
+   ? Egg                  38  A dinosaur egg  (Low Summoning)
+   ? Lace                 55  A flower of Queen Christine's lace  (Low
+Protection)
+ Saffron              23  A sprinkle of saffron  (Low Divination)
+ Blossom              39  A snapdragon blossom  (Low Evocation)
+ Square               16  A small square of silk  (Low Illusion)
+ Pearl               116  A silver laced pearl  (Low Summoning)
+-----------
+Solace:
+ Vial                 75  A vial of exotic venom  (Low Healing)
+ - random from priestess in village e of Solace.
+
+-----------    
+Hopeful:
+  Dirt                 23  Dirt from a long forgotten grave  (Low
+Necromantic)
+  Flint                15  Some flint chips  (Low Combat)
+  Seed                 21  A soybean seed  (Low Alteration)
+  Acorn                 7  A tiny acorn  (Low Alteration)
+  Incense              14  A stick of incense  (Low Abjuration)
+
+Kalaman
+ Doll                 27  A featureless pewter doll  (Low Elemental)
+ Sliver               12  A glass sliver  (Low Protection)
+ Splint               17  A wooden splint  (Low Healing)
+ Bandage              62  A powerfully blessed bandage  (Low Necromantic)
+ Flask                63  A corked flask of swamp gas  (Low Combat)
+ Pouch               312  A plain component pouch
+ Potion               31  An empty potion bottle
+ Scroll               31  A blank scroll
+ Scroll             1875  A fine vellum scroll
+
+
+-----------
+ 1 x a withered tulip                              (Low Enchantment)
+ 1 x some bitten fingernails                       (Mid Enchantment)
+ 1 x a taut length of twine                        (High Enchantment)
+  1. Pearl               131  A silver laced pearl  (Low Summoning)
+  2. Acorn                 6  A tiny acorn  (Low Alteration)
+  3. Pebble               18  A smooth river pebble  (Low Divination)
+  4. Dart                 54  A chipped stone dart  (Low Evocation)
+
+ Honeysuckle          37  A delicate honeysuckle bloom  (Low Enchantment)
+ Bead                 59  A brilliant blue bead  (Mid Combat)
+ Sponge               54  A dried sea sponge  (Low Evocation)
+ Balance              99  A tiny bronze balance  (Low Divination)
+ Garlic               29  A rotting garlic bulb  (Low Evocation)
+ Silver              126  A pinch of powdered silver  (Mid Abjuration)
+ Nugget               95  A golden nugget  (Mid Illusion)
+ Incense              12  A scented cone of incense  (Low Weather)
+ Mica                 42  A leaf of yellow tinted mica  (Low Protection)
+ Disc                 68  A bleached bone disc  (Mid Healing)
+ Moth                 21  A dead gypsy moth  (Mid Illusion)
+ Cone                 54  A ridged pine cone  (Low Summoning)
+ Urine                30  Some bottled minotaur urine  (Low Combat)
+ Sliver               12  A glass sliver  (Low Protection)
+ Honeycomb            54  A piece of royal honeycomb  (Low Summoning)
+ Doll                 27  A featureless pewter doll  (Low Elemental)
+ Brimstone            30  A pinch of noxious brimstone  (Low Combat)
+ Firefly              24  A bottled firefly  (Low Elemental)
+ Crystal              94  A deep red cuprite crystal  (Low Weather)
+ Moss                 63  A patch of phosphorescent moss  (Mid Illusion)
+ Incense              12  A scented cone of incense  (Low Weather) 
+ Legs                 38  A handful of toasted beetle legs  (Low Abjuration)
+ Balance             115  A tiny bronze balance  (Low Divination)
+ Beak                 30  An owl beak  (Mid Divination)
+ Fan                  92  A neatly folded parchment fan  (Mid Summoning)
+ Chestnuts            54  A handful of roasted chestnuts  (Low Evocation)
+ Pelt                 43  A ragged werewolf pelt  (Low Summoning)
+ Saliva               43  Some froghemoth saliva  (Low Summoning)
+ Sprig                29  A sprig of pine  (Mid Plant)
+ Garlic               29  A rotting garlic bulb  (Low Evocation)
+ Ear                  30  A bloody elven ear  (Low Combat)
+ Beans                12  Some coffee beans  (Low Plant)
+ Potato               54  A scabbed potato  (Low Summoning)
+ Sunstone            126  A scintillating red sunstone  (Mid Protection)
+ Tear                247  A crimson dragon tear  (Low Weather)
+ Moonstone           123  A pearly white moonstone  (Mid Combat)
+ Brimstone            30  A pinch of noxious brimstone  (Low Combat)
+ Amber                43  Some cracked amber  (Low Summoning)
+ Egg                  43  A dinosaur egg  (Low Summoning) 
+ Nail                 54  A bent steel nail  (Low Summoning)
+ Sponge               54  A dried sea sponge  (Low Evocation)
+ Powder               83  A pinch of chameleon dust  (Low Illusion)
+
+from snake in tarsis
+  1. Mirror                7  A broken piece of a mirror  (Low Divination)
+  1. Spruce               26  Some spruce seeds  (Low Plant)
+ 
+balifor
+  1. Pearl               131  A silver laced pearl  (Low Summoning)
+  2. Mud                  24  A lump of blood red mud  (Mid Summoning)
+from mage in ghost ship
+  1. Lens                 24  A scratched glass lens  (Low Illusion)
+from bad guy in temple 
+  1. Runestone           123  A smooth blank runestone  (Low Alteration)
+
+from Jasmil (elder) in Patience
+  Mandrake root (didn't get to test it, accidentally used it up in healing)
+from Germunis - froghemoth saliva
+
+Spheres
+-------
+Divination
+- detect *, sense life
+
+Combat
+- bless
+  + flint
+- spiritual hammer, prayer
+
+Echantment
+- curse, sleep, hold person
+
+Summoning
+- create *
+
+Protection
+- aid, remove curse, holy armor, dispel *, santuary
+- holy armor
+  + yellow tinted mica
+  + flower of Queen Christine's lace
+
+Necromantic
+- cause *, harm, cure blindness
+
+Illusion
+- blindness, light, blur
+- light:
+  + small square of silk
+
+Healing
+- cure light*, remove poison
+- cure light
+  + a vial of tinctured iodine, or splint, or mandrake root
+- cure serious:
+  + a vial of tinctured iodine
+  + a bleached bone disc ends
+
+Elemental
+- resist
+
+Weather
+Evocation
+- gust of wind, stinking cloud
+
+Abjuration
+Alteration
+- burning hands, rot, silence, water breath, fly
+
+Plant
+- refresh, barkskin, stratification, feast, 
+

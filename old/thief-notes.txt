@@ -1,0 +1,11 @@
+Palkanthas
+The Ebullient Elephant Inn
+  1. Dagger              222  A serrated dagger
+  2. Boots               148  A pair of spiked boots
+  3. Cloak               222  A hooded black cloak
+  4. Potion               37  A clear potion of invisibility
+  5. Wand                370  A wand of paralyzation
+  6. Lockpicks            18  A set of lockpicks
+  7. Boots                92  A pair of soft black leather boots
+  8. Mug                   1  A mug
+  9. Goblet                1  A goblet

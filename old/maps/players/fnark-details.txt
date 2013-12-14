@@ -1,0 +1,7 @@
+You quaff a potion of knowledge which dissolves.
+You feel informed:
+ Age      : 22 years 11 months 1 day
+ Height   : 168 cm
+ Weight   : 62  kg
+ Abilities: Str 18 Int 19 Wis 18 Dex 17 Con 13 Cha 19
+
