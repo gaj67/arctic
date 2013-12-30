@@ -1,11 +1,12 @@
 #var player Ethelred
-#var wep1 glass.sabre
-#var wep2 steel.dagger
+#var wep1 scimitar
+#var wep2 dagger
 #var belt belt
 #var light lamp
+#var mount warhorse
+#var food chicken
 #alias helpfight au
 #act {A pile of steel coins} {gc}
-#var mount griffon
 #act {You can't do that while on your mount} {dism}
 #act {You cannot reach it from your mount} {dism}
 #act {You can't do this from your mount} {dism}

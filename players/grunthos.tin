@@ -1,12 +1,12 @@
 #var player Grunthos
-#var wep1 rapier
-#var wep2 sapphire.dagger
-#var wep dagger
+#var wep1 poinard
+#var wep2 companion.sword
+#var wep sword
 #var pouch large.pouch
 #var belt belt
 #act {Lara pierces} {#if {$fight<1} {#var fight 1;ar}}
 #act {Dnote pierces} {#if {$fight<1} {#var fight 1;ar}}
-#var light lamp
+#var light lantern
 #alias helpfight ar
 #alias wep {rem $light;wield $wep2 left}
 #alias light {rem $wep2;hold $light}
