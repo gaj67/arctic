@@ -29,6 +29,7 @@
 #act {You strike at} {#if {$striking>0} {strike}}
 #act {You attempt to strike} {#if {$striking>0} {strike}}
 #act {Once again the time has come for righteous anger.} {reckon}
+#act {Sweat dripping, your anger subsides, your blood cools.} {grin}
 #act {caused by your faith} {turn}
 #act {is turned} {turn}
 #act {is unaffected} {turn}
