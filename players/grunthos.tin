@@ -1,6 +1,6 @@
 #var player Grunthos
-#var wep1 poinard
-#var wep2 companion.sword
+#var wep1 broadsword
+#var wep2 wicked.sword
 #var wep sword
 #var pouch large.pouch
 #var belt belt
