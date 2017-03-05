@@ -16,6 +16,8 @@
 #alias lga {light;ga;wep}
 #alias lib {look in $belt}
 #alias lip {look in $pouch}
+#alias lip2 {look in 2.pouch}
+#alias lip3 {look in 3.pouch}
 #alias lic {l in corpse}
 #alias uo {unlock %1 %2;open %1 %2}
 #alias uog {uo %1 %2;ga %1 %2}
@@ -58,4 +60,16 @@
 #act {$leader massacres} {$dofight}
 #act {$leader orders you to '%1'} {say ok;%1}
 #act {$leader now rides} {mount}
-
+#act {You sit down} {#var sitting 1}
+#act {You rest your tired bones} {#var sitting 1}
+#act {You stand up} {#var sitting 0}
+#var was_sitting 0
+#alias first_st {#if {$sitting>0} {stand;#var was_sitting 1}}
+#alias then_r {#if {$was_sitting>0} {rest;#var was_sitting 0}}
+#var was_standing 0
+#alias first_r {#if {$sitting<1} {rest;#var was_standing 1}}
+#alias then_st {#if {$was_standing>0} {stand;#var was_standing 0}}
+#act {%% %1C} {#var coins %1}
+#alias pcb {put $coins coins $belt}
+#act {You start using the %1.} {#var wep %1}
+#act {You unfurl the whip} {#var wep whip}

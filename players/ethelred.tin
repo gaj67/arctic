@@ -1,12 +1,13 @@
 #var player Ethelred
-#var wep1 crystalline.sword
-#var wep2 stiletto
-#var belt belt
-#var light lamp
-#var mount pegasus
+#var wep1 whip
+#var wep2 rapier
+#var light wrist
 #var food food
-#alias helpfight ar
 #act {You can't do that while on your mount} {dism}
 #act {You cannot reach it from your mount} {dism}
 #act {You can't do this from your mount} {dism}
 #act {You should dismount first} {dism}
+#alias rcb {r;comm;bm}
+#act {You are hungry} {cs me}
+#act {You are thirsty} {cs me}
+#alias k {kill %1 %2;osa}

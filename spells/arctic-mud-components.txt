@@ -9,6 +9,7 @@ People are starting to help with the component list, so I don't have as much inf
 Some components are ID'd and still no spell info... 
 ============= PART 1 - SPELLS ================
 ------
+'infravision' = saffron
 ------
 'blur' = Brew: a lump of beeswax .
 'blur' = Scribe: a scratched glass lens .
