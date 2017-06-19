@@ -1,0 +1,9 @@
+#ticker {sav} {sav} {60}
+#log append ../logs/$player.log
+#session d www.aarchonmud.com 7000
+#act {With what name do you travel through the realm of Aarchon?} {$player}
+#act {What is your password?} {dr@gons1}
+#act {Press Enter:} {y}
+#var rent 0
+#act {Make a choice:} {#if {$rent<1} {1;#var rent 1}}
+#log append ../logs/$player.log

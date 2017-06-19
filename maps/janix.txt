@@ -1,0 +1,9 @@
+Janix is druid hidden in forest, can learn
+
+From caravan in Palanthas:
++ go: w;s
+Outside the City Gates of Palanthas (west of city)
++ go: w;w;w;s;s;e;s;w;s
++ reverse: n;e;n;w;n;n;e;e;e
++ don't go: w;w;s - black grass (agressive)
+

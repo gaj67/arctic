@@ -1,3 +1,38 @@
+ Object 'staff druidic'
+ Item Type: WEAPON
+ Mat Class: wood         Material: oak
+ Weight   : 13           Value   : 150
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : staff
+ Damage   : 3D5
+
+ Object 'dagger dark adamantite'
+ Item Type: WEAPON
+ Mat Class: metal        Material: adamantite
+ Weight   : 11           Value   : 250
+
+ Affects  : HITROLL       by -1
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NOCLERIC NORANGER NOBARBARIAN NOBLACK_ROBE NORED_ROBE
+NOWHITE_ROBE NOSHAMAN
+ Class    : dagger
+ Damage   : 2D9
+
+
+ Object 'club huge spiked'
+ Item Type: WEAPON
+ Mat Class: wood         Material: oak
+ Weight   : 10           Value   : 150
+
+ Affects  : HITROLL       by 3
+ Class    : club
+ Damage   : 2D7
+
 Object 'hoopak stick'
  Item Type: WEAPON
  Mat Class: wood         Material: pine

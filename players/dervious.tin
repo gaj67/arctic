@@ -1,0 +1,13 @@
+#var player Dervious
+#var wep2 kryss
+#var wep1 elven.dagger
+#alias {wep} {rem lantern;wield $wep2 left}
+#alias {light} {rem $wep2;hold lantern}
+#alias lgac {light;gac;wep}
+#alias lgcc {light;gcc;wep}
+#alias {sn} {sneak;n;detect}
+#alias {ss} {sneak;s;detect}
+#alias {se} {sneak;e;detect}
+#alias {sw} {sneak;w;detect}
+#alias {sd} {sneak;d;detect}
+#alias {su} {sneak;u;detect}

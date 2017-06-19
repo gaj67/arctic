@@ -1,3 +1,10 @@
+- ring of swirling mist: blur but -11 hp
+- green metal ring: extra movement points
+- clear crystal helmet: extra spell slots
+- magic boots: fly
+- nephaline ring: dunno but -1 hp
+- emerald ring: +5 hp
+
 Object 'sextant'
  Item Type: WAND
  Mat Class: metal        Material: tin

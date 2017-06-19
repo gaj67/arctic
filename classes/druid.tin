@@ -1,0 +1,42 @@
+#alias ccl {cast 'cure light'}
+#alias ccs {cast 'cure serious'}
+#alias cp {cast 'barkskin' %1;cast 'blur' %1;csl %1;ci %1;cast 'iceskin' %1}
+#alias csl {cast 'sense life'}
+#alias cts {cast 'thorn spray'}
+#alias cbh {cast 'burning hands'}
+#alias ci {cast 'infravision'}
+#alias cs {cast 'sustenance'}
+#alias cef {cast 'elemental fist'}       
+#alias crp {cast 'remove poison'}
+#alias cfs {cast 'flame shroud'}
+#alias cr {cast 'refresh'}
+#alias cff {cast 'faerie fog'}
+#alias cff {cast 'faerie fire'}
+#alias cd {cast 'daze'}
+#alias cwb {cast 'water breath'}
+#alias cce {cast 'conjure elemental'}
+#alias ctp {cast 'temporal path'}
+#alias cc {cast 'calm'}
+#alias cf {cast 'fly'}
+#alias ct {cast 'tornado'}
+#var sylph sylph
+#act {Out of the smoke, an invisible stalker emerges} {#var sylph stalker}
+#act {Out of the smoke, a fire snake emerges} {#var sylph fire.snake}
+#act {Out of the smoke, a fire salamander emerges} {#var sylph fire.salamander}
+#act {Out of the smoke, a %1 emerges} {#var sylph %1}
+#act {transcends this world} {cce}
+#alias osa {order $sylph assist}
+#alias osk {order $sylph kill %1}
+#alias os {order $sylph}
+#alias ls {look $sylph}
+#alias bs {os r;bandage $sylph;os st}
+#alias pac {put all component}
+#act {You fumble and drop your weapon} {get $wep1;wield $wep1}
+#act {Your feeble rescue efforts} {rescue}
+#act {You suddenly notice that your body is in focus} {first_st;cast 'blur' me;then_r}
+#act {Your skin softens} {first_st;cast 'barkskin' me;then_r}
+#act {Your eyes sting slightly} {first_st;cast 'infravision' me;then_r}
+#act {You feel less aware of your surroundings} {first_st;cast 'sense life' me;then_r}
+#act {You feel your bond with nature} {#if {$fight<1} {first_r;comm;then_st};#if {$fight>0} {comm}}
+#act {You shiver as the icy layer melts} {first_st;cast 'iceskin' me;then_r}
+#act {You direct your attention} {osa}

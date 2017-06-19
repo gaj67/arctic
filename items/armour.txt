@@ -1,3 +1,43 @@
+ Object 'helm silver inlaid skull human'
+ Item Type: ARMOR
+ Mat Class: natural      Material: bone
+ Weight   : 5            Value   : 250
+
+ Effects  : DETECT_MAGIC INFRAVISION
+ Item is  : MAGIC
+ Apply    : 6
+
+ Object 'armor armour bark tree'
+ Item Type: ARMOR
+ Mat Class: wood         Material: oak
+ Weight   : 40           Value   : 1000
+
+ Affects  : RESIST_COLD   by 35
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE
+NOWHITE_ROBE
+ Immune   : IMMUNE_COLD
+ Apply    : 7
+
+ Object 'boots leather fine pair black'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 10           Value   : 130
+
+ Affects  : DEX           by 1
+ Affects  : MOVE          by 10
+ Item is  : MAGIC
+ Apply    : 4
+
+ Object 'boots woodsman's woodsman'
+ Item Type: ARMOR
+ Mat Class: leather      Material: hard_leather
+ Weight   : 12           Value   : 300
+
+ Item is  : MAGIC
+ Apply    : 6
+ This object is part of a larger set.
+
  Object 'armor armour leather black soft silent suit'
  Item Type: ARMOR
  Mat Class: leather      Material: rough_leather

@@ -7,6 +7,12 @@
 #alias {hs} {h s}
 #alias {hu} {h u}
 #alias {hd} {h d}
+#alias {sn} {sneak;n}
+#alias {ss} {sneak;s}
+#alias {se} {sneak;e}
+#alias {sw} {sneak;w}
+#alias {sd} {sneak;d}
+#alias {su} {sneak;u}
 #alias f {fade}
 #alias {fn} {sneak;fade n}
 #alias {fs} {sneak;fade s}

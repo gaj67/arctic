@@ -1,0 +1,7 @@
+#var player Devious
+#var wep2 kryss
+#var wep1 elven.dagger
+#alias {wep} {rem lantern;wield $wep2 left}
+#alias {light} {rem $wep2;hold lantern}
+#alias lgac {light;gac;wep}
+#alias lgcc {light;gcc;wep}

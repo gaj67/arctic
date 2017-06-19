@@ -1,0 +1,3 @@
+#alias ccl {cast 'cure light'}
+#act {You fumble and drop your weapon} {get $wep1;wield $wep1}
+#alias gg {n;n;w;s;w;u;n}

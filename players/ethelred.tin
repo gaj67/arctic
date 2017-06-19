@@ -1,8 +1,8 @@
 #var player Ethelred
-#var wep1 whip
-#var wep2 rapier
+#var wep1 dagger
+#var wep2 dagger
 #var light wrist
-#var food food
+#var food bread
 #act {You can't do that while on your mount} {dism}
 #act {You cannot reach it from your mount} {dism}
 #act {You can't do this from your mount} {dism}
