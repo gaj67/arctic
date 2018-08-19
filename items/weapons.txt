@@ -1,3 +1,62 @@
+Short-blades
+------------
+obsidian dagger - 3d5 (dagger obsidian)
+coral dagger etched with runes - 3d3 (dagger coral shard polished etched runes)
+elegant elven dagger - 2d6 (dagger elven elegant)
+wicked short sword - 2d6 (sword short steel wicked)
+dagger dark adamantite - 2d9
+sword short dark
+kryss - dagger kryss vicious
+dagger hilted ivory sharp steel
+jeweled dagger - 5D2
+slender stiletto - 3D3, HITROLL+1
+sharp dagger (bloody dagger of Tsu Wei) - +5 hp, 3D4, DAMROLL+2
+dark dagger - 2D4
+venom dagger - 2D6, DAMROLL+2, IMMUNE_POISON
+gold short sword - 2D5, HITROLL+1
+ruby inlaid dagger - 4D4, HITROLL+2, DAMROLL +2
+dagger crystal apatite elegant - 2D8, DEX+2
+------------
+Long-blades
+------------
+dark long sword - 2d6 (sword long dark)
+scimitar ebony black
+sword long odd
+glass sabre - 1D20, DEX+1, HITROLL+2, WIS+1
+sword crystalline crystal - 3D6, DAMROLL+1
+dark steel cutlass - 3D5
+razor sharp longsword - 3D5, DAMROLL+1, HITROLL+1
+
+------------
+Bludgeons
+------------
+hoopak stick
+club huge spiked
+mace heavy flanged
+hammer spiritual
+flail steel
+hammer copper heavy
+staff druidic - 3d5
+------------
+Misc
+------------
+flaming white whip - 3d4
+------------
+
+ Object 'whip white flaming'
+ Item Type: WEAPON
+ Mat Class: other        Material: gas_vapour
+ Weight   : 4            Value   : 400
+
+ Affects  : target resist by  8%
+ Affects  : spell slots   by +2 at level 3
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+NOSHAMAN
+ Immune   : IMMUNE_COLD IMMUNE_ELECTRICITY IMMUNE_HEAT
+ Class    : whip
+ Damage   : 3D4
+
  Object 'staff druidic'
  Item Type: WEAPON
  Mat Class: wood         Material: oak
@@ -160,3 +219,178 @@ You feel informed:
 NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
  Class    : short_sword
  Damage   : 3D5
+
+  Object 'dagger coral shard polished etched runes'
+ Item Type: WEAPON
+ Mat Class: natural      Material: bone
+ Weight   : 8            Value   : 120
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 3
+ Affects  : casting level by 1
+ Item is  : HUM MAGIC
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : dagger
+ Damage   : 3D3
+
+ Object 'dagger elven elegant'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 121
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : dagger
+ Damage   : 2D6
+
+ Object 'sword short steel wicked'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 100
+
+ Class    : short_sword
+ Damage   : 2D6
+
+  Object 'sword long dark'
+ Item Type: WEAPON
+ Mat Class: metal        Material: iron
+ Weight   : 10           Value   : 50
+
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : long_sword
+ Damage   : 2D6
+
+ Object 'sword glass sabre'
+ Item Type: WEAPON
+ Mat Class: crystal      Material: glass
+ Weight   : 7            Value   : 280
+
+ Affects  : DEX           by 1
+ Affects  : HITROLL       by 2
+ Affects  : WIS           by 1
+ Item is  : GLOW MAGIC
+ Restricts: NOMAGE NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : sabre
+ Damage   : 1D20
+
+ Object 'dagger sharp tsu wei'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 150
+
+ Affects  : HIT           by 5
+ Affects  : DAMROLL       by 2
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+NOSHAMAN
+ Class    : dagger
+ Damage   : 3D4
+
+ Object 'stiletto slender'
+ Item Type: WEAPON
+ Mat Class: metal        Material: tin
+ Weight   : 4            Value   : 100
+
+ Affects  : HITROLL       by 1
+ Item is  : GLOW MAGIC
+ Class    : stiletto
+ Damage   : 3D3
+
+ Object 'dagger silver dark'
+ Item Type: WEAPON
+ Mat Class: metal        Material: silver
+ Weight   : 4            Value   : 140
+
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : dagger
+ Damage   : 2D4
+
+ Object 'dagger noble's jeweled'
+ Item Type: WEAPON
+ Mat Class: metal        Material: gold
+ Weight   : 7            Value   : 75
+
+ Class    : dagger
+ Damage   : 5D2
+
+ Object 'sword crystalline crystal'
+ Item Type: WEAPON
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 12           Value   : 350
+
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC BLESS ANTI_EVIL
+ Immune   : IMMUNE_HEAT
+ Class    : long_sword
+ Damage   : 3D6
+
+  Object 'dagger venom'
+ Item Type: WEAPON
+ Mat Class: metal        Material: adamantite
+ Weight   : 9            Value   : 500
+
+ Affects  : DAMROLL       by 2
+ Effects  : IMMUNE_POISON
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOPALADIN NODRUID NOCLERIC NORANGER NOBARBARIAN NOSHAMAN
+ Class    : dagger
+ Damage   : 2D6
+The venom across the dagger sizzles with heat as you view it, sounding
+almost like the hissing of a snake.
+
+ Object 'cutlass dark steel'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 67
+
+ Class    : scimitar
+ Damage   : 3D5
+
+ Object 'sword short gold'
+ Item Type: WEAPON
+ Mat Class: metal        Material: gold
+ Weight   : 10           Value   : 100
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : short_sword
+ Damage   : 2D5
+
+  Object 'longsword sword sharp razor'
+ Item Type: WEAPON
+ Mat Class: metal        Material: adamantite
+ Weight   : 16           Value   : 650
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_DISINTEGRATION IMMUNE_ELECTRICITY IMMUNE_GAS IMMUNE_HEAT
+ Class    : long_sword
+ Damage   : 3D5
+
+  Object 'dagger inlaid ruby'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 5            Value   : 350
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE
+NOWHITE_ROBE NOSHAMAN
+ Class    : dagger
+ Damage   : 4D4
+
+  Object 'dagger crystal apatite elegant'
+ Item Type: WEAPON
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 8            Value   : 600
+
+ Affects  : DEX           by 2
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE
+NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ELECTRICITY
+ Class    : dagger
+ Damage   : 2D8
+

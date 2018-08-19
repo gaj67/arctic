@@ -24,6 +24,12 @@
 #alias agcc {#act {The death cry} {gcc}}
 #alias ngcc {#act {The deaty cry} {grin}}
 #alias lif {look in flask}
+#alias wwep {get %1 $belt;wield %1;#var wep1 %1}
+#alias rwep {rem %1;put %1 $belt}
+#alias gwb {get %1 $belt;wield %1;#var wep1 %1}
+#alias pwb {rem %1;put %1 $belt}
+#alias gwp {get %1 $pouch;wield %1;#var wep1 %1}
+#alias pwp {rem %1;put %1 $pouch}
 #act {A pile of steel coins} {gc}
 #act {You wince as you} {ban me}
 #act {You are hungry} {eat $food}
@@ -72,5 +78,21 @@
 #alias then_st {#if {$was_standing>0} {stand;#var was_standing 0}}
 #act {%% %1C} {#var coins %1}
 #alias pcb {put $coins coins $belt}
-#act {You start using the %1.} {#var wep %1}
-#act {You unfurl the whip} {#var wep whip}
+#act {You start using the %1.} {#var wep1 %1}
+#act {You start using the %1 as a secondary weapon.} {#var wep2 %1}
+#act {You unfurl the whip} {#var wep1 whip}
+#act {The death cry of} {gcc}
+#act {You are sent sprawling} {st}
+#alias ww {gwp whip;cpoff}
+#alias rw {pwp whip}
+#alias wh {gwp hammer;cpoff}
+#alias rh {pwp hammer}
+#alias wsp {gwp spear;cpoff}
+#alias rsp {pwp spear}
+#alias wst {gwp staff;cpoff}
+#alias rst {pwp staff}
+#alias ws {gwp sword;cpoff}
+#alias rs {pwp sword}
+#alias wd {gwb dagger;cpon}
+#alias rd {pwb dagger}
+#act {You can't use a two-handed weapon} {rem $wep2; put $wep2 belt;wield $wep1}

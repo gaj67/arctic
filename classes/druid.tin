@@ -1,6 +1,6 @@
 #alias ccl {cast 'cure light'}
 #alias ccs {cast 'cure serious'}
-#alias cp {cast 'barkskin' %1;cast 'blur' %1;csl %1;ci %1;cast 'iceskin' %1}
+#alias cp {cast 'barkskin' %1;cast 'blur' %1;csl %1;ci %1;cast 'iceskin' %1;cast 'fly' %1}
 #alias csl {cast 'sense life'}
 #alias cts {cast 'thorn spray'}
 #alias cbh {cast 'burning hands'}
@@ -37,6 +37,8 @@
 #act {Your skin softens} {first_st;cast 'barkskin' me;then_r}
 #act {Your eyes sting slightly} {first_st;cast 'infravision' me;then_r}
 #act {You feel less aware of your surroundings} {first_st;cast 'sense life' me;then_r}
-#act {You feel your bond with nature} {#if {$fight<1} {first_r;comm;then_st};#if {$fight>0} {comm}}
+#act {You feel your bond with nature} {comm}
 #act {You shiver as the icy layer melts} {first_st;cast 'iceskin' me;then_r}
 #act {You direct your attention} {osa}
+#act {You feel much heavier} {cast 'fly' me}
+#act {returns to the elements} {cast 'stratification';wield staff}

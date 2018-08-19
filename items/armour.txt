@@ -142,3 +142,48 @@ NOBARBARIAN NOSHAMAN
  Affects  : ARMOR         by -3
  Item is  : EVIL MAGIC
 
+ Object 'footpads pads'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 2            Value   : 45
+
+ Affects  : MOVE          by -7
+ Effects  : SNEAK
+ Item is  : INVISIBLE
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 3
+
+ Object 'robe grey dark'
+ Item Type: WORN
+ Mat Class: cloth        Material: wool
+ Weight   : 4            Value   : 95
+
+ Affects  : CON           by -1
+ Effects  : INVISIBLE
+ Immune   : IMMUNE_HEAT
+
+ Object 'ring copper small'
+ Item Type: WORN
+ Mat Class: metal        Material: copper
+ Weight   : 2            Value   : 3
+
+ Affects  : ARMOR         by -2
+
+  Object 'cloak skin demon'
+ Item Type: WORN
+ Mat Class: natural      Material: organic
+ Weight   : 8            Value   : 220
+
+ Affects  : SAVING_PARA   by -1
+ Item is  : MAGIC
+
+ Object 'gauntlets power ogre'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 500
+
+ Affects  : STR           by 1
+ Affects  : ARMOR         by -8
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5

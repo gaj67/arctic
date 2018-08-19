@@ -1,5 +1,5 @@
 #var player Ethelred
-#var wep1 dagger
+#var wep1 razor.longsword
 #var wep2 dagger
 #var light wrist
 #var food bread
@@ -11,3 +11,13 @@
 #act {You are hungry} {cs me}
 #act {You are thirsty} {cs me}
 #alias k {kill %1 %2;osa}
+#var belt belt
+#alias wc {wwep club}
+#alias rc {rwep club}
+#alias wd {wwep short.sword}
+#alias rd {rwep short.sword}
+#alias ww {wwep whip}
+#alias rw {rwep whip}
+#alias ws {wwep long.sword}
+#alias rs {rwep long.sword}
+#tic sav com
